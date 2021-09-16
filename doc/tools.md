@@ -8,7 +8,9 @@ Nous utilisons la suite d’outils Google Apps. Celle-ci facilite le travail col
 - **Google Chat**, l’application de discussion instantanée. Elle nous permet de centraliser l’ensemble de nos échanges.
 - **Google Agenda**, un calendrier collaboratif répertoriant l’ensemble des événements de la coopérative (congés, rendez-vous, événements, démarrage de nouvelles missions, formations…) ;
 - **Google Drive**, pour stocker et partager des documents avec les membres de l’équipe. Depuis le drive d’équipe, vous trouverez l’accès à différents dossiers : assemblées générales, ateliers internes, documents type, cvthèque, suivi des stagiaires ;
-- **Google Docs**, la suite bureautique en ligne permettant de créer des documents textuels, des feuilles de calcul ou encore des présentations sous forme de diapositives. Pour des raisons de sécurité, l’activation de la double authentification sur votre compte Google Apps est obligatoire. Vous serez ainsi amené(e) à saisir un code de validation en complément de votre nom d’utilisateur et de votre mot de passe. Vous avez un souci avec votre compte Google professionnel ? Rapprochez-vous d’Olivier (olivier@les-tilleuls.coop).
+- **Google Docs**, la suite bureautique en ligne permettant de créer des documents textuels, des feuilles de calcul ou encore des présentations sous forme de diapositives.
+
+**Pour des raisons de sécurité, l’activation de la double authentification sur votre compte Google Apps est obligatoire.** Vous serez ainsi amené(e) à saisir un code de validation en complément de votre nom d’utilisateur et de votre mot de passe. Vous avez un souci avec votre compte Google professionnel ? Rapprochez-vous d’Olivier (olivier@les-tilleuls.coop).
 
 ## Index général
 

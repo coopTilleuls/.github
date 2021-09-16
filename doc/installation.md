@@ -4,6 +4,8 @@
 
 ### Linux
 
+Install
+
 ```bash
 sudo add-apt-repository ppa:ondrej/php
 sudo apt install curl make \
@@ -19,16 +21,19 @@ sudo snap install --classic phpstorm \
 sudo usermod -aG docker $USER  # you will need to restart your session
 ```
 
-- todo: oh-my-zsh (+plugins)
+- [oh-my-zsh](https://ohmyz.sh/) or alternatives
 
 ### Mac
 
-- iTerm
+> à compléter
+
+- [iTerm](https://iterm2.com/)
 - [Brew](https://brew.sh/)
+- [Docker](https://docs.docker.com/desktop/mac/install/)
 
 ## dotfiles
 
-(to update) [Sample dotfiles here](https://github.com/eliseduverdier/dotfiles)
+- [handly lists of aliases](/dotfiles/.aliases) to add to `.bashrc` or `.zshrc`
 
 ## Git
 
@@ -46,7 +51,6 @@ git config --global alias.merge "merge --no-ff"
 ### Add SSH key [docs](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification)
 
 ```bash
-sudo apt-get install xclip
 ssh-keygen -t ed25519 -C "name@les-tilleuls.coop"
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_ed25519
@@ -64,15 +68,15 @@ gpg --list-secret-keys --keyid-format=long
 			------------------------------
 			sec   rsa3072/ABCD000-THE-KEY-00000 2021-09-06 [SC] [expires: 2023-09-06]
 			      ABCD000000000ABCD000-THE-KEY-00000
-			uid                 [ultimate] MName  <name@les-tilleuls.coop>
+			uid                 [ultimate] Name  <name@les-tilleuls.coop>
 			ssb   rsa3072/6E045DB94B4CB3BE 2021-09-06 [E] [expires: 2023-09-06]
 git config --global user.signingkey ABCD000-THE-KEY-00000
-gpg --armor --export ABCD000-THE-KEY-00000 xclip -selection clipboard
+gpg --armor --export ABCD000-THE-KEY-00000 | xclip -selection clipboard
 ```
 
 Then copy the key on github [here](https://github.com/settings/gpg/new)
 
-### gitignore
+### .gitignore global
 
 ```bash
 wget https://gist.githubusercontent.com/octocat/9257657/raw/3f9569e65df83a7b328b39a091f0ce9c6efc6429/.gitignore -O ~/.gitignore_global
@@ -81,12 +85,8 @@ git config --global core.excludesfile ~/.gitignore_global
 
 Ajouter les `.idea`, `*.workspace`, etc
 
-## plugins
+---
 
-### phpstorm
+> à completer
 
-symfony / ideavim ...
-
-### vscode
-
-eslint / intelephense / ...
+- [] plugins pour phpstorm / vscode

@@ -1,13 +1,13 @@
 # Historique
 
-Les-Tilleuls.coop est une Société coopérative et participative (SARL SCOP) co-fondée par Kévin Dunglas, Joad Martin et François-Henri Vasseur en décembre 2011.
+Les-Tilleuls.coop est une **Société coopérative et participative** (SARL SCOP) co-fondée par Kévin Dunglas, Joad Martin et François-Henri Vasseur en décembre 2011.
 
-Répartis en 3 pôles (développement, expertise et formation) et spécialistes API, web et cloud, les salariés de Les-Tilleuls.coop conçoivent, auditent et développent des applications web et mobiles ainsi que des plates-formes e-commerce.
+**Répartis en 3 pôles (développement, expertise et formation) et spécialistes API, web et cloud**, les salariés de Les-Tilleuls.coop conçoivent, auditent et développent des applications web et mobiles ainsi que des plates-formes e-commerce.
 
-Créateurs du framework API Platform, les coopérateurs de Les-Tilleuls.coop sont auteurs de nombreuses publications et contribuent activement aux logiciels libres tels que PHP. net ou Symfony. Les langages et technologies JavaScript (React, Vue), PHP, Docker et Kubernetes ont également peu de secrets pour eux.
-Les-Tilleuls.coop met ses compétences au service de PME comme de grands comptes à l’image d’Adeo (ex Leroy Merlin), Orange, Decathlon, Citiz, Alice’s Garden, 24 Sèvres ou encore France Télévisions.
+Créateurs du framework **API Platform**, les coopérateurs de Les-Tilleuls.coop sont auteurs de nombreuses publications et contribuent activement aux logiciels libres tels que PHP. net ou Symfony. Les langages et technologies JavaScript (React, Vue), PHP, Docker et Kubernetes ont également peu de secrets pour eux.
+Les-Tilleuls.coop met ses compétences au service de PME comme de grands comptes à l’image d’**Adeo (ex Leroy Merlin), Orange, Decathlon, Citiz, Alice’s Garden, 24 Sèvres ou encore France Télévisions**.
 
-La société Les-Tilleuls.coop est également reconnue comme un centre de formation professionnelle spécialiste du développement logiciel. Les formations dispensées chez Masterclass by Les-Tilleuls.coop sont de tous niveaux et sont éligibles à des financements par des organismes (OPCA, AFPL).
+La société Les-Tilleuls.coop est également reconnue comme un **centre de formation professionnelle spécialiste du développement logiciel**. Les formations dispensées chez Masterclass by Les-Tilleuls.coop sont de tous niveaux et sont éligibles à des financements par des organismes (OPCA, AFPL).
 
 # Le projet social
 

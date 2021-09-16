@@ -16,7 +16,7 @@ Si la liberté de ton est importante chez Les-Tilleuls, tout propos ou acte sexi
 Les délégués du personnel :
 
 - Grégory Copin
-- ??? (suppléant)
+- \_ (suppléant à nommer)
 - Clément Talleu
 
 Le responsable RH :

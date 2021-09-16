@@ -1,0 +1,76 @@
+#########################################
+#                                       #
+#        .aliases                       #
+#                                       #
+#########################################
+
+### basic
+alias mv='mv -i'
+alias cp='cp -i'
+
+alias .='source'
+
+alias l='ls -h1sF --group-directories-first'    # default
+alias ll='ls -lhF --group-directories-first'    # list
+alias la='ls -Ah1sF --group-directories-first'  # hidden
+alias lt='ls -lrtF'                             # last modified
+
+mkcd(){
+    mkdir $1 && cd $1
+}
+# nav
+alias cd.='cd ..'
+alias cd..='cd ..'
+alias cd...='cd ../..'
+alias cd....='cd ../../..'
+
+alias diff='diff -u0 -w'
+
+alias du='du -sh'
+alias dusort='du -sh * | sort -hr'
+
+# short
+alias inst='sudo apt install'
+alias abspath='readlink -e'
+alias jsonview="python -m json.tool"
+mdview() {
+  markdown "$1" | lynx -stdin
+}
+alias passphrase="grep '^[a-z]*$' /usr/share/dict/british-english|shuf| head -n4|tr '\n' ' '"
+
+# specific
+alias ifit='lpr -o fit-to-page'     # print and fit
+alias deltemp='rm *~'
+svg2png () {
+  inkscape -z -e $1.png $1.svg
+}
+ex () { # stolen from (?)
+  if [ -f $1 ] ; then
+      case $1 in
+          *.tar.bz2)   tar xvjf $1    ;;
+          *.tar.gz)    tar xvzf $1    ;;
+          *.bz2)       bunzip2 $1     ;;
+          *.rar)       unrar x $1     ;;
+          *.gz)        gunzip $1      ;;
+          *.tar)       tar xvf $1     ;;
+          *.tbz2)      tar xvjf $1    ;;
+          *.tgz)       tar xvzf $1    ;;
+          *.zip)       unzip $1       ;;
+          *.Z)         uncompress $1  ;;
+          *.7z)        7z x $1        ;;
+          *.exe)       cabextract $1  ;;
+          *)           echo "'$1': unrecognized file compression" ;;
+      esac
+  else
+      echo "'$1' is not a valid file"
+  fi
+}
+
+alias :e='vim'
+alias aliases='vi ~/.aliases'
+alias zshrc='vi ~/.zshrc'
+alias vimrc='vi ~/.vimrc'
+
+
+alias nom="npm"
+alias sf='php bin/console'

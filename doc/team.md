@@ -1,6 +1,6 @@
 # L’équipe
 
-L’équipe que vous rejoignez aujourd’hui est composée actuellement de 51 salariés :
+L’équipe que vous rejoignez aujourd’hui est composée actuellement de 55 salariés :
 
 | Nom                     | Rôle                                            | Lieu        | Mail                                     |
 | ----------------------- | ----------------------------------------------- | ----------- | ---------------------------------------- |
