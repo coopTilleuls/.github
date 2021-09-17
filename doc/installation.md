@@ -33,7 +33,7 @@ sudo usermod -aG docker $USER  # you will need to restart your session
 
 ## dotfiles
 
-- [handly lists of aliases](/dotfiles/.aliases) to add to `.bashrc` or `.zshrc`
+- [handy lists of aliases](/dotfiles/.aliases) to add to `.bashrc` or `.zshrc`
 
 ## Git
 
@@ -48,7 +48,7 @@ git config --global alias.pull "pull --rebase"
 git config --global alias.merge "merge --no-ff"
 ```
 
-### Add SSH key [docs](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification)
+### Add SSH key ([docs](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification))
 
 ```bash
 ssh-keygen -t ed25519 -C "name@les-tilleuls.coop"
@@ -59,7 +59,7 @@ xclip -selection clipboard < ~/.ssh/id_ed25519.pub
 
 Copy the key on github [here](https://github.com/settings/ssh/new)
 
-### Add GPG key [docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)
+### Add GPG key ([docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work))
 
 ```bash
 gpg --gen-key
@@ -87,6 +87,9 @@ Ajouter les `.idea`, `*.workspace`, etc
 
 ---
 
-> à completer
+## Configurations code editors
 
-- [] plugins pour phpstorm / vscode
+> à compléter en fonction de back/front
+
+- Plugins pour phpstorm (symfony / ...)
+- Plugins pour vscode (jslint / intelephense / ...)
