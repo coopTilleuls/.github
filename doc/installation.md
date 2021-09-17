@@ -101,4 +101,4 @@ Ajouter les `.idea`, `*.workspace`, etc
 > à compléter en fonction de back/front
 
 - Plugins pour PHPStorm : Symfony / PHP Toolbox / PHP Inspections / IdeaVim
-- Plugins pour VS Code : jslint / intelephense
+- Plugins pour VS Code : eslint / intelephense
