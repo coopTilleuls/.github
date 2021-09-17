@@ -19,8 +19,8 @@ L’équipe que vous rejoignez aujourd’hui est composée actuellement de 55 sa
 | Antoine Bluchet         | développeur back-end                            | Nantes      | antoine@les-tilleuls.coop                |
 | Pascal Borreli          | consultant                                      | Paris       | pascal@les-tilleuls.coop                 |
 | Valentin Bout           | développeur front-end                           | Lille       | valentin@les-tilleuls.coop               |
-| Antoine Cau             | developpeur                                     | Lille       | antoine.cau@les-tilleuls.coop            |
-| Vincent Chalamon        | lead developpeur                                | Lille       | vincent@les-tilleuls.coop                |
+| Antoine Cau             | développeur                                     | Lille       | antoine.cau@les-tilleuls.coop            |
+| Vincent Chalamon        | lead développeur                                | Lille       | vincent@les-tilleuls.coop                |
 | Robin Chalas            | consultant                                      | Lyon        | robin@les-tilleuls.coop                  |
 | Raoul Clais             | développeur back-end                            | Paris       | raoul@les-tilleuls.coop                  |
 | Sylvain Combraque       | développeur back-end                            | Lille       | sylvain@les-tilleuls.coop                |
@@ -34,21 +34,21 @@ L’équipe que vous rejoignez aujourd’hui est composée actuellement de 55 sa
 | Saif Eddin Gmati        | développeur back-end                            | Tunis       | saif@les-tilleuls.coop                   |
 | Margaux Feslard         | développeuse back-end                           | Lille       | margaux@les-tilleuls.coop                |
 | Vincent Fuger           | développeur back-end                            | Lille       | vincent.fuger@les-tilleuls.coop          |
-| Arnaud Frézet           | développeur back-end                            | Lyon)       | arnaud@les-tilleuls.coop                 |
+| Arnaud Frézet           | développeur back-end                            | Lyon        | arnaud@les-tilleuls.coop                 |
 | Cécile Helary Hamerel   | chargée de marketing et communication           | Lille       | cecile@les-tilleuls.coop                 |
 | Grégoire Hébert         | développeur back-end & co-gérant de Masterclass | Lille       | gregoire@les-tilleuls.coop               |
 | Frédéric Jost           | développeur back-end                            | Lille       | frederic@les-tilleuls.coop               |
 | Albin Kester            | développeur back-end                            | Nantes      | albin@les-tilleuls.coop                  |
 | Fabien Kovacic          | développeur front-end                           | Lille       | fabien@les-tilleuls.coop                 |
 | Mathilde Krogulec       | commerciale                                     | Lyon        | mathilde@les-tilleuls.coop               |
-| Paul-Joseph Krogulec    | developpeur                                     | Lyon        | paul-joseph@les-tilleuls.coop            |
+| Paul-Joseph Krogulec    | développeur                                     | Lyon        | paul-joseph@les-tilleuls.coop            |
 | Jacques Lefebvre        | développeur back-end                            | Lille       | jacques@les-tilleuls.coop                |
 | Marc Lemay              | développeur back-end                            | Nantes      | marc@les-tilleuls.coop                   |
 | Olivier Lenancker       | directeur financier                             | Lille       | olivier@les-tilleuls.coop                |
-| Baptiste Meyer          | lead developpeur                                | Lille       | baptiste@les-tilleuls.coop               |
-| Nicolas Philippe        | lead developpeur                                | Lyon        | baptistenicolas@les-tilleuls.coop        |
+| Baptiste Meyer          | lead développeur                                | Lille       | baptiste@les-tilleuls.coop               |
+| Nicolas Philippe        | lead développeur                                | Lyon        | baptistenicolas@les-tilleuls.coop        |
 | Souriya Phongsavanh     | développeur front-end                           | Lille       | souriya@les-tilleuls.coop                |
-| Alan Poulain            | lead developpeur                                | Paris       | alan@les-tilleuls.coop                   |
+| Alan Poulain            | lead développeur                                | Paris       | alan@les-tilleuls.coop                   |
 | Pierre Rebeilleau       | développeur back-end                            | Lille       | pierre@les-tilleuls.coop                 |
 | Cécile Ropital          | consultante et cheffe de projet                 | Lille       | cecile.ropital@les-tilleuls.coop         |
 | Laury Sorriaux          | développeuse front-end                          | Lille       | laury@les-tilleuls.coop                  |
