@@ -28,18 +28,17 @@ sudo usermod -aG docker $USER  # you will need to restart your session
 Installer [Brew](https://brew.sh/) puis (sélectionnez uniquement les outils qui vous intéressent suivant le(s) langage(s) que vous utilisez):
 
 	brew tap homebrew/cask-fonts
-	brew install zsh curl neovim \
-		php composer git php-cs-fixer \
-		node \
+	brew install git zsh curl node neovim \
+		php composer php-cs-fixer \
 		minikube helm doctl \
 		go golangci-lint goreleaser
     	brew install --cask \
 		firefox google-chrome iterm2 font-fira-code-nerd-font docker jetbrains-toolbox gpg-suite \
-		zoom microsoft-teams slack discord \
 		visual-studio-code \
-		lens
+		lens \
+		zoom microsoft-teams slack discord
 
-Installer [oh-my-zsh](https://ohmyz.sh/) et configurer iTerm pour utiliser une Nerd Font.
+Installer [oh-my-zsh](https://ohmyz.sh/) et configurer iTerm pour utiliser une Nerd Font (optionnellement, activer les ligatures).
 
 ## dotfiles
 
