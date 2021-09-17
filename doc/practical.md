@@ -66,7 +66,7 @@ Lors de vos déplacements professionnels, Thomas ou Cécile peuvent réserver vo
 
 Si vous êtes amené·e à effectuer des déplacements réguliers, une carte SNCF Liberté vous sera délivrée afin que vous puissiez bénéficier de tarifs attractifs lors de la réservation.
 
-Paris & Nantes : vous avez une demande particulière ? N’hésitez pas à demander à Cécile cecile@les-tilleuls.coop de vous aider, votre matériel sera alors livré dans au bureau où vous êtes rattaché.
+Paris & Nantes : vous avez une demande particulière ? N’hésitez pas à demander à Cécile cecile@les-tilleuls.coop de vous aider, votre matériel sera alors livré au bureau où vous êtes rattaché.
 
 ## Tri sélectif
 
