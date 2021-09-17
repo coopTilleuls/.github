@@ -27,12 +27,12 @@ sudo usermod -aG docker $USER  # you will need to restart your session
 
 Installer [Brew](https://brew.sh/) puis (sélectionnez uniquement les outils qui vous intéressent suivant le(s) langage(s) que vous utilisez):
 
-	brew tap homebrew/cask-fonts \
+	brew tap homebrew/cask-fonts
 	brew install zsh curl neovim \
 		php composer git php-cs-fixer \
 		node \
 		minikube helm doctl \
-		go golangci-lint goreleaser \
+		go golangci-lint goreleaser
     	brew install --cask \
 		firefox google-chrome iterm2 font-fira-code-nerd-font docker jetbrains-toolbox gpg-suite \
 		zoom microsoft-teams slack discord \
