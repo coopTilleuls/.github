@@ -1,4 +1,4 @@
-# 👋️ Bienvenue sur le Gihub des Tilleuls !
+# 👋️ Bienvenue sur le Github des Tilleuls !
 
 <img src="public/img/logo.svg" width=400 alt="Les-Tilleuls.coop">
 
