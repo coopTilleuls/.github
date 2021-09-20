@@ -1,4 +1,4 @@
-# 👋️ This is the Tilleuls cooperative Gihub, welcome !
+# 👋️ This is the "Tilleuls" cooperative Github, welcome !
 
 <img align="right" src="public/img/tree.svg" height="250px" alt="les-tilleuls.coop logo tree">
 
