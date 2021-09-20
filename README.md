@@ -1,6 +1,6 @@
 # 👋️ Bienvenue sur le Github des Tilleuls !
 
-<img src="public/img/logo.svg" width=400 alt="Les-Tilleuls.coop">
+<img align="right" src="public/img/tree.svg" height="250px" alt="arbre du logo les-tilleuls.coop">
 
 Les-Tilleuls.coop est une **Société coopérative et participative**. Vous trouverez ici toute notre documentation interne et autres informations utiles.
 
