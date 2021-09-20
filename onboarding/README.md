@@ -11,4 +11,3 @@ Vous y trouverez ainsi la réponse à bon nombre de vos interrogations. Toutefoi
 ---
 
 - [💻️ Installation et configurations](installation.md)
-- [🔑️ Accès](acces.md) <!-- a passer en privé -->
