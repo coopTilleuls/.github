@@ -30,7 +30,7 @@ alias du='du -sh'
 alias dusort='du -sh * | sort -hr'
 
 # short
-alias inst='sudo apt install'
+alias i='sudo apt install'
 alias abspath='readlink -e'
 alias jsonview="python -m json.tool"
 mdview() {

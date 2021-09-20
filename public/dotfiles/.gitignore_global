@@ -1,0 +1,82 @@
+###################
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+############
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+######################
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+######################
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+.*.swp
+
+#######
+# IDE #
+#######
+nbproject   # for NetBeans
+.idea       # for *Storm
+.vscode     # for VScode
+.project
+.buildpath
+.setting/org.eclipse.php.core.prefs
+.settings/org.eclipse.wst.common.project.facet.core.xml
+
+###########
+# Symfony #
+###########
+./bin/symfony_requirements
+
+###############
+# SASS / LESS #
+###############
+.sass-cache/
+
+##############
+# NPM / YARN #
+##############
+npm-debug.log
+node_modules/
+npm-shrinkwrap.json
+
+##########
+# DOCKER #
+##########
+docker-compose.override.yml
+
+#########
+# Other #
+#########
+issue.md
+todo.md

@@ -27,16 +27,16 @@ sudo usermod -aG docker $USER  # you will need to restart your session
 
 Installer [Brew](https://brew.sh/) puis (sélectionnez uniquement les outils qui vous intéressent suivant le(s) langage(s) que vous utilisez):
 
-	brew tap homebrew/cask-fonts
-	brew install git zsh curl node neovim \
-		php composer php-cs-fixer \
-		minikube helm doctl \
-		go golangci-lint goreleaser
+    brew tap homebrew/cask-fonts
+    brew install git zsh curl node neovim \
+    	php composer php-cs-fixer \
+    	minikube helm doctl \
+    	go golangci-lint goreleaser
     	brew install --cask \
-		firefox google-chrome iterm2 font-fira-code-nerd-font docker jetbrains-toolbox gpg-suite \
-		visual-studio-code \
-		lens \
-		zoom microsoft-teams slack discord
+    	firefox google-chrome iterm2 font-fira-code-nerd-font docker jetbrains-toolbox gpg-suite \
+    	visual-studio-code \
+    	lens \
+    	zoom microsoft-teams slack discord
 
 Installer [oh-my-zsh](https://ohmyz.sh/) et configurer iTerm pour utiliser une Nerd Font (optionnellement, activer les ligatures).
 
@@ -88,7 +88,7 @@ gpg --armor --export ABCD000-THE-KEY-00000 | xclip -selection clipboard
 ### .gitignore global
 
 ```bash
-wget https://gist.githubusercontent.com/octocat/9257657/raw/3f9569e65df83a7b328b39a091f0ce9c6efc6429/.gitignore -O ~/.gitignore_global
+wget https://raw.githubusercontent.com/coopTilleuls/onboarding/main/public/dotfiles/.aliases -O ~/.gitignore_global
 git config --global core.excludesfile ~/.gitignore_global
 ```
 
