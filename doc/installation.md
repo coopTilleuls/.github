@@ -25,11 +25,20 @@ sudo usermod -aG docker $USER  # you will need to restart your session
 
 ### Mac
 
-> à compléter
+Installer [Brew](https://brew.sh/) puis (sélectionnez uniquement les outils qui vous intéressent suivant le(s) langage(s) que vous utilisez):
 
-- [iTerm](https://iterm2.com/)
-- [Brew](https://brew.sh/)
-- [Docker](https://docs.docker.com/desktop/mac/install/)
+	brew tap homebrew/cask-fonts
+	brew install git zsh curl node neovim \
+		php composer php-cs-fixer \
+		minikube helm doctl \
+		go golangci-lint goreleaser
+    	brew install --cask \
+		firefox google-chrome iterm2 font-fira-code-nerd-font docker jetbrains-toolbox gpg-suite \
+		visual-studio-code \
+		lens \
+		zoom microsoft-teams slack discord
+
+Installer [oh-my-zsh](https://ohmyz.sh/) et configurer iTerm pour utiliser une Nerd Font (optionnellement, activer les ligatures).
 
 ## dotfiles
 
@@ -57,9 +66,9 @@ ssh-add ~/.ssh/id_ed25519
 xclip -selection clipboard < ~/.ssh/id_ed25519.pub
 ```
 
-Copy the key on github [here](https://github.com/settings/ssh/new)
+[Copy the key on GitHub](https://github.com/settings/ssh/new)
 
-### Add GPG key ([docs](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work))
+### Add GPG key ([docs](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification))
 
 ```bash
 gpg --gen-key
@@ -74,7 +83,7 @@ git config --global user.signingkey ABCD000-THE-KEY-00000
 gpg --armor --export ABCD000-THE-KEY-00000 | xclip -selection clipboard
 ```
 
-Then copy the key on github [here](https://github.com/settings/gpg/new)
+[Then copy the key on GitHub](https://github.com/settings/gpg/new)
 
 ### .gitignore global
 
@@ -91,5 +100,5 @@ Ajouter les `.idea`, `*.workspace`, etc
 
 > à compléter en fonction de back/front
 
-- Plugins pour phpstorm (symfony / ...)
-- Plugins pour vscode (jslint / intelephense / ...)
+- Plugins pour PHPStorm : Symfony / PHP Toolbox / PHP Inspections / IdeaVim
+- Plugins pour VS Code : eslint / intelephense
