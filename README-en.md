@@ -1,6 +1,6 @@
-# 👋️ This is the Tilleuls cooperative Gihub, welcome !
+# 👋️ This is the "Tilleuls" cooperative Github, welcome !
 
-<img src="public/img/logo.svg" width=400 alt="Les-Tilleuls.coop">
+<img align="right" src="public/img/tree.svg" height="250px" alt="les-tilleuls.coop logo tree">
 
 Here you'll find all of our internal documentation
 
