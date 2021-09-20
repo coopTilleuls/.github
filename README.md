@@ -1,23 +1,16 @@
-# Bienvenue aux Tilleuls !
+# 👋️ Bienvenue sur le Gihub des Tilleuls !
 
-<!-- ![Welcome](img/welcome.gif) -->
+<img src="public/img/logo.svg" width=400 alt="Les-Tilleuls.coop">
 
-Cette documentation a été conçue spécialement pour accompagner vos premiers pas dans l’entreprise. Afin que votre intégration se déroule dans des conditions optimales, nous y avons rassemblé les informations essentielles sur votre nouvel environnement professionnel.
+Les-Tilleuls.coop est une **Société coopérative et participative**. Vous trouverez ici toute notre documentation interne et autres informations utiles.
 
-Vous y trouverez ainsi la réponse à bon nombre de vos interrogations. Toutefois, si certaines zones d’ombres venaient à persister, n’hésitez pas à vous adresser directement à l’un des membres de l’équipe.
-
-**_Bienvenue et bonne lecture !_**
-
----
-
-- [:deciduous_tree: Les tilleuls: historique et fonctionnement](doc/tilleuls.md)
-- [:factory: Les SCOP](doc/scop.md)
-- [:people_holding_hands: L’équipe](doc/team.md)
-- [:handshake: Code de conduite](doc/code_of_conduct.md)
-- [:email: Contacts](doc/contact.md)
-- [:card_index_dividers: Les outils](doc/tools.md)
-- [:bookmark_tabs: Informations pratiques](doc/practical.md)
+- [🌳️ Présentation de la SCOP](scop/README.md)
+- [🪜 Titre de programmers et grille de salaire](titles/README.md)
+- [🚞️ Guide d'onboarding](onboarding/README.md)
+- [💫️ Bonnes pratiques](best-practices/README.md)
+- [📰️ Kit de press](press-kit/README.md)
+- [🎨️ Styleguide](styleguide/README.md)
 
 ---
 
-- [:computer: Installation et configurations](doc/installation.md)
+Cette documentation est inspirée de celles de [Basecamp](https://github.com/basecamp/handbook), et [24eme](https://github.com/24eme)

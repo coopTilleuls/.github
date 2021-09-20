@@ -1,0 +1,22 @@
+[user]
+    name = Lastname Firstname
+    email = my-email@les-tilleuls.coop
+[color]
+    ui = true
+[core]
+    autocrlf = input
+    ignorecase = false
+    editor = vim
+    excludesfile = ~/.gitignore_global
+[alias]
+    pull = pull --rebase
+    merge = merge --no-ff
+    reset = reset --hard HEAD
+    undo = reset --soft HEAD~1
+[pager]
+    branch = false
+    config = false
+    tag = false
+
+[includeIf "gitdir:~/w/perso/"]
+    path = ~/.gitconfig_perso
