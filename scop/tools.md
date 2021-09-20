@@ -14,7 +14,7 @@ Nous utilisons la suite d’outils Google Apps. Celle-ci facilite le travail col
 
 ## Index général
 
-Vous pouvez consulter [l’index général ici](https://docs.google.com/document/d/1bOFmYTTth8Yq3SmKGM8YzXu-abe-_nrZteZDkmZK0GY/edit) pour retrouver différentes informations :
+Vous pouvez consulter [🔒 l’index général ici](https://docs.google.com/document/d/1bOFmYTTth8Yq3SmKGM8YzXu-abe-_nrZteZDkmZK0GY/edit) pour retrouver différentes informations :
 
 - Les accès à différentes interfaces ;
 - Le calendrier des disponibilités et des prospects ;
@@ -32,8 +32,7 @@ Cet outil est axé sur la sociabilité du développement web. Il offre de nombre
 Tout comme sur votre compte Google Apps, **l’activation de la validation en deux étapes est obligatoire sur votre compte GitHub**.
 Nous vous demanderons à votre arrivée votre pseudonyme Github pour vous ajouter à notre team.
 
-Autre point, pour pouvoir signer et certifier vos commits, pensez à ajouter vos clés GPG
-via cette page : [Voir la doc d'installation](/doc/installation.md)
+Autre point, pour pouvoir signer et certifier vos commits, pensez à ajouter vos clés GPG via cette page : [Voir la doc d'installation](/doc/installation.md)
 
 ## Loomio
 

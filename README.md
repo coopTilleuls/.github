@@ -1,4 +1,4 @@
-# 👋️ Bienvenue sur le Github des Tilleuls !
+# 👋️ Bienvenue sur le GitHub des Tilleuls !
 
 <img align="right" src="public/img/tree.svg" height="250" alt="arbre du logo les-tilleuls.coop">
 
@@ -8,8 +8,10 @@ Les-Tilleuls.coop est une **Société coopérative et participative**. Vous trou
 - [🧙️ Titre de programmers et grille de salaire](titles/README.md)
 - [🚞️ Guide d’onboarding](onboarding/README.md)
 - [💫️ Bonnes pratiques](best-practices/README.md)
+<!-- WIP :
 - [📰️ Kit de press](press-kit/README.md)
 - [🎨️ Styleguide](styleguide/README.md)
+  -->
 
 ---
 

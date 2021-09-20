@@ -12,7 +12,7 @@ Depuis janvier 2021, nous avons mis en place une grille de salaires ouverte au p
 
 À la date anniversaire de son contrat, chaque personne peut soumettre au vote son repositionnement dans la grille. Si cette position est acceptée par l’Assemblée Générale, l’augmentation de la rémunération est actée, tout comme l’évolution des responsabilités qui vont avec.
 
-Découvrez [la grille](https://github.com/coopTilleuls/handbook/blob/main/fr/titres-de-développeurs.md) et [l’article](https://les-tilleuls.coop/fr/blog/article/grille-salariale-a-vote) que nous avons rédigé à ce sujet.
+Découvrez [la grille](../titles/README.md) et [l’article](https://les-tilleuls.coop/fr/blog/article/grille-salariale-a-vote) que nous avons rédigé à ce sujet.
 
 ## Télétravail
 
