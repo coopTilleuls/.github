@@ -1,6 +1,6 @@
 # La cooperative des tilleuls
 
-Vous trouverez ici diverses informations sur notre mode de fonctionnement,
+Vous trouverez ici diverses informations sur notre mode de fonctionnement, les membres de l'équipes et nos outils de travail
 
 - [🌳️ Les tilleuls: historique et fonctionnement](tilleuls.md)
 - [🏭️ Les SCOP](scop.md)

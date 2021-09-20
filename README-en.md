@@ -5,7 +5,7 @@
 Here you'll find all of our internal documentation
 
 - [🤝️ How we work as a SCOP](scop/README.md)
-- [🪜 Titles for programmers and salaries](titles/README.md)
+- [🧙️ Titles for programmers and salaries](titles/README.md)
 - [🚞️ Onboarding guide for newcomers](onboarding/README.md)
 - [💫️ Best practices we follow](best-practices/README.md)
 - [📰️ Press kit](press-kit/README.md)
