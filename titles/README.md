@@ -1,6 +1,6 @@
 # Titres de développeurs
 
-> We're introducing Titles for programmers forked from [basecamp handbook](https://github.com/basecamp/handbook). Ces titres nous aiderons à spécifier une grille de salaire et normaliser les rémunérations chez les Tilleuls.
+> Nous avons mis en place des titres de poste de développeur‧se‧s issus de [Basecamp Employee Handbook](https://github.com/basecamp/handbook). Ces titres nous aideront à spécifier une grille de salaire et normaliser les rémunérations chez les Tilleuls.
 
 - [See the english version](titles-for-programmers.md)
 
