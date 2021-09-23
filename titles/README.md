@@ -2,7 +2,7 @@
 
 > Nous avons mis en place des titres de poste de développeur‧se‧s issus de [Basecamp Employee Handbook](https://github.com/basecamp/handbook). Ces titres nous aideront à spécifier une grille de salaire et normaliser les rémunérations chez les Tilleuls.
 
-- [See the english version](titles-for-programmers.md)
+- [See the english version](en/README.md)
 
 Chez [Les-Tilleuls.coop](https://les-tilleuls.coop), nous utilisons les critères suivants afin d'évaluer le niveau et les titres de nos développeurs. Ils ne sont pas exhaustifs et nous servent de guide pour la progression de nos carrières.
 

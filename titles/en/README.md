@@ -2,7 +2,7 @@
 
 > We're introducing Titles for programmers forked from [basecamp handbook](https://github.com/basecamp/handbook). These titles will help us specify a salary grid and normalize salaries at Les-Tilleuls.
 
-- [Voir la version française](README.md)
+- [Voir la version française](../README.md)
 
 We use the following criteria to assess the level and title of programmers of [Les-Tilleuls.coop](https://les-tilleuls.coop). These criteria aren’t exhaustive, and they aren’t mere checklists. They’re a guidance to having an individualized discussion about career progression.
 
