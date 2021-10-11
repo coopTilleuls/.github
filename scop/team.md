@@ -12,7 +12,7 @@ L’équipe que vous rejoignez aujourd’hui est composée actuellement de 55 sa
 | Jordan Aubert           | développeur back-end                            | Lille       | @jordanaubert       |
 | Quentin Barloy          | développeur back-end                            | Lille       | @nitneuk            |
 | Jade Bellereau          | développeuse back-end                           | Lille       | @GrimpEreau         |
-| Helouri Beucherie       | développeur back-end                            | Lille       | ?                   |
+| Helouri Beucherie       | développeur back-end                            | Lille       | @Hyrkules           |
 | Thomas Billard          | développeur back-end                            | Paris       | @thbil              |
 | Samuel Bigard           | développeur                                     | Lille       | @samuelbigard       |
 | Justine Bruneau Zahiri  | développeuse front-end                          | Paris       | @justinezahiri      |
@@ -34,7 +34,7 @@ L’équipe que vous rejoignez aujourd’hui est composée actuellement de 55 sa
 | Saif Eddin Gmati        | développeur back-end                            | Tunis       | @azjezz             |
 | Margaux Feslard         | développeuse back-end                           | Lille       | @Margauxfeslard     |
 | Vincent Fuger           | développeur back-end                            | Lille       | @Rhedynen           |
-| Arnaud Frézet           | développeur back-end                            | Lyon        | ?                   |
+| Arnaud Frézet           | développeur back-end                            | Lyon        | @johnkrovitch       |
 | Cécile Helary Hamerel   | chargée de marketing et communication           | Lille       | @CecileAmrl         |
 | Grégoire Hébert         | développeur back-end & co-gérant de Masterclass | Lille       | @GregoireHebert     |
 | Frédéric Jost           | développeur back-end                            | Lille       | @f-jost             |
@@ -50,6 +50,7 @@ L’équipe que vous rejoignez aujourd’hui est composée actuellement de 55 sa
 | Alan Poulain            | lead développeur                                | Paris       | @alanpoulain        |
 | Pierre Rebeilleau       | développeur back-end                            | Lille       | @PierreRebeilleau   |
 | Cécile Ropital          | consultante et cheffe de projet                 | Lille       | @cecileropital      |
+| Sarah Sahraoui          | developpeuse                                    | Lille       | @sarah-lestilleuls  |
 | Laury Sorriaux          | développeuse front-end                          | Lille       | @ginifizz           |
 | Clément Talleu          | développeur back-end                            | Lille       | @clementtalleu      |
 | Jerome Tanghe           | développeur back-end                            | Lille       | @Deuchnord          |
