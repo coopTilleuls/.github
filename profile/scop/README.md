@@ -9,3 +9,8 @@ Vous trouverez ici diverses informations sur notre mode de fonctionnement, les m
 - [📧️ Contacts](contact.md)
 - [🗂️ Les outils](tools.md)
 - [📑️ Informations pratiques](practical.md)
+
+## Assemblées générales
+
+- [🙋️ Comptes rendus d’AG](ag.md)
+- [📌️ Décisions passées](decisions.md)
