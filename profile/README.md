@@ -1,16 +1,16 @@
-# 👋️ This is the "Tilleuls" cooperative Github, welcome !
+# 👋️ Welcome on Les-Tilleuls.coop's GitHub page!
 
-<img align="right" src="https://github.com/coopTilleuls/.github/blob/main/profile/public/img/tree.svg" height="250" alt="les-tilleuls.coop logo tree">
+<a href="https://les-tilleuls.coop"><img align="right" src="https://raw.githubusercontent.com/coopTilleuls/.github/main/profile/public/img/tree.svg" height="250" alt="Les-Tilleuls.coop"></a>
 
-Les-Tilleuls.coop is a cooperative owned and self-managed by its workers.
-Here you'll find all of our internal documentation and other useful informations
+Les-Tilleuls.coop is a tech [worker cooperative](https://en.wikipedia.org/wiki/Worker_cooperative) specialized in e-commerce, web technologies and free software.
+Here you'll find all of our internal documentation and other useful informations.
 
-- [🤝️ How we work as a SCOP](https://github.com/coopTilleuls/.github/blob/main/profile/scop/en/README.md)
-- [🧙️ Titles for programmers and salaries](https://github.com/coopTilleuls/.github/blob/main/profile/titles/en/README.md)
-- [🚞️ Onboarding guide for newcomers](https://github.com/coopTilleuls/.github/blob/main/profile/onboarding/en/README.md)
-- [💫️ Best practices we follow](https://github.com/coopTilleuls/.github/blob/main/profile/best-practices/en/README.md)
-<!-- - [📰️ Press kit](https://github.com/coopTilleuls/.github/blob/main/profile/press-kit/README.md)
-- [🎨️ Our styleguide](https://github.com/coopTilleuls/.github/blob/main/profile/styleguide/README.md) -->
+- [🤝️ How we work as a co-op](https://github.com/coopTilleuls/.github/tree/main/profile/scop/en/README.md)
+- [🧙️ Titles for programmers and salaries](https://github.com/coopTilleuls/.github/tree/main/profile/titles/en/README.md)
+- [🚞️ Onboarding guide for newcomers](https://github.com/coopTilleuls/.github/tree/main/profile/onboarding/en/README.md)
+- [💫️ Best practices we follow](https://github.com/coopTilleuls/.github/tree/main/profile/best-practices/en/README.md)
+<!-- - [📰️ Press kit](https://github.com/coopTilleuls/.github/tree/main/profile/press-kit/README.md)
+- [🎨️ Our styleguide](https://github.com/coopTilleuls/.github/tree/main/profile/styleguide/README.md) -->
 
 ---
 
@@ -24,3 +24,5 @@ Here you'll find all of our internal documentation and other useful informations
     <li><a href="https://about.gitlab.com/handbook/">GitLab</a></li>
     </ul>
 </details>
+
+[French version](https://github.com/coopTilleuls/.github/tree/main/profile/README.md)
