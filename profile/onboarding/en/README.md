@@ -1,6 +1,6 @@
 # Welcome to the Tilleuls !
 
-![Welcome](img/welcome.gif)
+![Welcome](../img/welcome.gif)
 
 This chapter is about your first days and the steps you'll have to take before starting to work
 
