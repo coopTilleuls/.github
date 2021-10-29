@@ -1,14 +1,12 @@
-# Nouveau salarié
+# Premiers pas
 
-Liste des choses à réaliser à l’arrivée d’un nouveau salarié
+- [ ] Récupérer votre ordinateur (vous aviez choisi le choix entre un mac ou un Dell avec linux)
+- Accès à vos compte:
+- [ ] Google workspace pour les emails, chat & drive
+- [ ] Ajouter votre compte GitHub à l'organisation
+- [ ] Sur loomio (pour voter entre les AG)
+- [ ] On boond (pour comptabiliser vos temps et congés)
+- [ ] Documents à remplir pour la mutuelle
+- [ ] Ajout de votre profil sur le site web (préparez une photo!)
 
-- [ ] Acheter un ordinateur (PC / mac)
-- [ ] Inscription à la visite médicale
-- [ ] Création d’un compte google
-- [ ] Ajout dans l’équipe Github
-- [ ] Créer un compte sur loomio
-- [ ] Créer un compte sur boond
-- [ ] Adhésion à la mutuelle
-- [ ] Ajouter son profil dans l’équipe sur le site internet
-
-(inspiré de la documentation administrative de [24eme](https://github.com/24eme/administratif/blob/master/docs/nouveau_salarie.md))
+Plus qu'à [configurer votre ordinateur](installation.md) !

@@ -25,7 +25,7 @@ sudo usermod -aG docker $USER  # you will need to restart your session
 
 ### Mac
 
-Installer [Brew](https://brew.sh/) puis (sélectionnez uniquement les outils qui vous intéressent suivant le(s) langage(s) que vous utilisez):
+Install [Brew](https://brew.sh/) then (select only the tools of interest to you, according to the languages you use):
 
     brew tap homebrew/cask-fonts
     brew install git zsh curl node neovim \
@@ -38,7 +38,7 @@ Installer [Brew](https://brew.sh/) puis (sélectionnez uniquement les outils qui
     	lens \
     	zoom microsoft-teams slack discord
 
-Installer [oh-my-zsh](https://ohmyz.sh/) et configurer iTerm pour utiliser une Nerd Font (optionnellement, activer les ligatures).
+Install [oh-my-zsh](https://ohmyz.sh/) and configure iTerm to use a Nerd Font (optionally, activate ligatures).
 
 ## dotfiles
 
@@ -92,13 +92,11 @@ wget https://raw.githubusercontent.com/coopTilleuls/onboarding/main/public/dotfi
 git config --global core.excludesfile ~/.gitignore_global
 ```
 
-Ajouter les `.idea`, `*.workspace`, etc
-
 ---
 
 ## Configurations code editors
 
-> à compléter en fonction de vos préférences
+> complete according to your preferences
 
-- Plugins pour PHPStorm : Symfony / PHP Toolbox / PHP Inspections / IdeaVim
-- Plugins pour VS Code : eslint / intelephense
+- Plugins for PHPStorm : Symfony / PHP Toolbox / PHP Inspections / IdeaVim
+- Plugins for VS Code : eslint / intelephense

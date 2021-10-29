@@ -2,15 +2,25 @@
 
 <img align="right" src="public/img/tree.svg" height="250" alt="les-tilleuls.coop logo tree">
 
-Here you'll find all of our internal documentation
+Les-Tilleuls.coop is a cooperative owned and self-managed by its workers.
+Here you'll find all of our internal documentation and other useful informations
 
-- [🤝️ How we work as a SCOP](scop/README.md)
-- [🧙️ Titles for programmers and salaries](titles/README.md)
-- [🚞️ Onboarding guide for newcomers](onboarding/README.md)
-- [💫️ Best practices we follow](best-practices/README.md)
-- [📰️ Press kit](press-kit/README.md)
-- [🎨️ Our styleguide](styleguide/README.md)
+- [🤝️ How we work as a SCOP](scop/en/README.md)
+- [🧙️ Titles for programmers and salaries](titles/en/README.md)
+- [🚞️ Onboarding guide for newcomers](onboarding/en/README.md)
+- [💫️ Best practices we follow](best-practices/en/README.md)
+<!-- - [📰️ Press kit](press-kit/README.md)
+- [🎨️ Our styleguide](styleguide/README.md) -->
 
 ---
 
-This documentation is inspired by the one written by [Basecamp](https://github.com/basecamp/handbook), and [24eme](https://github.com/24eme)
+<details>
+    <summary>💡️ Inspiration</summary>
+    This documentation is inspired by the ones already written by:
+    <ul>
+    <li><a href="https://github.com/basecamp/handbook">Basecamp</a></li>
+    <li><a href="https://github.com/24eme">24eme</a></li>
+    <li><a href="https://www.loomio.coop/">Loomio</a></li>
+    <li><a href="https://about.gitlab.com/handbook/">GitLab</a></li>
+    </ul>
+</details>
