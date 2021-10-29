@@ -1,23 +1,22 @@
-# 👋️ Bienvenue sur le GitHub des Tilleuls !
+# 👋️ This is the "Tilleuls" cooperative Github, welcome !
 
-<img align="right" src="public/img/tree.svg" height="250" alt="arbre du logo les-tilleuls.coop">
+<img align="right" src="https://github.com/coopTilleuls/.github/blob/main/profile/public/img/tree.svg" height="250" alt="les-tilleuls.coop logo tree">
 
-Les-Tilleuls.coop est une **Société coopérative et participative**. Vous trouverez ici toute notre documentation interne et autres informations utiles.
+Les-Tilleuls.coop is a cooperative owned and self-managed by its workers.
+Here you'll find all of our internal documentation and other useful informations
 
-- [🌳️ Présentation de la SCOP](scop/README.md)
-- [🧙️ Titre de programmeurs et grille de salaire](titles/README.md)
-- [🚞️ Guide d’onboarding](onboarding/README.md)
-- [💫️ Bonnes pratiques](best-practices/README.md)
-<!-- WIP :
-- [📰️ Kit de press](press-kit/README.md)
-- [🎨️ Styleguide](styleguide/README.md)
-  -->
+- [🤝️ How we work as a SCOP](https://github.com/coopTilleuls/.github/blob/main/profile/scop/en/README.md)
+- [🧙️ Titles for programmers and salaries](https://github.com/coopTilleuls/.github/blob/main/profile/titles/en/README.md)
+- [🚞️ Onboarding guide for newcomers](https://github.com/coopTilleuls/.github/blob/main/profile/onboarding/en/README.md)
+- [💫️ Best practices we follow](https://github.com/coopTilleuls/.github/blob/main/profile/best-practices/en/README.md)
+<!-- - [📰️ Press kit](https://github.com/coopTilleuls/.github/blob/main/profile/press-kit/README.md)
+- [🎨️ Our styleguide](https://github.com/coopTilleuls/.github/blob/main/profile/styleguide/README.md) -->
 
 ---
 
 <details>
     <summary>💡️ Inspiration</summary>
-    Cette documentation est inspirée de plusieurs déjà existantes, telles que celles de:
+    This documentation is inspired by the ones already written by:
     <ul>
     <li><a href="https://github.com/basecamp/handbook">Basecamp</a></li>
     <li><a href="https://github.com/24eme">24eme</a></li>
