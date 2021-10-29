@@ -25,4 +25,4 @@ Here you'll find all of our internal documentation and other useful informations
     </ul>
 </details>
 
-[French version](https://github.com/coopTilleuls/.github/tree/main/profile/README.md)
+[French version](https://github.com/coopTilleuls/.github/tree/main/profile/README.fr.md)
