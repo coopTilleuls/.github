@@ -8,7 +8,8 @@ L’équipe que vous rejoignez aujourd’hui est composée actuellement de 55 sa
 | Romain Allanot          | développeur back-end                            | Nantes      | @romainallanot      |
 | Mathias Arlaud          | développeur back-end                            | Lyon        | @mtarld             |
 | Thibaut Arnoud          | développeur back-end                            | Paris       | @ArnoudThibaut      |
-| Eleftheria Assimakis    | assistante RH                                   | Lille       | ?                   |
+| Eleftheria Assimakis    | assistante RH                                   | Lille       |                     |
+| Inès Azzouzi            | assistante commerciale                          | Lyon        |                     |
 | Jordan Aubert           | développeur back-end                            | Lille       | @jordanaubert       |
 | Quentin Barloy          | développeur back-end                            | Lille       | @nitneuk            |
 | Jade Bellereau          | développeuse back-end                           | Lille       | @GrimpEreau         |
@@ -18,12 +19,9 @@ L’équipe que vous rejoignez aujourd’hui est composée actuellement de 55 sa
 | Justine Bruneau Zahiri  | développeuse front-end                          | Paris       | @justinezahiri      |
 | Antoine Bluchet         | développeur back-end                            | Nantes      | @soyuka             |
 | Pascal Borreli          | consultant                                      | Paris       | @pborreli           |
-| Valentin Bout           | développeur front-end                           | Lille       | @BoutValentin       |
 | Antoine Cau             | développeur                                     | Lille       | @AntoineCAU         |
 | Vincent Chalamon        | lead développeur                                | Lille       | @vincentchalamon    |
 | Robin Chalas            | consultant                                      | Lyon        | @chalasr            |
-| Raoul Clais             | développeur back-end                            | Paris       | @raoulclais         |
-| Sylvain Combraque       | développeur back-end                            | Lille       | @darkweak           |
 | Thomas Colin            | développeur front-end                           | Nantes      | @thcolin            |
 | Grégory Copin           | directeur technique                             | Lille       | @Gregcop1           |
 | Justine Delalleau       | développeuse front-end                          | Lille       | @chuticat           |
@@ -33,8 +31,9 @@ L’équipe que vous rejoignez aujourd’hui est composée actuellement de 55 sa
 | Élise Duverdier         | développeur back-end                            | Paris       | @eliseduverdier     |
 | Saif Eddin Gmati        | développeur back-end                            | Tunis       | @azjezz             |
 | Margaux Feslard         | développeuse back-end                           | Lille       | @Margauxfeslard     |
-| Vincent Fuger           | développeur back-end                            | Lille       | @Rhedynen           |
+| Julien Francoz          | SRE                                             | Nantes      | @jfcoz              |
 | Arnaud Frézet           | développeur back-end                            | Lyon        | @johnkrovitch       |
+| Vincent Fuger           | développeur back-end                            | Lille       | @Rhedynen           |
 | Cécile Helary Hamerel   | chargée de marketing et communication           | Lille       | @CecileAmrl         |
 | Grégoire Hébert         | développeur back-end & co-gérant de Masterclass | Lille       | @GregoireHebert     |
 | Frédéric Jost           | développeur back-end                            | Lille       | @f-jost             |
@@ -42,6 +41,7 @@ L’équipe que vous rejoignez aujourd’hui est composée actuellement de 55 sa
 | Fabien Kovacic          | développeur front-end                           | Lille       | @Fabious            |
 | Mathilde Krogulec       | commerciale                                     | Lyon        | @mkrogulec          |
 | Paul-Joseph Krogulec    | développeur                                     | Lyon        | @pauljosephkrogulec |
+| Julien Lary             | expert programmer                               | Lille       |                     |
 | Jacques Lefebvre        | développeur back-end                            | Lille       | @jockos             |
 | Marc Lemay              | développeur back-end                            | Nantes      | @flug               |
 | Olivier Lenancker       | directeur financier                             | Lille       | @lenancker          |
@@ -50,6 +50,7 @@ L’équipe que vous rejoignez aujourd’hui est composée actuellement de 55 sa
 | Alan Poulain            | lead développeur                                | Paris       | @alanpoulain        |
 | Pierre Rebeilleau       | développeur back-end                            | Lille       | @PierreRebeilleau   |
 | Cécile Ropital          | consultante et cheffe de projet                 | Lille       | @cecileropital      |
+| Thomas Samson           | SRE                                             | Nantes      |                     |
 | Sarah Sahraoui          | developpeuse                                    | Lille       | @sarah-lestilleuls  |
 | Laury Sorriaux          | développeuse front-end                          | Lille       | @ginifizz           |
 | Clément Talleu          | développeur back-end                            | Lille       | @clementtalleu      |
