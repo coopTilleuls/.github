@@ -1,15 +1,15 @@
-# L’équipe
+# The Team
 
 The team today is composed of 55 people :
 
-| Nom                     | Rôle                                       | Lieu        | Profil github       |
+| Name                    | Role                                       | Location    | GitHub profile      |
 | ----------------------- | ------------------------------------------ | ----------- | ------------------- |
 | Marion Agé              | co-manager and technical director          | Montpellier | @K-mos              |
 | Romain Allanot          | backend developer                          | Nantes      | @romainallanot      |
 | Mathias Arlaud          | backend developer                          | Lyon        | @mtarld             |
 | Thibaut Arnoud          | backend developer                          | Paris       | @ArnoudThibaut      |
 | Eleftheria Assimakis    | HR assistant                               | Lille       |                     |
-| Inès Azzouzi            | assistante commerciale                     | Lyon        |                     |
+| Inès Azzouzi            | sales assistant                            | Lyon        |                     |
 | Jordan Aubert           | backend developer                          | Lille       | @jordanaubert       |
 | Quentin Barloy          | backend developer                          | Lille       | @nitneuk            |
 | Jade Bellereau          | backend developer                          | Lille       | @GrimpEreau         |
@@ -23,7 +23,7 @@ The team today is composed of 55 people :
 | Vincent Chalamon        | lead developer                             | Lille       | @vincentchalamon    |
 | Robin Chalas            | consultant                                 | Lyon        | @chalasr            |
 | Thomas Colin            | frontend developer                         | Nantes      | @thcolin            |
-| Grégory Copin           | directeur technique                        | Lille       | @Gregcop1           |
+| Grégory Copin           | technical director                         | Lille       | @Gregcop1           |
 | Justine Delalleau       | frontend developer                         | Lille       | @chuticat           |
 | Julie Ducourneau        | frontend developer                         | Nantes      | @JulieNobody        |
 | Kévin Dunglas           | manager and technical director             | Lille       | @dunglas            |
@@ -61,4 +61,4 @@ The team today is composed of 55 people :
 | Kévin Van Der Stracten  | backend developer                          | Nantes      | @Zowac              |
 | Loïc Vernet             | backend developer                          | Lille       | @COil               |
 
-To contact anyone, use `firstname.lastname@les-tilleuls.coop` (ou `firstname-particle.nom-particle@les-tilleuls.coop`)
+To contact anyone, use `firstname.lastname@les-tilleuls.coop` (ou `firstname-particle.lastname-particle@les-tilleuls.coop`)
