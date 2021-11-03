@@ -61,4 +61,4 @@ The team today is composed of 55 people :
 | Kévin Van Der Stracten  | backend developer                          | Nantes      | @Zowac              |
 | Loïc Vernet             | backend developer                          | Lille       | @COil               |
 
-To contact anyone, use `firstname.lastname@les-tilleuls.coop` (ou `firstname-particle.nom-particle@les-tilleuls.coop`)
+To contact anyone, use `firstname.lastname@les-tilleuls.coop` (ou `firstname-particle.lastname-particle@les-tilleuls.coop`)
