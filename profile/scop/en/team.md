@@ -23,7 +23,7 @@ The team today is composed of 55 people :
 | Vincent Chalamon        | lead developer                             | Lille       | @vincentchalamon    |
 | Robin Chalas            | consultant                                 | Lyon        | @chalasr            |
 | Thomas Colin            | frontend developer                         | Nantes      | @thcolin            |
-| Grégory Copin           | directeur technique                        | Lille       | @Gregcop1           |
+| Grégory Copin           | technical director                         | Lille       | @Gregcop1           |
 | Justine Delalleau       | frontend developer                         | Lille       | @chuticat           |
 | Julie Ducourneau        | frontend developer                         | Nantes      | @JulieNobody        |
 | Kévin Dunglas           | manager and technical director             | Lille       | @dunglas            |
