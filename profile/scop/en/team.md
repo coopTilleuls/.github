@@ -1,15 +1,15 @@
-# L’équipe
+# The Team
 
 The team today is composed of 55 people :
 
-| Nom                     | Rôle                                       | Lieu        | Profil github       |
+| Name                    | Role                                       | Location    | GitHub profile      |
 | ----------------------- | ------------------------------------------ | ----------- | ------------------- |
 | Marion Agé              | co-manager and technical director          | Montpellier | @K-mos              |
 | Romain Allanot          | backend developer                          | Nantes      | @romainallanot      |
 | Mathias Arlaud          | backend developer                          | Lyon        | @mtarld             |
 | Thibaut Arnoud          | backend developer                          | Paris       | @ArnoudThibaut      |
 | Eleftheria Assimakis    | HR assistant                               | Lille       |                     |
-| Inès Azzouzi            | assistante commerciale                     | Lyon        |                     |
+| Inès Azzouzi            | sales assistant                            | Lyon        |                     |
 | Jordan Aubert           | backend developer                          | Lille       | @jordanaubert       |
 | Quentin Barloy          | backend developer                          | Lille       | @nitneuk            |
 | Jade Bellereau          | backend developer                          | Lille       | @GrimpEreau         |
