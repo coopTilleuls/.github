@@ -18,7 +18,7 @@ Découvrez [la grille](../titles/README.md) et [l’article](https://les-tilleul
 
 Il est possible de faire du télétravail au sein de La Coopérative des Tilleuls. Dans ce cas, le salarié doit rester joignable durant les horaires de référence appliquées au sein de la société. Afin de pouvoir vérifier le temps de travail effectué, le télétravailleur relèvera sur son compte rendu d’activité (CRA) ses horaires de travail pour chaque jour travaillé à son domicile et transmettra ce relevé à la direction administrative.
 
-Le coopérateur qui souhaite opter pour cette organisation du travail doit prévenir l’employeur qui est libre de refuser la demande si cela impacte l’organisation du travail (mission en régie, réunion importante, formation, rendez-vous nécessitant la présence du salarié...).
+Le coopérateur qui souhaite opter pour cette organisation du travail doit prévenir l’employeur qui est libre de refuser la demande si cela impacte l’organisation du travail (mission en régie, réunion importante, formation, rendez-vous nécessitant la présence du salarié...). 
 
 ## Compte rendu d’activité (CRA)
 
