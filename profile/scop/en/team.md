@@ -19,6 +19,7 @@ The team today is composed of 55 people :
 | Justine Bruneau Zahiri  | frontend developer                         | Paris       | @justinezahiri      |
 | Antoine Bluchet         | backend developer                          | Nantes      | @soyuka             |
 | Pascal Borreli          | consultant                                 | Paris       | @pborreli           |
+| Stéphane Bullier        | backend developer                          | Montpellier |                     |
 | Antoine Cau             | developer                                  | Lille       | @AntoineCAU         |
 | Vincent Chalamon        | lead developer                             | Lille       | @vincentchalamon    |
 | Robin Chalas            | consultant                                 | Lyon        | @chalasr            |

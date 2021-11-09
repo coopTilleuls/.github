@@ -19,6 +19,7 @@ L’équipe que vous rejoignez aujourd’hui est composée actuellement de 55 sa
 | Justine Bruneau Zahiri  | développeuse front-end                          | Paris       | @justinezahiri      |
 | Antoine Bluchet         | développeur back-end                            | Nantes      | @soyuka             |
 | Pascal Borreli          | consultant                                      | Paris       | @pborreli           |
+| Stéphane Bullier        | développeur back-end                            | Montpellier |                     |
 | Antoine Cau             | développeur                                     | Lille       | @AntoineCAU         |
 | Vincent Chalamon        | lead développeur                                | Lille       | @vincentchalamon    |
 | Robin Chalas            | consultant                                      | Lyon        | @chalasr            |
