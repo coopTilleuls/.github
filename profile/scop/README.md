@@ -12,5 +12,5 @@ Vous trouverez ici diverses informations sur notre mode de fonctionnement, les m
 
 ## Assemblées générales
 
-- [🙋️ Comptes rendus d’AG](ag.md)
+<!-- - [🙋️ Comptes rendus d’AG](ag.md) -->
 - [📌️ Décisions passées](decisions.md)

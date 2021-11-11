@@ -4,7 +4,7 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 
 ## Intégration
 
-- La période d'intégration "non staffée" passe de 3 à 2 semaines, avec 1 semaine minimum à Lille (dans la mesure du possible).
+- La période d'intégration “non staffée” passe de 3 à 2 semaines, avec 1 semaine minimum à Lille ou dans une antenne (dans la mesure du possible).
 
 ## Social
 
@@ -12,11 +12,13 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 
 ## Salaires
 
-- Vote de principe pour aligner les postes "transverses" sur la grille "développeur".
+- Vote de principe pour aligner les postes “transverses” sur la grille “développeur”.
 
 ## Embauches
 
 ## Télétravail
+
+- Le télétravail à temps complet est autorisé en fonction du niveau de la personne, au cas par cas.
 
 ## Temps de travail
 
@@ -25,3 +27,5 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 ### Congés
 
 ### Heures supplémentaires
+
+- Le temps de travail est de 35h ; néanmoins si un⋅e développeur⋅se souhaite travailler plus pour s’adapter aux horaires de son client, il peut en faire la demande.
