@@ -42,7 +42,7 @@ Install [oh-my-zsh](https://ohmyz.sh/) and configure iTerm to use a Nerd Font (o
 
 ## dotfiles
 
-- [handy lists of aliases](/dotfiles/.aliases) to add to `.bashrc` or `.zshrc`
+- [handy lists of aliases](/profile/public/dotfiles/.aliases) to add to `.bashrc` or `.zshrc`
 
 ## Git
 
@@ -88,7 +88,7 @@ gpg --armor --export ABCD000-THE-KEY-00000 | xclip -selection clipboard
 ### .gitignore global
 
 ```bash
-wget https://raw.githubusercontent.com/coopTilleuls/onboarding/main/public/dotfiles/.gitignore_global -O ~/.gitignore_global
+wget https://raw.githubusercontent.com/coopTilleuls/.github/main/profile/public/dotfiles/.gitignore_global -O ~/.gitignore_global
 git config --global core.excludesfile ~/.gitignore_global
 ```
 
