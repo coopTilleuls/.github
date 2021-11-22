@@ -4,7 +4,7 @@ In this section, you will find in-depth documentation about our company, its his
 
 - [🌳️ Les-Tilleuls.coop : our history and how we work](tilleuls.md)
 <!-- - [🏭️ The worker cooperatives in general](scop.md) -->
-- [👫️ The team](team.md)
+- [👫️ The team](../team.md)
 <!-- - [🤝️ Code of conduct](code_of_conduct.md)
 - [📧️ Contacts](contact.md)
 - [🗂️ Tools](tools.md)
