@@ -2,8 +2,8 @@
 
 <a href="https://les-tilleuls.coop"><img align="right" src="https://raw.githubusercontent.com/coopTilleuls/.github/main/profile/public/img/tree.svg" height="250" alt="Les-Tilleuls.coop"></a>
 
-Les-Tilleuls.coop is a tech [worker cooperative](https://en.wikipedia.org/wiki/Worker_cooperative) specialized in e-commerce, trainings and free software. We bring your projects to life by combining creativity, durability and cutting-edge develoment.
-In this page, you will find all our internal documentation and useful informations.
+Les-Tilleuls.coop is a tech [worker cooperative](https://en.wikipedia.org/wiki/Worker_cooperative) specialized in e-commerce, trainings and free software. We bring your projects to life by combining creativity, durability and cutting-edge development.
+In this page, you will find all our internal documentation and useful information.
 
 - [🤝️ How we work as a worker cooperative](https://github.com/coopTilleuls/.github/tree/main/profile/scop/en/README.md)
 - [🧙️ Titles for programmers and salaries](https://github.com/coopTilleuls/.github/tree/main/profile/titles/en/README.md)
