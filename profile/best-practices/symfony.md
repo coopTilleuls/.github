@@ -81,7 +81,7 @@
 
 ## A11Y
 
-- Run http://achecker.ca/checker/
+- Run https://achecker.achecks.ca/checker/index.php
 - Run React a11y (if applicable)
 
 ## Deployment
