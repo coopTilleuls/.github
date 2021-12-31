@@ -3,7 +3,19 @@
 <a href="https://les-tilleuls.coop"><img align="right" src="https://raw.githubusercontent.com/coopTilleuls/.github/main/profile/public/img/tree.svg" height="250" alt="Les-Tilleuls.coop"></a>
 
 Les-Tilleuls.coop is a tech [worker cooperative](https://en.wikipedia.org/wiki/Worker_cooperative) specialized in e-commerce, trainings and free software. We bring your projects to life by combining creativity, durability and cutting-edge development.
-In this page, you will find all our internal documentation and useful information.
+
+If you're interested in the free software we create, check out their dedicated GitHub pages:
+
+* [🕷 API Platform](https://github.com/api-platform): create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time, written in PHP and TypeScript
+* [🎼 Our Symfony components](https://github.com/symfony): a set of reusable PHP components and a framework for web projects
+* [💌 Mercure](https://github.com/dunglas/mercure): real-time made easy, open protocol and reference implementation written in Go
+* [🔨 Vulcain](https://github.com/dunglas/vulcain): fast and idiomatic client-driven REST APIs, open protocol and reference implementation written in Go
+* [⚡️ React ESI](https://github.com/dunglas/react-esi): blazing-fast Server-Side Rendering for React and Next.js, written in TypeScript
+* [📄 Doctrine JSON ODM](https://github.com/dunglas/doctrine-json-odm): An Object-Document Mapper (ODM) for Doctrine ORM leveraging new JSON types of modern RDBMS
+* [🏄 ESQL](https://github.com/soyuka/esql): PHP Extended SQL
+* [📦 Our other projects](https://github.com/orgs/coopTilleuls/repositories)
+
+Our internal documentation and other useful information are also publicly available:
 
 - [🤝️ How we work as a worker cooperative](https://github.com/coopTilleuls/.github/tree/main/profile/scop/en/README.md)
 - [🧙️ Titles for programmers and salaries](https://github.com/coopTilleuls/.github/tree/main/profile/titles/en/README.md)
