@@ -12,6 +12,7 @@ If you're interested in the free software we create, check out their dedicated G
 * [🔨 Vulcain](https://github.com/dunglas/vulcain): fast and idiomatic client-driven REST APIs, open protocol and reference implementation written in Go
 * [⚡️ React ESI](https://github.com/dunglas/react-esi): blazing-fast Server-Side Rendering for React and Next.js, written in TypeScript
 * [📄 Doctrine JSON ODM](https://github.com/dunglas/doctrine-json-odm): An Object-Document Mapper (ODM) for Doctrine ORM leveraging new JSON types of modern RDBMS
+* [🛡️ Oauth2 server bundle](https://github.com/chalasr/oauth2-server-bundle): OAuth2 implementation 
 * [🏄 ESQL](https://github.com/soyuka/esql): PHP Extended SQL
 * [📦 Our other projects](https://github.com/orgs/coopTilleuls/repositories)
 
