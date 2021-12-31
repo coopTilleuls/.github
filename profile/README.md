@@ -7,7 +7,7 @@ Les-Tilleuls.coop is a tech [worker cooperative](https://en.wikipedia.org/wiki/W
 If you're interested in the free software we back, check out their dedicated GitHub pages:
 
 * [🕷 API Platform](https://github.com/api-platform): create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time, written in PHP and TypeScript
-* [🎼 Our Symfony components](https://github.com/symfony): a set of reusable PHP components and a framework for web projects
+* [🎼 Symfony](https://github.com/symfony): a set of reusable PHP components and a framework for web projects
 * [💌 Mercure](https://github.com/dunglas/mercure): real-time made easy, open protocol and reference implementation written in Go
 * [🔨 Vulcain](https://github.com/dunglas/vulcain): fast and idiomatic client-driven REST APIs, open protocol and reference implementation written in Go
 * [⚡️ React ESI](https://github.com/dunglas/react-esi): blazing-fast Server-Side Rendering for React and Next.js, written in TypeScript
