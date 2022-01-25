@@ -70,7 +70,7 @@
 - React specific : pattern Container/View, HOC, hook
 - Forms : formik
 - API fetching : axios, fetch
-- COde linter : [prettier](https://prettier.io/), [es-lint](https://eslint.org/) (use and customize [Airbnb’s](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb))
+- Code linter : [prettier](https://prettier.io/), [es-lint](https://eslint.org/) (use and customize [Airbnb’s](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb))
 - Importantly, use and abuse design patterns !
 - SVG icons: <https://fontawesome.com/icons?d=gallery> (we have a licence)
 
