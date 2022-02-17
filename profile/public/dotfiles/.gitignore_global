@@ -45,9 +45,9 @@ Thumbs.db
 #######
 # IDE #
 #######
-nbproject   # for NetBeans
-.idea       # for *Storm
-.vscode     # for VScode
+nbproject
+.idea
+.vscode
 .project
 .buildpath
 .setting/org.eclipse.php.core.prefs
