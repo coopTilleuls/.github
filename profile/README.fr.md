@@ -16,8 +16,6 @@ Nous créons, contribuons et maintenons une multitude de logiciels libres comme 
 * [🛡️ OAuth2 Server Bundle](https://github.com/thephpleague/oauth2-server-bundle) : un bundle intégrant la bibliothèque oauth2-server dans les applications Symfony
 * [🏄 ESQL](https://github.com/soyuka/esql) : une alternative au DQL
 * [📦 Nos autres projets](https://github.com/orgs/coopTilleuls/repositories)
-
-
 Vous trouverez ici toute notre documentation interne et autres informations utiles.
 
 - [🌳️ Présentation de notre SCOP](scop/README.md)
