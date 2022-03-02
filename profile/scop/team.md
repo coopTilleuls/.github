@@ -1,6 +1,6 @@
-# L’équipe / The Team
+# L’équipe / Our Team
 
-The team today is composed of 59 people :
+Our team today is composed of more than 60 people:
 
 | Name                    | Role                                       | Location    | GitHub profile      |
 | ----------------------- | ------------------------------------------ | ----------- | ------------------- |
@@ -45,6 +45,7 @@ The team today is composed of 59 people :
 | Fabien Kovacic          | frontend developer                         | Lille       | @Fabious            |
 | Mathilde Krogulec       | commercial                                 | Lyon        | @mkrogulec          |
 | Paul-Joseph Krogulec    | developer                                  | Lyon        | @pauljosephkrogulec |
+| Malika Lahfaoui         | developer                                  | Oujda       | @malikalahfaoui     |
 | Julien Lary             | backend developer                          | Lille       | @laryjulien         |
 | Jacques Lefebvre        | backend developer                          | Lille       | @jockos             |
 | Marc Lemay              | backend developer                          | Nantes      | @flug               |
@@ -54,6 +55,7 @@ The team today is composed of 59 people :
 | Nicolas Philippe        | backend developer                          | Lyon        | @nikophil           |
 | Alan Poulain            | consultant                                 | Paris       | @alanpoulain        |
 | Pierre Rebeilleau       | backend developer                          | Lille       | @PierreRebeilleau   |
+| Auriane Quilliot        | events and marketing manager               | Lille       |   
 | Cécile Ropital          | consultant and project manager             | Lille       | @cecileropital      |
 | Sarah Sharaoui          | developer                                  | Lille       | @sarah-lestilleuls  |
 | Thomas Samson           | SRE                                        | Nantes      | @ThomasSamson       |
