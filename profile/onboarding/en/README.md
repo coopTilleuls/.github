@@ -2,7 +2,7 @@
 
 ![Welcome](../img/welcome.gif)
 
-You just have joined our tech and social project, we are delighted to welcome you aboard! 
+You just have joined our tech and social project, we are delighted to welcome you aboard!
 
 This part describes what is going to happen on your first days at Les-Tilleuls.coop and all the first things you need to know.
 
