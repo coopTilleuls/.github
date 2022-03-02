@@ -1,8 +1,8 @@
-# La cooperative des tilleuls
+# Les-Tilleuls.coop
 
-Vous trouverez ici diverses informations sur notre mode de fonctionnement, les membres de l'équipes et nos outils de travail
+Découvrez ici quelques informations sur notre histoire, notre fonctionnement, les membres de notre équipe ainsi que nos différents outils du quotidien.
 
-- [🌳️ Les tilleuls: historique et fonctionnement](tilleuls.md)
+- [🌳️ Les-Tilleuls.coop : historique et fonctionnement](tilleuls.md)
 - [🏭️ Les SCOP](scop.md)
 - [👫️ L’équipe](team.md)
 - [🤝️ Code de conduite](code_of_conduct.md)
