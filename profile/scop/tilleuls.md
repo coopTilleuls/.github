@@ -1,13 +1,12 @@
-# Historique
+# Présentation et historique
 
-Les-Tilleuls.coop est une **Société coopérative et participative** (SARL SCOP) co-fondée par Kévin Dunglas, Joad Martin et François-Henri Vasseur en décembre 2011.
+Créée en décembre 2011 à Lille, Les-Tilleuls.coop est une ESN (Entreprise de Services du Numérique) sous forme de Scop (Société Coopérative et Participative) spécialiste du web, du logiciel libre et de l’e-commerce. Notre société est détenue à 100% par tous ses salariés. Sa gouvernance est démocratique et transparente : chacun·e prend part démocratiquement à toutes les décisions de l’entreprise et les bénéfices sont répartis à parts égales entre toutes et tous. 
 
-**Répartis en 3 pôles (développement, expertise et formation) et spécialistes API, web et cloud**, les salariés de Les-Tilleuls.coop conçoivent, auditent et développent des applications web et mobiles ainsi que des plates-formes e-commerce.
+Répartis en 3 pôles (développement, expertise et formation), nous mettons nos compétences au service d’entreprises internationales de toutes tailles, de la start-up (Vestiaire Collective, IZI by EDF), aux grands comptes (Orange, General Electric, Adeo, la BNP, Renault, Decathlon) en passant par les services publics (France Télévisions, Arte) et les coopératives (Citiz, Olvo). Nous concevons et réalisons pour eux tous types d’applications métiers et d’applications web innovantes parmi lesquelles des plateformes e-commerce, des portails d’information ou des réseaux sociaux fédérés.
 
-Créateurs du framework **API Platform**, les coopérateurs de Les-Tilleuls.coop sont auteurs de nombreuses publications et contribuent activement aux logiciels libres tels que PHP. net ou Symfony. Les langages et technologies JavaScript (React, Vue), PHP, Docker et Kubernetes ont également peu de secrets pour eux.
-Les-Tilleuls.coop met ses compétences au service de PME comme de grands comptes à l’image d’**Adeo (ex Leroy Merlin), Orange, Decathlon, Citiz, Alice’s Garden, 24 Sèvres ou encore France Télévisions**.
+Notre Scop compte parmi ses effectifs bon nombre de créateurs et de mainteneurs de logiciels libres populaires (API Platform, Symfony, PM2, Mercure, Vulcain, React ESI…). Nous contribuons principalement aux écosystèmes Go, PHP, JavaScript et Docker/Kubernetes.
 
-La société Les-Tilleuls.coop est également reconnue comme un **centre de formation professionnelle spécialiste du développement logiciel**. Les formations dispensées chez Masterclass by Les-Tilleuls.coop sont de tous niveaux et sont éligibles à des financements par des organismes (OPCA, AFPL).
+Les-Tilleuls.coop est également une société reconnue comme un centre de formation professionnelle spécialiste du développement logiciel. Les formations dispensées sont de tous niveaux et sont éligibles à des financements par des organismes.
 
 # Le projet social
 
