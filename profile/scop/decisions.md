@@ -50,6 +50,8 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 
 ### Congés
 
+- 3 jours de congés pour des enfants malades sont pris en charge par la SCOP. Dans le cas des stagiaires, alternants, développeurs junior ou développeurs, ces 3 jours de congés peuvent aussi être pris pour toute raison exceptionnelle.
+
 ### Heures supplémentaires
 
 - Le temps de travail est de 35h ; néanmoins si un⋅e développeur⋅se souhaite travailler plus pour s’adapter aux horaires de son client, il peut en faire la demande.
