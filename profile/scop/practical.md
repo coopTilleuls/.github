@@ -4,7 +4,7 @@
 
 Conformément au principe d’autogestion, chaque salarié organise lui-même ses horaires de travail. L’arrivée dans les locaux peut se faire entre 8h et 10h. Un temps plein correspond à un volume horaire hebdomadaire de 35 heures, à répartir entre le lundi et le vendredi.
 
-Note : lorsqu’un coopérateur est en mission chez le client, il doit s’adapter à ses horaires mais ne pas dépasser les 35h contractuels.
+Note : lorsqu’un coopérateur est en mission chez le client, il peut être amené à s’adapter à ses horaires mais il ne doit pas dépasser les 35h contractuels. Rapprochez-vous de votre commercial si votre client souhaite échanger à ce sujet.
 
 ## Grille de salaires
 
@@ -16,17 +16,17 @@ Découvrez [la grille](../titles/README.md) et [l’article](https://les-tilleul
 
 ## Télétravail
 
-Il est possible de faire du télétravail au sein de La Coopérative des Tilleuls. Dans ce cas, le salarié doit rester joignable durant les horaires de référence appliquées au sein de la société. Afin de pouvoir vérifier le temps de travail effectué, le télétravailleur relèvera sur son compte rendu d’activité (CRA) ses horaires de travail pour chaque jour travaillé à son domicile et transmettra ce relevé à la direction administrative.
+Il est possible de faire du télétravail au sein de Les-Tilleuls.coop. Dans ce cas, le salarié doit rester joignable durant les horaires de référence appliquées au sein de la société. Afin d'avoir une vision sur le temps de travail effectué, le télétravailleur relève sur son compte rendu d’activité (sur Boond Manager) ses horaires de travail pour chaque jour travaillé à son domicile et transmettra ce relevé à la direction administrative.
 
 Le coopérateur qui souhaite opter pour cette organisation du travail doit prévenir l’employeur qui est libre de refuser la demande si cela impacte l’organisation du travail (mission en régie, réunion importante, formation, rendez-vous nécessitant la présence du salarié...). 
 
 ## Compte rendu d’activité (CRA)
 
-Vous serez amené à remplir un compte rendu d’activité hebdomadaire, sous la forme d’un fichier Google Sheets, afin d’indiquer le type de missions que vous réalisez (projets internes comme externes). Rapprochez-vous de Thomas (thomas@les-tilleuls.coop) afin d’obtenir le vôtre.
+Vous serez amené à remplir un compte rendu d’activité hebdomadaire sur Boond Manager, notre ERP. Cet outil permet d'indiquer le type de missions que vous réalisez (projets internes comme externes). Rapprochez-vous de Thomas (thomas@les-tilleuls.coop) afin d’obtenir votre accès.
 
 ## Congés, absences et retards
 
-Les congés légaux pour les employés sont de 2,08 jours ouvrés par mois et de 25 jours ouvrés par an. Pour poser ses congés, chaque salarié contacte Olivier, le directeur administratif qui les reporte ensuite dans l’agenda. En cas d’absence ou de retard, il est impératif de prévenir directement Olivier par mail ou messagerie instantanée.
+Les congés légaux pour les employés sont de 2,08 jours ouvrés par mois et de 25 jours ouvrés par an. Pour poser ses congés, chaque salarié contacte Olivier ou Eleftheria, nos chargés de recrutement et d'administration. En cas d’absence ou de retard, nous vous demandons également de les prévenir par mail ou par messagerie instantanée.
 
 ## Comité social et économique
 
@@ -40,7 +40,7 @@ Un conseil de surveillance est mis en place dans les Scop qui comptent plus de 2
 
 Il y a incompatibilité entre les fonctions de gérant et celles de membre du conseil de surveillance. L’assemblée des associés élit les membres du conseil de surveillance en son sein pour une durée de 3 ans. Les deux tiers au moins des membres du conseil de surveillance doivent être des associés salariés de l’entreprise.
 
-Notre conseil de surveillance est constitué de Grégoire Hébert, Cécile Ropital, Jade Bellereau, Jacques Lefebvre, Antoine Bluchet, Alan Poulain.
+Notre conseil de surveillance est constitué de Grégoire Hébert, Cécile Ropital, Jade Bellereau, Jacques Lefebvre, Antoine Bluchet et Alan Poulain.
 
 ## Transport
 
@@ -48,13 +48,11 @@ Dans le cadre de la loi sur la prime transport, la Scop prend en charge votre ab
 
 ## Restauration
 
-En tant que salarié de la Scop, vous avez droit à des tickets restaurant d’un montant unitaire de 7€50. Leur quantité varie selon le nombre de jours ouvrés sur le mois (congés, jours fériés).
-
-Dans le bureau de Lille, vous disposez d’une cafetière et d’une bouilloire dont vous pouvez vous servir. Prévoyez une tasse. Vous avez aussi accès à une fontaine à eau : prévoyez un verre ou une gourde.
+En tant que salarié de la Scop, vous avez droit à des tickets restaurant d’un montant unitaire de 9€. Leur quantité varie selon le nombre de jours ouvrés sur le mois (congés, jours fériés).
 
 ## Complémentaire santé et prévoyance
 
-Les salariés bénéficient du contrat mutuelle des Tilleuls. Il est pris en charge par la SCOP à 100%. L’organisme est Humanis/Verspieren. L’affiliation au contrat est obligatoire, c’est le directeur administratif qui s’occupera de celle-ci.
+Les salariés bénéficient du contrat mutuelle de Les-Tilleuls.coop. Il est pris en charge par la SCOP à 100%. L’organisme est Malakoff Humanis. L’affiliation au contrat est obligatoire, c’est le directeur administratif qui s’occupera de celle-ci.
 
 ## Virement du salaire
 
@@ -65,8 +63,6 @@ Le salaire est généralement versé au 27 de chaque mois par virement bancaire.
 Lors de vos déplacements professionnels, Thomas ou Cécile peuvent réserver votre train/vol et vos nuits d’hôtel. Envoyez votre demande au plus tôt par mail à thomas@les-tilleuls.coop ou cecile@les-tilleuls.coop car il est souvent difficile de trouver un hôtel pour la veille.
 
 Si vous êtes amené·e à effectuer des déplacements réguliers, une carte SNCF Liberté vous sera délivrée afin que vous puissiez bénéficier de tarifs attractifs lors de la réservation.
-
-Paris & Nantes : vous avez une demande particulière ? N’hésitez pas à demander à Cécile cecile@les-tilleuls.coop de vous aider, votre matériel sera alors livré au bureau où vous êtes rattaché.
 
 ## Tri sélectif
 
