@@ -4,9 +4,6 @@ Avant d'arriver chez nous Eleftheria, notre chargée de recrutement, prendra le 
 
 - [ ] Vous allez récupérer votre ordinateur (nous vous laissons le choix entre un MacBook Pro ou un Dell sous Linux)
 - [ ] Vous récupérez votre kit de bienvenue (comprenant un polo, un sweat zippé, une thermos, une tasse à café, des stylos et d'autres goodies)
-
-
-
 Vous allez récupérer vos accès à vos différents comptes :
 - [ ] Google Workspace pour les e-mails, le chat interne, les agendas et le drive (pensez à la double authenfication lors de la configuration de ce compte !)
 - [ ] Nous allons ajouter votre compte GitHub à notre organisation (idem, pensez double authentification !)
