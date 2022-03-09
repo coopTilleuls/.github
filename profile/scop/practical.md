@@ -4,7 +4,7 @@
 
 Conformément au principe d’autogestion, chaque salarié organise lui-même ses horaires de travail. L’arrivée dans les locaux peut se faire entre 8h et 10h. Un temps plein correspond à un volume horaire hebdomadaire de 35 heures, à répartir entre le lundi et le vendredi.
 
-Note : lorsqu’un coopérateur est en mission chez le client, il peut être amené à s’adapter à ses horaires mais il ne doit pas dépasser les 35h contractuels. Rapprochez-vous de votre commercial si votre client souhaite échanger à ce sujet. 
+Note : lorsqu’un coopérateur est en mission chez le client, il peut être amené à s’adapter à ses horaires mais il ne doit pas dépasser les 35h contractuels. Rapprochez-vous de votre commercial si votre client souhaite échanger à ce sujet.
 
 ## Grille de salaires
 
