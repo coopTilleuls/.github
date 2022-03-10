@@ -13,7 +13,7 @@ If you're interested in the free software we back, check out their dedicated Git
 * [⚡️ React ESI](https://github.com/dunglas/react-esi): blazing-fast Server-Side Rendering for React and Next.js, written in TypeScript
 * [📚 PHP Standard Library](https://github.com/azjezz/psl): a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 * [📄 Doctrine JSON ODM](https://github.com/dunglas/doctrine-json-odm): an Object-Document Mapper (ODM) for Doctrine ORM leveraging new JSON types of modern RDBMS
-* [🛡️ OAuth2 Server Bundle](https://github.com/thephpleague/oauth2-server-bundle): a spec compliant, secure by default PHP OAuth 2.0 Server for Symfony 
+* [🛡️ OAuth2 Server Bundle](https://github.com/thephpleague/oauth2-server-bundle): a spec compliant, secure by default PHP OAuth 2.0 Server for Symfony
 * [🏄 ESQL](https://github.com/soyuka/esql): PHP Extended SQL
 * [📦 Our other projects](https://github.com/orgs/coopTilleuls/repositories)
 
@@ -22,7 +22,6 @@ Our internal documentation and other useful information are also publicly availa
 - [🤝️ How we work as a worker cooperative](https://github.com/coopTilleuls/.github/tree/main/profile/scop/en/README.md)
 - [🧙️ Titles for programmers and salaries](https://github.com/coopTilleuls/.github/tree/main/profile/titles/en/README.md)
 - [🚞️ Onboarding guide for newcomers](https://github.com/coopTilleuls/.github/tree/main/profile/onboarding/en/README.md)
-- [💫️ Our best practices](https://github.com/coopTilleuls/.github/tree/main/profile/best-practices/en/README.md)
 <!-- - [📰️ Press kit](https://github.com/coopTilleuls/.github/tree/main/profile/press-kit/README.md)
 - [🎨️ Our styleguide](https://github.com/coopTilleuls/.github/tree/main/profile/styleguide/README.md) -->
 
