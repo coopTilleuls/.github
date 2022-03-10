@@ -10,7 +10,7 @@ You will get your access to your different accounts:
 - [ ] We will add your GitHub account to our organization
 - [ ] You will receive an invitation to Loomio (our interface allowing you to vote on various decisions (budgets, HR...)
 - [ ] You will receive an invitation to Boond (our ERP)
-- [ ] Several documents will have to be signed (your contract, health insurance documentation, RGPD certificate...)
+- [ ] Several documents will have to be signed (your contract, health insurance documentation, GDPR certificate...)
 - [ ] If you are ok, we also add your picture on the team page of our website
 - [ ] On the technical side, you must now [setup your computer](installation.md)!
 - [ ] Finally, it's time to welcome you on our chat!
