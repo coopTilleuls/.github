@@ -32,7 +32,7 @@ Nous concevons la plupart de nos applications et sites internet sur la base de l
 ## La lutte contre les exclusions et discriminations
 
 Au sein de notre société, le respect de l’autre, la tolérance et la diversité sont des valeurs centrales, promues et défendues par tous nos collaborateurs. Nous refusons de travailler sur des projets à caractère raciste, sexiste, homophobe ou qui peuvent entraver les libertés individuelles et collectives (fichage, surveillance…).
-Pour en savoir plus sur les SCOP, n’hésitez pas à consulter [cet article de notre blog](https://les-tilleuls.coop/fr/blog/article/qu-est-ce-qu-une-scop).
+Pour en savoir plus sur les SCOP, n’hésitez pas à consulter [cet article de notre blog](https://les-tilleuls.coop/blog/qu-est-ce-qu-une-scop).
 
 # Les-Tilleuls.coop sur le web
 
