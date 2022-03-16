@@ -52,7 +52,7 @@ En tant que salarié de la Scop, vous avez droit à des tickets restaurant d’u
 
 ## Complémentaire santé et prévoyance
 
-Les salariés bénéficient du contrat mutuelle de Les-Tilleuls.coop. Il est pris en charge par la SCOP à 100%. L’organisme est Malakoff Humanis. L’affiliation au contrat est obligatoire, c’est le directeur administratif qui s’occupera de celle-ci.
+Les salariés bénéficient du contrat mutuelle de Les-Tilleuls.coop. Il est pris en charge par la SCOP à 100 %. L’organisme est Malakoff Humanis. L’affiliation au contrat est obligatoire, c’est le directeur administratif qui s’occupera de celle-ci.
 
 ## Virement du salaire
 
