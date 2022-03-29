@@ -1,6 +1,6 @@
 # Être coopérateur⋅rice : un double statut salarié/associé
 
-Comme son nom l’indique, La Coopérative des Tilleuls est une SCOP (société coopérative de production).
+Comme son nom l’indique, La Coopérative des Tilleuls est une Scop (société coopérative de production).
 
 ## Qu’est ce qu’une SCOP ?
 
