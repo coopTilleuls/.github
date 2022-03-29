@@ -26,7 +26,13 @@ Vous serez amené à remplir un compte rendu d’activité hebdomadaire sur Boon
 
 ## Congés, absences et retards
 
-Les congés légaux pour les employés sont de 2,08 jours ouvrés par mois et de 25 jours ouvrés par an. La pose des congés se fait de manière autonome. Pour poser ses congés, chaque salarié informe Olivier ou Eleftheria, nos chargés de recrutement et d’administration. Il convient également de les renseigner sur le Google Agenda des congés ainsi que dans BoondManager. En cas d’absence ou de retard, nous vous demandons également de les prévenir par mail ou par messagerie instantanée dès que possible.
+Les congés payés pour les employés sont de 2,08 jours ouvrés par mois et de 25 jours ouvrés par an (le solde est précisé chaque mois sur les
+fiches de paie).
+
+La pose des congés se fait de manière autonome : chaque salarié doit tout d'abord prévenir son client et ensuite informer Olivier ou Eleftheria. Il doit également les renseigner dans BoondManager ainsi que dans l'agenda Google « Congés ».
+En cas d’absence imprévue ou de retard, nous vous demandons également de prévenir dès que possible Olivier ou Eleftheria par mail ou par
+messagerie instantanée.
+À noter que les salariés peuvent poser librement des congés sans solde selon leurs besoins, tant que la procédure décrite ci-dessus est respectée (prévenir dès que possible, renseigner dans BoondManager et dans l'agenda Google).
 
 Chaque coopérateur⋅rice bénéficie d’un jour de congés supplémentaire en mai en général après le jeudi de l’ascension.
 
