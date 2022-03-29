@@ -20,7 +20,7 @@ Vous pouvez consulter [🔒 l’index général ici](https://docs.google.com/doc
 - Le calendrier des disponibilités et des prospects ;
 - La liste des événements de l’année ;
 - Le suivi des recrutements ;
-- La liste des conférences que nos coopérateurs proposent ;
+- La liste des conférences que nos coopérateur⋅rice⋅s proposent ;
 - Le suivi du budget.
 
 ## GitHub

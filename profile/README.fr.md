@@ -2,7 +2,7 @@
 
 <a href="https://les-tilleuls.coop"><img align="right" src="public/img/tree.svg" height="250" alt="Les-Tilleuls.coop"></a>
 
-Les-Tilleuls.coop est une ESN sous forme de [**Société coopérative et participative**](https://www.les-scop.coop/) spécialiste de l'e-commerce, des technologies du web et du logiciel libre.
+Les-Tilleuls.coop est une ESN sous forme de [**Société coopérative et participative**](https://www.les-scop.coop/) spécialiste du e-commerce, des technologies du web et du logiciel libre.
 
 Nous créons, contribuons et maintenons une multitude de logiciels libres comme :
 
