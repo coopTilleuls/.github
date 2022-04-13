@@ -9,17 +9,18 @@ Our team today is composed of more than 60 people:
 | Mathias Arlaud          | backend developer                          | Lyon        | @mtarld             |
 | Thibaut Arnoud          | backend developer                          | Paris       | @ArnoudThibaut      |
 | Eleftheria Assimakis    | HR assistant                               | Lille       | @assimakis          |
-| Inès Azzouzi            | sales assistant                            | Lyon        |                     |
+| Emmanuel Averty         | backend developer                          | Lille       | @emmanuel-tilleuls  |
 | Jordan Aubert           | backend developer                          | Lille       | @jordanaubert       |
+| Inès Azzouzi            | sales assistant                            | Lyon        |                     |
 | Quentin Barloy          | backend developer                          | Lille       | @nitneuk            |
 | Jade Bellereau          | backend developer                          | Lille       | @GrimpEreau         |
 | Helouri Beucherie       | backend developer                          | Lille       | @Hyrkules           |
 | Thomas Billard          | backend developer                          | Paris       | @thbil              |
 | Samuel Bigard           | developer                                  | Lille       | @samuelbigard       |
+| Alexis Bouchez          | developer                                  | Lille       | @alexisbouchez      |
 | Justine Bruneau Zahiri  | frontend developer                         | Paris       | @justinezahiri      |
 | Antoine Bluchet         | backend developer                          | Nantes      | @soyuka             |
 | Pascal Borreli          | consultant                                 | Paris       | @pborreli           |
-| Stéphane Bullier        | backend developer                          | Montpellier | @StephaneBullier    |
 | Antoine Cau             | developer                                  | Lille       | @AntoineCAU         |
 | Vincent Chalamon        | lead developer                             | Lille       | @vincentchalamon    |
 | Robin Chalas            | consultant                                 | Lyon        | @chalasr            |
@@ -31,6 +32,7 @@ Our team today is composed of more than 60 people:
 | Kévin Dunglas           | manager and technical director             | Lille       | @dunglas            |
 | Jonas Duval             | backend developer                          | Paris       | @jovuk              |
 | Élise Duverdier         | backend developer                          | Paris       | @eliseduverdier     |
+| Camille Gaquière        | project manager                            | Rennes      |                     |
 | Saif Eddin Gmati        | backend developer                          | Tunis       | @azjezz             |
 | Margaux Feslard         | backend developer                          | Lille       | @Margauxfeslard     |
 | Julien Francoz          | SRE                                        | Nantes      | @jfcoz              |
@@ -39,7 +41,7 @@ Our team today is composed of more than 60 people:
 | Matthieu Harle          | developer                                  | Lille       | @Shywim             |
 | Cécile Helary Hamerel   | marketing and communication manager        | Lille       | @CecileAmrl         |
 | Grégoire Hébert         | backend developer & Masterclass co-manager | Lille       | @GregoireHebert     |
-| Jeremy Huard            | frontend developer                         | Montpellier | @J3m5               |
+| Jérémy Huard            | frontend developer                         | Montpellier | @J3m5               |
 | Frédéric Jost           | backend developer                          | Lille       | @f-jost             |
 | Albin Kester            | backend developer                          | Nantes      | @stakovicz          |
 | Fabien Kovacic          | frontend developer                         | Lille       | @Fabious            |
@@ -50,7 +52,6 @@ Our team today is composed of more than 60 people:
 | Jacques Lefebvre        | backend developer                          | Lille       | @jockos             |
 | Marc Lemay              | backend developer                          | Nantes      | @flug               |
 | Olivier Lenancker       | financial director                         | Lille       | @lenancker          |
-| Julien Leuchart         | developper                                 | Lille       |                     |
 | Baptiste Meyer          | backend developer                          | Lille       | @meyerbaptiste      |
 | Nicolas Philippe        | backend developer                          | Lyon        | @nikophil           |
 | Alan Poulain            | consultant                                 | Paris       | @alanpoulain        |
@@ -69,4 +70,4 @@ Our team today is composed of more than 60 people:
 | Kévin Van Der Stracten  | backend developer                          | Nantes      | @Zowac              |
 | Loïc Vernet             | backend developer                          | Lille       | @COil               |
 
-To contact anyone, use `firstname.lastname@les-tilleuls.coop` (ou `firstname-particle.lastname-particle@les-tilleuls.coop`)
+To contact anyone, use `firstname.lastname@les-tilleuls.coop`
