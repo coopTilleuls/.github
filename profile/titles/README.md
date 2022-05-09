@@ -14,7 +14,7 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - Les fonctionnalités basiques du langage de programmation sont maîtrisées, certaines structures avancées ne sont pas encore connues.
 - Des problèmes occasionnels pour s’immiscer dans des patrons de conception et des approches de code existant.
 - Travaille principalement sur des problèmes routiniers et de portée restreinte.
-- Environ 2 ans ou moins d’expérience en tant que développeur professionnel dans un domaine spécifique.
+- Environ 2 ans ou moins d’expérience en tant que développeur professionnel.
 
 ## Développeur
 
@@ -30,7 +30,7 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - Est en capacité de suivre le travail de développeurs juniors et développeurs.
 - A une expertise approfondie dans au moins un environnement de programmation.
 - Compétences de base dans au moins un environnement de programmation supplémentaire.
-- Environ 5 à 8 ans d’expérience en tant que développeur professionnel dans un domaine spécifique.
+- Environ 5 à 8 ans d’expérience en tant que développeur professionnel.
 
 ## Lead développeur
 
@@ -40,7 +40,7 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - Expertise approfondie dans au moins un environnement de programmation. A des intérêts dans d’autres langages de programmation.
 - Capable de diriger et de gérer de petites équipes pour des projets importants.
 - Est un référent pour la revue de code ou pour aider ses collègues.
-- Il a généralement au moins 8 à 12 ans d’expérience en tant que programmeur professionnel dans un domaine spécifique.
+- Il a généralement au moins 8 à 12 ans d’expérience en tant que programmeur professionnel.
 
 ## Développeur expert
 
@@ -50,7 +50,7 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - Expertise approfondie et substantielle dans de multiples environnements de programmation.
 - Capable de diriger et d’animer des équipes pour des projets importants.
 - Capable d’exécuter des projets dans plusieurs domaines (par exemple, une application native qui nécessite un backend API).
-- Environ 12 à 15 ans d’expérience en tant que programmeur professionnel dans un domaine spécifique.
+- Environ 12 à 15 ans d’expérience en tant que programmeur professionnel.
 
 ## Développeur principal
 
@@ -59,4 +59,4 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - Capable de diriger et d’animer des équipes plus importantes pour des projets de grande envergure et de longue durée.
 - Reconnu dans l’industrie pour ses contributions matérielles à l’état de l’art.
 - Invente de nouveaux concepts, fait régulièrement progresser l’ensemble de l’organisation.
-- Généralement au moins 15 ans d’expérience en tant que programmeur professionnel dans un domaine spécifique.
+- Généralement au moins 15 ans d’expérience en tant que programmeur professionnel.
