@@ -25,6 +25,7 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 ## Salaires
 
 - Vote de principe pour aligner les postes « transverses » sur la grille « développeur ».
+- À la date d'anniversaire de l'entrée dans la SCOP, le positionnement de le⋅la coopérateur⋅rice est réévalué pendant l'AG. Il est possible de demander un repositionnement avant cette date (pour cela il faut se mettre dans la liste des personnes à réévaluer dans la diapo de l'AG dédiée).
 
 ### Indemnités
 
