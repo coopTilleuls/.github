@@ -15,7 +15,6 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - Des problèmes occasionnels pour s’immiscer dans des patrons de conception et des approches de code existant.
 - Travaille principalement sur des problèmes routiniers et de portée restreinte.
 - Environ 2 ans ou moins d’expérience en tant que développeur professionnel.
-- _=> Salaire: 20 116€ (bonus parisien: 24 139€)_
 
 ## Développeur
 
@@ -23,7 +22,6 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - Suit facilement les modèles et les approches établies dans des bases de code existantes.
 - Travaille principalement sur des problèmes ou fonctionnalités clairement définis et délimités.
 - Environ 2 à 5 ans d’expérience en tant que développeur professionnel, équivalent au niveau scolaire de Master (Bac + 5).
-- _=> Salaire: 27 432€ (bonus parisien: 32 918€)_
 
 ## Développeur senior
 
@@ -33,7 +31,6 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - A une expertise approfondie dans au moins un environnement de programmation.
 - Compétences de base dans au moins un environnement de programmation supplémentaire.
 - Environ 5 à 8 ans d’expérience en tant que développeur professionnel.
-- _=> Salaire: 32 004€ (bonus parisien: 38 404€)_
 
 ## Lead développeur
 
@@ -44,7 +41,6 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - Capable de diriger et de gérer de petites équipes pour des projets importants.
 - Est un référent pour la revue de code ou pour aider ses collègues.
 - Il a généralement au moins 8 à 12 ans d’expérience en tant que programmeur professionnel.
-- _=> Salaire: 36 576€ (bonus parisien: 43 891€)_
 
 ## Développeur expert
 
@@ -55,7 +51,6 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - Capable de diriger et d’animer des équipes pour des projets importants.
 - Capable d’exécuter des projets dans plusieurs domaines (par exemple, une application native qui nécessite un backend API).
 - Environ 12 à 15 ans d’expérience en tant que programmeur professionnel.
-- _=> Salaire: 41 148€ (bonus parisien: 49 377€)_
 
 ## Développeur principal
 
@@ -65,21 +60,24 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - Reconnu dans l’industrie pour ses contributions matérielles à l’état de l’art.
 - Invente de nouveaux concepts, fait régulièrement progresser l’ensemble de l’organisation.
 - Généralement au moins 15 ans d’expérience en tant que programmeur professionnel.
-- _=> Salaire: 50 292€ (bonus parisien: 60 350€)_
 
 # Résumé de la grille de salaire
 
-| niveau    | brut annuel | bonus parisien | 2 ans ancienneté | 5 ans   | 7 ans   | 10 ans  | 15 ans  |
-| --------- | ----------- | -------------- | ---------------- | ------- | ------- | ------- | ------- |
-| junior    | 20 116€     |                | 28 493€          | 29 499€ | 30 505€ | 31 511€ | 32 517€ |
-|           |             | 24 139€        |                  |         |         |         |         |
-| confirmé  | 27 432€     |                | 36 174€          | 37 546€ | 38 917€ | 40 289€ | 41 661€ |
-|           |             | 32 918€        |                  |         |         |         |         |
-| senior    | 32 004€     |                | 40 975€          | 42 575€ | 44 175€ | 45 775€ | 47 376€ |
-|           |             | 38 404€        |                  |         |         |         |         |
-| lead      | 36 576€     |                | 45 775€          | 47 604€ | 49 433€ | 51 262€ | 53 091€ |
-|           |             | 43 891€        |                  |         |         |         |         |
-| expert    | 41 148€     |                | 50 576€          | 52 633€ | 54 691€ | 56 748€ | 58 806€ |
-|           |             | 49 377€        |                  |         |         |         |         |
-| principal | 50 292€     |                | 60 177€          | 62 692€ | 65 206€ | 67 721€ | 70 236€ |
-|           |             | 60 350€        |                  |         |         |         |         |
+| niveau    | brut annuel | 2 ans ancienneté | 5 ans    | 7 ans    | 10 ans   | 15 ans   |
+| --------- | ----------- | ---------------- | -------- | -------- | -------- | -------- |
+| junior    | 20,116 €    | 21,122 €         | 22,128 € | 23,134 € | 24,140 € | 25,146 € |
+| `` +20%   | 24,139 €    | 25,346 €         | 26,553 € | 27,760 € | 28,968 € | 30,175 € |
+| confirmé  | 27,432 €    | 28,803 €         | 30,175 € | 31,546 € | 32,918 € | 34,290 € |
+| `` +20%   | 32,918 €    | 34,563 €         | 36,210 € | 37,855 € | 39,501 € | 41,148 € |
+| senior    | 32,004 €    | 33,604 €         | 35,204 € | 36,804 € | 38,404 € | 40,005 € |
+| `` +20%   | 38,404 €    | 40,324 €         | 42,244 € | 44,164 € | 46,084 € | 48,006 € |
+| lead      | 36,576 €    | 38,404 €         | 40,233 € | 42,062 € | 43,891 € | 45,720 € |
+| `` +20%   | 43,891 €    | 46,084 €         | 48,279 € | 50,474 € | 52,669 € | 54,864 € |
+| expert    | 41,148 €    | 43,205 €         | 45,262 € | 47,320 € | 49,377 € | 51,435 € |
+| `` +20%   | 49,377 €    | 51,846 €         | 54,314 € | 56,784 € | 59,252 € | 61,722 € |
+| principal | 50,292 €    | 52,806 €         | 55,321 € | 57,835 € | 60,350 € | 62,865 € |
+| `` +20%   | 60,350 €    | 63,367 €         | 66,385 € | 69,402 € | 72,420 € | 75,438 € |
+
+Au salaire s’ajoute une participation annuelle, dont le montant est autour de 7 000€.
+
+Les lignes +20% s'appliquent aux salaires parisiens.

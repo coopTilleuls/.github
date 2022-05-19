@@ -15,7 +15,6 @@ It should also be noted that these criteria chiefly examine the scope of work so
 - Occasional issues following patterns and approaches within existing code bases.
 - Works primarily on tightly scoped, routine problems.
 - Usually less than 2 years of experience being a professional programmer in the specific domain.
-- _=> Salary: 20 116€ (parisian bonus: 24 139€)_
 
 ## Programmer
 
@@ -23,7 +22,6 @@ It should also be noted that these criteria chiefly examine the scope of work so
 - Follows established patterns and approaches within existing code bases with ease.
 - Works mostly on clearly defined and scoped individual features or problems.
 - Usually at least 2-5 years of experience being a professional programmer in the specific domain or if you had a Master's Degree.
-- _=> Salary: 27 432€ (parisian bonus: 32 918€)_
 
 ## Senior Programmer
 
@@ -33,7 +31,6 @@ It should also be noted that these criteria chiefly examine the scope of work so
 - Deep expertise within at least one programming environment.
 - Basic proficiency in at least one additional programming environment.
 - Usually at least 5-8 years of experience being a professional programmer in the specific domain.
-- _=> Salary: 32 004€ (parisian bonus: 38 404€)_
 
 ## Lead Programmer
 
@@ -44,7 +41,6 @@ It should also be noted that these criteria chiefly examine the scope of work so
 - Capable of running and directing small teams for substantial projects.
 - Is a referent for code review or to help coworkers.
 - Usually at least 8-12 years of experience being a professional programmer in the specific domain.
-- _=> Salary: 36 576€ (parisian bonus: 43 891€)_
 
 ## Expert Programmer
 
@@ -55,7 +51,6 @@ It should also be noted that these criteria chiefly examine the scope of work so
 - Capable of running and directing teams for substantial projects.
 - Capable of executing projects across multiple domains (say, native app that needs API backend).
 - Usually at least 12-15 years of experience being a professional programmer in the specific domain.
-- _=> Salary: 41 148€ (parisian bonus: 49 377€)_
 
 ## Principal Programmer
 
@@ -65,21 +60,20 @@ It should also be noted that these criteria chiefly examine the scope of work so
 - Recognized widely in the industry for material contributions to the state of the art.
 - Invents new concepts, pushes the whole organization forward regularly.
 - Usually at least 15+ years of experience being a professional programmer in the specific domain.
-- _=> Salary: 50 292€ (parisian bonus: 60 350€)_
 
 # Summary of salaries
 
-| level     | annual  | parisian bonus | 2 year bonus | 5 year bonus | 7 year bonus | 10 year bonus | 15 year bonus |
-| --------- | ------- | -------------- | ------------ | ------------ | ------------ | ------------- | ------------- |
-| junior    | 20 116€ |                | 28 493€      | 29 499€      | 30 505€      | 31 511€       | 32 517€       |
-|           |         | 24 139€        |              |              |              |               |               |
-| confirmed | 27 432€ |                | 36 174€      | 37 546€      | 38 917€      | 40 289€       | 41 661€       |
-|           |         | 32 918€        |              |              |              |               |               |
-| senior    | 32 004€ |                | 40 975€      | 42 575€      | 44 175€      | 45 775€       | 47 376€       |
-|           |         | 38 404€        |              |              |              |               |               |
-| lead      | 36 576€ |                | 45 775€      | 47 604€      | 49 433€      | 51 262€       | 53 091€       |
-|           |         | 43 891€        |              |              |              |               |               |
-| expert    | 41 148€ |                | 50 576€      | 52 633€      | 54 691€      | 56 748€       | 58 806€       |
-|           |         | 49 377€        |              |              |              |               |               |
-| principal | 50 292€ |                | 60 177€      | 62 692€      | 65 206€      | 67 721€       | 70 236€       |
-|           |         | 60 350€        |              |              |              |               |               |
+| level     | annual   | 2 year bonus | 5 year bonus | 7 year bonus | 10 year bonus | 15 year bonus |
+| --------- | -------- | ------------ | ------------ | ------------ | ------------- | ------------- |
+| junior    | 20,116 € | 21,122 €     | 22,128 €     | 23,134 €     | 24,140 €      | 25,146 €      |
+| `` +20%   | 24,139 € | 25,346 €     | 26,553 €     | 27,760 €     | 28,968 €      | 30,175 €      |
+| confirmed | 27,432 € | 28,803 €     | 30,175 €     | 31,546 €     | 32,918 €      | 34,290 €      |
+| `` +20%   | 32,918 € | 34,563 €     | 36,210 €     | 37,855 €     | 39,501 €      | 41,148 €      |
+| senior    | 32,004 € | 33,604 €     | 35,204 €     | 36,804 €     | 38,404 €      | 40,005 €      |
+| `` +20%   | 38,404 € | 40,324 €     | 42,244 €     | 44,164 €     | 46,084 €      | 48,006 €      |
+| lead      | 36,576 € | 38,404 €     | 40,233 €     | 42,062 €     | 43,891 €      | 45,720 €      |
+| `` +20%   | 43,891 € | 46,084 €     | 48,279 €     | 50,474 €     | 52,669 €      | 54,864 €      |
+| expert    | 41,148 € | 43,205 €     | 45,262 €     | 47,320 €     | 49,377 €      | 51,435 €      |
+| `` +20%   | 49,377 € | 51,846 €     | 54,314 €     | 56,784 €     | 59,252 €      | 61,722 €      |
+| principal | 50,292 € | 52,806 €     | 55,321 €     | 57,835 €     | 60,350 €      | 62,865 €      |
+| `` +20%   | 60,350 € | 63,367 €     | 66,385 €     | 69,402 €     | 72,420 €      | 75,438 €      |
