@@ -78,6 +78,6 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 | principal | 50,292 €    | 52,806 €         | 55,321 € | 57,835 € | 60,350 € | 62,865 € |
 | `` +20%   | 60,350 €    | 63,367 €         | 66,385 € | 69,402 € | 72,420 € | 75,438 € |
 
-Au salaire s’ajoute une participation annuelle, dont le montant est autour de 7 000€.
+Au salaire s’ajoute une prime de participation annuelle. Cette prime corresponds à ~80% du bénéfice annuel de la coopérative répartis à parts égales entre tous les coopérateurs. En 2021, son montant s'élevait à 7 000€ bruts pour un coopérateur travaillant à temps plein.
 
 Les lignes +20% s'appliquent aux salaires parisiens.
