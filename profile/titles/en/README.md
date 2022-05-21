@@ -14,7 +14,7 @@ It should also be noted that these criteria chiefly examine the scope of work so
 - Basic language features are mastered, but some advanced structures may still be unfamiliar.
 - Occasional issues following patterns and approaches within existing code bases.
 - Works primarily on tightly scoped, routine problems.
-- Usually less than 2 years of experience being a professional programmer in the specific domain.
+- Usually less than 2 years of experience being a professional programmer in the specific domain, as this status is considered as transitory.
 
 ## Programmer
 
@@ -65,8 +65,8 @@ It should also be noted that these criteria chiefly examine the scope of work so
 
 | level     | annual   | 2 year bonus | 5 year bonus | 7 year bonus | 10 year bonus | 15 year bonus |
 | --------- | -------- | ------------ | ------------ | ------------ | ------------- | ------------- |
-| junior    | 20,116 € | 21,122 €     | 22,128 €     | 23,134 €     | 24,140 €      | 25,146 €      |
-| `` +20%   | 24,139 € | 25,346 €     | 26,553 €     | 27,760 €     | 28,968 €      | 30,175 €      |
+| junior    | 20,116 € |              |              |              |               |               |
+| `` +20%   | 24,139 € |              |              |              |               |               |
 | confirmed | 27,432 € | 28,803 €     | 30,175 €     | 31,546 €     | 32,918 €      | 34,290 €      |
 | `` +20%   | 32,918 € | 34,563 €     | 36,210 €     | 37,855 €     | 39,501 €      | 41,148 €      |
 | senior    | 32,004 € | 33,604 €     | 35,204 €     | 36,804 €     | 38,404 €      | 40,005 €      |
