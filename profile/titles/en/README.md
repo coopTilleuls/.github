@@ -77,3 +77,7 @@ It should also be noted that these criteria chiefly examine the scope of work so
 | `` +20%   | 49,377 € | 51,846 €     | 54,314 €     | 56,784 €     | 59,252 €      | 61,722 €      |
 | principal | 50,292 € | 52,806 €     | 55,321 €     | 57,835 €     | 60,350 €      | 62,865 €      |
 | `` +20%   | 60,350 € | 63,367 €     | 66,385 €     | 69,402 €     | 72,420 €      | 75,438 €      |
+
+In addition to the salary, there is an annual participation bonus. This bonus corresponds to ~80% of the cooperative's annual profit divided equally between the cooperators. In 2021, the amount was €7,000 for a full time cooperator.
+
+The +20% lines apply to Parisian salaries.

@@ -14,7 +14,7 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - Les fonctionnalités basiques du langage de programmation sont maîtrisées, certaines structures avancées ne sont pas encore connues.
 - Des problèmes occasionnels pour s’immiscer dans des patrons de conception et des approches de code existant.
 - Travaille principalement sur des problèmes routiniers et de portée restreinte.
-- Environ 2 ans ou moins d’expérience en tant que développeur professionnel.
+- Environ 2 ans ou moins d’expérience en tant que développeur professionnel ; ce statut est considéré comme transitoire.
 
 ## Développeur
 
