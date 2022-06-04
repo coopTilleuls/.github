@@ -14,7 +14,7 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - Les fonctionnalités basiques du langage de programmation sont maîtrisées, certaines structures avancées ne sont pas encore connues.
 - Des problèmes occasionnels pour s’immiscer dans des patrons de conception et des approches de code existant.
 - Travaille principalement sur des problèmes routiniers et de portée restreinte.
-- Environ 2 ans ou moins d’expérience en tant que développeur professionnel.
+- Environ 2 ans ou moins d’expérience en tant que développeur professionnel ; ce statut est considéré comme transitoire.
 
 ## Développeur
 
@@ -60,3 +60,24 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - Reconnu dans l’industrie pour ses contributions matérielles à l’état de l’art.
 - Invente de nouveaux concepts, fait régulièrement progresser l’ensemble de l’organisation.
 - Généralement au moins 15 ans d’expérience en tant que programmeur professionnel.
+
+# Résumé de la grille de salaire
+
+| niveau    | brut annuel | 2 ans ancienneté | 5 ans    | 7 ans    | 10 ans   | 15 ans   |
+| --------- | ----------- | ---------------- | -------- | -------- | -------- | -------- |
+| junior    | 20,116 €    |                  |          |          |          |          |
+| `` +20%   | 24,139 €    |                  |          |          |          |          |
+| confirmé  | 27,432 €    | 28,803 €         | 30,175 € | 31,546 € | 32,918 € | 34,290 € |
+| `` +20%   | 32,918 €    | 34,563 €         | 36,210 € | 37,855 € | 39,501 € | 41,148 € |
+| senior    | 32,004 €    | 33,604 €         | 35,204 € | 36,804 € | 38,404 € | 40,005 € |
+| `` +20%   | 38,404 €    | 40,324 €         | 42,244 € | 44,164 € | 46,084 € | 48,006 € |
+| lead      | 36,576 €    | 38,404 €         | 40,233 € | 42,062 € | 43,891 € | 45,720 € |
+| `` +20%   | 43,891 €    | 46,084 €         | 48,279 € | 50,474 € | 52,669 € | 54,864 € |
+| expert    | 41,148 €    | 43,205 €         | 45,262 € | 47,320 € | 49,377 € | 51,435 € |
+| `` +20%   | 49,377 €    | 51,846 €         | 54,314 € | 56,784 € | 59,252 € | 61,722 € |
+| principal | 50,292 €    | 52,806 €         | 55,321 € | 57,835 € | 60,350 € | 62,865 € |
+| `` +20%   | 60,350 €    | 63,367 €         | 66,385 € | 69,402 € | 72,420 € | 75,438 € |
+
+Au salaire s’ajoute une prime de participation annuelle. Cette prime corresponds à ~80% du bénéfice annuel de la coopérative répartis à parts égales entre tous les coopérateurs. En 2021, son montant s'élevait à 7 000€ bruts pour un coopérateur travaillant à temps plein.
+
+Les lignes +20% s'appliquent aux salaires parisiens.

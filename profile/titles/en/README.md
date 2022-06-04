@@ -14,7 +14,7 @@ It should also be noted that these criteria chiefly examine the scope of work so
 - Basic language features are mastered, but some advanced structures may still be unfamiliar.
 - Occasional issues following patterns and approaches within existing code bases.
 - Works primarily on tightly scoped, routine problems.
-- Usually less than 2 years of experience being a professional programmer in the specific domain.
+- Usually less than 2 years of experience being a professional programmer in the specific domain, as this status is considered as transitory.
 
 ## Programmer
 
@@ -60,3 +60,24 @@ It should also be noted that these criteria chiefly examine the scope of work so
 - Recognized widely in the industry for material contributions to the state of the art.
 - Invents new concepts, pushes the whole organization forward regularly.
 - Usually at least 15+ years of experience being a professional programmer in the specific domain.
+
+# Summary of salaries
+
+| level     | annual   | 2 year bonus | 5 year bonus | 7 year bonus | 10 year bonus | 15 year bonus |
+| --------- | -------- | ------------ | ------------ | ------------ | ------------- | ------------- |
+| junior    | 20,116 € |              |              |              |               |               |
+| `` +20%   | 24,139 € |              |              |              |               |               |
+| confirmed | 27,432 € | 28,803 €     | 30,175 €     | 31,546 €     | 32,918 €      | 34,290 €      |
+| `` +20%   | 32,918 € | 34,563 €     | 36,210 €     | 37,855 €     | 39,501 €      | 41,148 €      |
+| senior    | 32,004 € | 33,604 €     | 35,204 €     | 36,804 €     | 38,404 €      | 40,005 €      |
+| `` +20%   | 38,404 € | 40,324 €     | 42,244 €     | 44,164 €     | 46,084 €      | 48,006 €      |
+| lead      | 36,576 € | 38,404 €     | 40,233 €     | 42,062 €     | 43,891 €      | 45,720 €      |
+| `` +20%   | 43,891 € | 46,084 €     | 48,279 €     | 50,474 €     | 52,669 €      | 54,864 €      |
+| expert    | 41,148 € | 43,205 €     | 45,262 €     | 47,320 €     | 49,377 €      | 51,435 €      |
+| `` +20%   | 49,377 € | 51,846 €     | 54,314 €     | 56,784 €     | 59,252 €      | 61,722 €      |
+| principal | 50,292 € | 52,806 €     | 55,321 €     | 57,835 €     | 60,350 €      | 62,865 €      |
+| `` +20%   | 60,350 € | 63,367 €     | 66,385 €     | 69,402 €     | 72,420 €      | 75,438 €      |
+
+In addition to the salary, there is an annual participation bonus. This bonus corresponds to ~80% of the cooperative's annual profit divided equally between the cooperators. In 2021, the amount was €7,000 for a full time cooperator.
+
+The +20% lines apply to Parisian salaries.
