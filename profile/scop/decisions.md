@@ -39,6 +39,10 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 - Chèques culture de 100 €.
 - Tickets restaurant de 9 € (en chèque ou en carte).
 
+### Primes
+
+- La gérance (deux personnes) est rémunérée à hauteur de 3 % du chiffre d'affaires. Elle est plafonnée à 3 fois le salaire médian de la grille.
+
 ## Embauches
 
 ## Télétravail
