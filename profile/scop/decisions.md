@@ -9,9 +9,13 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 - Les coopérateur⋅rice⋅s se réunissent de préférence dans les bureaux de leur antenne respective pour suivre l’AG à distance.
 - Une fois par an, une AG est organisée dans une antenne autre que Lille.
 
+### Déplacements
+
+- Une politique de déplacement est mise en place. Dans les grandes lignes : réserver le plus tôt possible, privilégier les déplacements écologiques et économiques, récupération accordée en cas de déplacement en jour non ouvré, plafond de 150 € pour les logements.
+
 ## Intégration
 
-- La période d’intégration « non staffée » passe de 3 à 2 semaines, avec 1 semaine minimum à Lille ou dans une antenne (dans la mesure du possible).
+- La période d’intégration « non staffée » est de 2 semaines, avec 1 semaine minimum à Lille ou dans une antenne (dans la mesure du possible).
 
 ## Formation et montée en compétence
 
@@ -37,7 +41,7 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 
 - Chèques-cadeaux de 173 € environ pour Noël.
 - Chèques culture de 100 €.
-- Tickets restaurant de 9 € (en chèque ou en carte).
+- Tickets restaurant de 10 € (en chèque ou en carte).
 
 ### Primes
 
@@ -56,6 +60,7 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 ### Congés
 
 - 3 jours de congés pour des enfants malades sont pris en charge par la SCOP. Dans le cas des stagiaires, alternant·es, développeur⋅ses junior ou développeur⋅ses, ces 3 jours de congés peuvent aussi être pris pour toute raison exceptionnelle.
+- Un congé menstruel par mois est pris en charge.
 
 ### Heures supplémentaires
 
@@ -71,3 +76,4 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 
 - 100000 € de capital (environ 65 %) dans la SCI Les-Tilleuls.immo (locaux à Lille).
 - 2000 € de parts dans le café participatif de Bois Blancs (SCIC).
+- 4000 € dans la crèche coopérative Mêli-Mêlo (SCIC).
