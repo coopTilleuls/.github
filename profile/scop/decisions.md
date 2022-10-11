@@ -17,6 +17,10 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 
 - La période d’intégration « non staffée » est de 2 semaines, avec 1 semaine minimum à Lille ou dans une antenne (dans la mesure du possible).
 
+### Longue absence
+
+- Après une longue absence, un entretien RH a lieu afin d'informer le⋅la coopérateur⋅rice sur les changements ayant eu lieu pendant son absence et lui rappeler la possibilité de reprendre progressivement un rythme normal.
+
 ## Formation et montée en compétence
 
 - Une personne est dédiée au suivi et à la montée en compétences des développeur⋅ses de niveau junior.
