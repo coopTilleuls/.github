@@ -9,38 +9,41 @@ Our team today is composed of more than 60 people:
 | Mathias Arlaud          | backend developer                          | Lyon        | @mtarld             |
 | Thibaut Arnoud          | backend developer                          | Paris       | @ArnoudThibaut      |
 | Eleftheria Assimakis    | HR assistant                               | Lille       | @assimakis          |
-| Emmanuel Averty         | backend developer                          | Lille       | @emmanuel-tilleuls  |
 | Jordan Aubert           | backend developer                          | Lille       | @jordanaubert       |
+| Emmanuel Averty         | backend developer                          | Lille       | @emmanuel-tilleuls  |
 | Inès Azzouzi            | sales assistant                            | Lyon        |                     |
+| Emmanuel Barat          | developer                                  | Lilles      |                     |
 | Quentin Barloy          | backend developer                          | Lille       | @nitneuk            |
+| Davy Beauzil            | developer                                  | Amiens      |                     |
 | Jade Bellereau          | backend developer                          | Lille       | @GrimpEreau         |
+| Nawel Belounis          | backend developer                          | Rennes      |                     |
 | Helouri Beucherie       | backend developer                          | Lille       | @Hyrkules           |
-| Thomas Billard          | backend developer                          | Paris       | @thbil              |
 | Samuel Bigard           | developer                                  | Lille       | @samuelbigard       |
-| Alexis Bouchez          | developer                                  | Lille       | @alexisbouchez      |
-| Justine Bruneau Zahiri  | frontend developer                         | Paris       | @justinezahiri      |
+| Thomas Billard          | backend developer                          | Paris       | @thbil              |
 | Antoine Bluchet         | backend developer                          | Nantes      | @soyuka             |
 | Pascal Borreli          | consultant                                 | Paris       | @pborreli           |
+| Justine Bruneau-Zahiri  | frontend developer                         | Paris       | @justinezahiri      |
 | Antoine Cau             | developer                                  | Lille       | @AntoineCAU         |
 | Vincent Chalamon        | lead developer                             | Lille       | @vincentchalamon    |
 | Robin Chalas            | consultant                                 | Lyon        | @chalasr            |
 | Thomas Colin            | frontend developer                         | Nantes      | @thcolin            |
 | Grégory Copin           | technical director                         | Lille       | @Gregcop1           |
-| Olivia De Scheerder     | developer                                  | Nantes      | @Palingenae         |
+| Valentin Crochemore     | frontend developer                         | Paris       |                     |
 | Justine Delalleau       | frontend developer                         | Lille       | @chuticat           |
-| Julie Ducourneau        | frontend developer                         | Nantes      | @JulieNobody        |
+| Olivia De-Scheerder     | developer                                  | Nantes      | @Palingenae         |
+| Julie Ducourneau        | backend developer                          | Nantes      |                     |
 | Kévin Dunglas           | manager and technical director             | Lille       | @dunglas            |
 | Jonas Duval             | backend developer                          | Paris       | @jovuk              |
 | Élise Duverdier         | backend developer                          | Paris       | @eliseduverdier     |
-| Camille Gaquière        | project manager                            | Rennes      |                     |
-| Saif Eddin Gmati        | backend developer                          | Tunis       | @azjezz             |
 | Margaux Feslard         | backend developer                          | Lille       | @Margauxfeslard     |
 | Julien Francoz          | SRE                                        | Nantes      | @jfcoz              |
 | Arnaud Frézet           | backend developer                          | Lyon        | @johnkrovitch       |
 | Vincent Fuger           | backend developer                          | Lille       | @Rhedynen           |
-| Matthieu Harle          | developer                                  | Lille       | @Shywim             |
-| Cécile Helary Hamerel   | marketing and communication manager        | Lille       | @CecileAmrl         |
+| Camille Gaquiere        | project manager                            | Rennes      |                     |
+| Allison Guilhem         | backend developer                          | Lyon        |                     |
 | Grégoire Hébert         | backend developer & Masterclass co-manager | Lille       | @GregoireHebert     |
+| Cécile Helary-Hamerel   | marketing and communication manager        | Lille       | @CecileAmrl         |
+| Natacha Heubès          | backend developer                          | Paris       |                     |
 | Jérémy Huard            | frontend developer                         | Montpellier | @J3m5               |
 | Frédéric Jost           | backend developer                          | Lille       | @f-jost             |
 | Albin Kester            | backend developer                          | Nantes      | @stakovicz          |
@@ -49,25 +52,27 @@ Our team today is composed of more than 60 people:
 | Paul-Joseph Krogulec    | developer                                  | Lyon        | @pauljosephkrogulec |
 | Malika Lahfaoui         | developer                                  | Oujda       | @malikalahfaoui     |
 | Julien Lary             | backend developer                          | Lille       | @laryjulien         |
+| Xavier Laviron          | backend developer                          | Nancy       |                     |
 | Jacques Lefebvre        | backend developer                          | Lille       | @jockos             |
 | Marc Lemay              | backend developer                          | Nantes      | @flug               |
 | Olivier Lenancker       | financial director                         | Lille       | @lenancker          |
+| Raphaël Marchese        | developer                                  | Lille       |                     |
 | Baptiste Meyer          | backend developer                          | Lille       | @meyerbaptiste      |
+| Philippe Mironov        | technical commercial                       | Russie      |                     |
+| Hugo Moubèche           | SRE                                        | Nantes      |                     |
 | Nicolas Philippe        | backend developer                          | Lyon        | @nikophil           |
 | Alan Poulain            | consultant                                 | Paris       | @alanpoulain        |
 | Pierre Rebeilleau       | backend developer                          | Lille       | @PierreRebeilleau   |
-| Auriane Quilliot        | events and marketing manager               | Lille       |   
 | Cécile Ropital          | consultant and project manager             | Lille       | @cecileropital      |
-| Sarah Sharaoui          | developer                                  | Lille       | @sarah-lestilleuls  |
+| Sarah Sahraoui          | developer                                  | Lille       | @sarah-lestilleuls  |
 | Thomas Samson           | SRE                                        | Nantes      | @ThomasSamson       |
 | Laury Sorriaux          | frontend developer & designer              | Lille       | @ginifizz           |
 | Clément Talleu          | backend developer                          | Lille       | @clementtalleu      |
-| Jerome Tanghe           | backend developer                          | Lille       | @Deuchnord          |
-| Pierre Thibaudeau       | backend developer                          | Nantes      | @PierreThibaudeau   |
-| Jean-François Thuillier | backend developer                          | Lille       | @jfthuillier        |
+| Jérôme Tanghe           | backend developer                          | Lille       | @Deuchnord          |
 | Thomas Thorez           | administrative assistant                   | Lille       | @ThomasThorez       |
+| Jean-François Thuillier | backend developer                          | Lille       | @jfthuillier        |
 | Maxime Urbanski         | frontend developer                         | Lille       | @maxime-urbanski    |
-| Kévin Van Der Stracten  | backend developer                          | Nantes      | @Zowac              |
+| Kévin Van-Der-Stracten  | backend developer                          | Nantes      | @Zowac              |
 | Loïc Vernet             | backend developer                          | Lille       | @COil               |
 
 To contact anyone, use `firstname.lastname@les-tilleuls.coop`
