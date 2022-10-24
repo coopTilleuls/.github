@@ -11,6 +11,7 @@ Nous créons, contribuons et maintenons une multitude de logiciels libres comme 
 * [💌 Mercure](https://github.com/dunglas/mercure) : un protocole simplifiant le temps réel, avec une implémentation de référence écrite en Go
 * [🔨 Vulcain](https://github.com/dunglas/vulcain) : un protocole permettant de créer des API REST orientées client, avec une implémentation de référence écrite en Go
 * [⚡️ React ESI](https://github.com/dunglas/react-esi) : une bibliothèque de cache pour les applications React et Next.js, capable de créer des applications dynamiques aussi rapides que des sites statiques
+* [🐲 FrankenPHP](https://github.com/dunglas/frankenphp): serveur PHP moderne écrit en Go
 * [📚 PHP Standard Library](https://github.com/azjezz/psl) : un ensemble d’APIs pour les devs PHP
 * [📄 Doctrine JSON ODM](https://github.com/dunglas/doctrine-json-odm) : un ODM pour l’ORM Doctrine
 * [🛡️ OAuth2 Server Bundle](https://github.com/thephpleague/oauth2-server-bundle) : un bundle intégrant la bibliothèque oauth2-server dans les applications Symfony

@@ -4,13 +4,14 @@
 
 Les-Tilleuls.coop is a tech [worker cooperative](https://en.wikipedia.org/wiki/Worker_cooperative) specialized in e-commerce, trainings and free software. We bring your projects to life by combining creativity, durability and cutting-edge development.
 
-If you're interested in the free software we back, check out their dedicated GitHub pages:
+If you’re interested in the free software we back, check out their dedicated GitHub pages:
 
 * [🕷 API Platform](https://github.com/api-platform): create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time, written in PHP and TypeScript
 * [🎼 Symfony](https://github.com/symfony): a set of reusable PHP components and a framework for web projects
 * [💌 Mercure](https://github.com/dunglas/mercure): real-time made easy, open protocol and reference implementation written in Go
 * [🔨 Vulcain](https://github.com/dunglas/vulcain): fast and idiomatic client-driven REST APIs, open protocol and reference implementation written in Go
 * [⚡️ React ESI](https://github.com/dunglas/react-esi): blazing-fast Server-Side Rendering for React and Next.js, written in TypeScript
+* [🐲 FrankenPHP](https://github.com/dunglas/frankenphp): modern PHP app server written in Go
 * [📚 PHP Standard Library](https://github.com/azjezz/psl): a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 * [📄 Doctrine JSON ODM](https://github.com/dunglas/doctrine-json-odm): an Object-Document Mapper (ODM) for Doctrine ORM leveraging new JSON types of modern RDBMS
 * [🛡️ OAuth2 Server Bundle](https://github.com/thephpleague/oauth2-server-bundle): a spec compliant, secure by default PHP OAuth 2.0 Server for Symfony

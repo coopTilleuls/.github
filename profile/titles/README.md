@@ -61,23 +61,27 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - Invente de nouveaux concepts, fait régulièrement progresser l’ensemble de l’organisation.
 - Généralement au moins 15 ans d’expérience en tant que programmeur professionnel.
 
+<!--
 # Résumé de la grille de salaire
 
-| niveau    | brut annuel | 2 ans ancienneté | 5 ans    | 7 ans    | 10 ans   | 15 ans   |
-| --------- | ----------- | ---------------- | -------- | -------- | -------- | -------- |
-| junior    | 20,116 €    |                  |          |          |          |          |
-| `` +20%   | 24,139 €    |                  |          |          |          |          |
-| confirmé  | 27,432 €    | 28,803 €         | 30,175 € | 31,546 € | 32,918 € | 34,290 € |
-| `` +20%   | 32,918 €    | 34,563 €         | 36,210 € | 37,855 € | 39,501 € | 41,148 € |
-| senior    | 32,004 €    | 33,604 €         | 35,204 € | 36,804 € | 38,404 € | 40,005 € |
-| `` +20%   | 38,404 €    | 40,324 €         | 42,244 € | 44,164 € | 46,084 € | 48,006 € |
-| lead      | 36,576 €    | 38,404 €         | 40,233 € | 42,062 € | 43,891 € | 45,720 € |
-| `` +20%   | 43,891 €    | 46,084 €         | 48,279 € | 50,474 € | 52,669 € | 54,864 € |
-| expert    | 41,148 €    | 43,205 €         | 45,262 € | 47,320 € | 49,377 € | 51,435 € |
-| `` +20%   | 49,377 €    | 51,846 €         | 54,314 € | 56,784 € | 59,252 € | 61,722 € |
-| principal | 50,292 €    | 52,806 €         | 55,321 € | 57,835 € | 60,350 € | 62,865 € |
-| `` +20%   | 60,350 €    | 63,367 €         | 66,385 € | 69,402 € | 72,420 € | 75,438 € |
+| niveau    | brut annuel à l’entrée |
+| --------- | ----------- |
+| junior    | 20,116 €    |
+| `` +20%   | 24,139 €    |
+| confirmé  | 27,432 €    |
+| `` +20%   | 32,918 €    |
+| senior    | 32,004 €    |
+| `` +20%   | 38,404 €    |
+| lead      | 36,576 €    |
+| `` +20%   | 43,891 €    |
+| expert    | 41,148 €    |
+| `` +20%   | 49,377 €    |
+| principal | 50,292 €    |
+| `` +20%   | 60,350 €    |
+
+Des primes d'ancienneté sont également prévues après 3, 5, 7, 10 et 15 années passées en tant que coopérateur.
 
 Au salaire s’ajoute une prime de participation annuelle. Cette prime corresponds à ~80% du bénéfice annuel de la coopérative répartis à parts égales entre tous les coopérateurs. En 2021, son montant s'élevait à 7 000€ bruts pour un coopérateur travaillant à temps plein.
 
 Les lignes +20% s'appliquent aux salaires parisiens.
+-->
