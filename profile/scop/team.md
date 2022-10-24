@@ -40,7 +40,7 @@ Our team today is composed of more than 60 people:
 | Arnaud Frézet           | backend developer                          | Lyon        | @johnkrovitch       |
 | Vincent Fuger           | backend developer                          | Lille       | @Rhedynen           |
 | Camille Gaquiere        | project manager                            | Rennes      |                     |
-| Allison Guilhem         | backend developer                          | Lyon        |                     |
+| Allison Guilhem         | backend developer                          | Lyon        | alli83              |
 | Grégoire Hébert         | backend developer & Masterclass co-manager | Lille       | @GregoireHebert     |
 | Cécile Helary-Hamerel   | marketing and communication manager        | Lille       | @CecileAmrl         |
 | Natacha Heubès          | backend developer                          | Paris       |                     |
