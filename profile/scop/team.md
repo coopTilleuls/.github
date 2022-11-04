@@ -12,9 +12,9 @@ Our team today is composed of more than 60 people:
 | Jordan Aubert           | backend developer                          | Lille       | @jordanaubert       |
 | Emmanuel Averty         | backend developer                          | Lille       | @emmanuel-tilleuls  |
 | Inès Azzouzi            | sales assistant                            | Lyon        |                     |
-| Emmanuel Barat          | developer                                  | Lilles      |                     |
+| Emmanuel Barat          | developer                                  | Lille       |                     |
 | Quentin Barloy          | backend developer                          | Lille       | @nitneuk            |
-| Davy Beauzil            | developer                                  | Amiens      |                     |
+| Davy Beauzil            | developer                                  | Angouleme   |                     |
 | Jade Bellereau          | backend developer                          | Lille       | @GrimpEreau         |
 | Nawel Belounis          | backend developer                          | Rennes      |                     |
 | Helouri Beucherie       | backend developer                          | Lille       | @Hyrkules           |
@@ -29,8 +29,7 @@ Our team today is composed of more than 60 people:
 | Thomas Colin            | frontend developer                         | Nantes      | @thcolin            |
 | Grégory Copin           | technical director                         | Lille       | @Gregcop1           |
 | Valentin Crochemore     | frontend developer                         | Paris       |                     |
-| Justine Delalleau       | frontend developer                         | Lille       | @chuticat           |
-| Olivia De-Scheerder     | developer                                  | Nantes      | @Palingenae         |
+| Justine Delalleau       | frontend developer                         | Lille       | @chuticat           |                                   
 | Julie Ducourneau        | backend developer                          | Nantes      |                     |
 | Kévin Dunglas           | manager and technical director             | Lille       | @dunglas            |
 | Jonas Duval             | backend developer                          | Paris       | @jovuk              |
