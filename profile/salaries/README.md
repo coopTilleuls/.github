@@ -24,7 +24,7 @@ Toutes et tous les salarié•es bénéficient également de nombreux avantages 
 
 Le temps de travail hebdomadaire est de 35H (réelles).
 
-* [Lire sur le blog le processur d'élaboration de cette grille](https://les-tilleuls.coop/blog/grille-salariale-a-vote)
+* [Lire sur le blog le processus d'élaboration de cette grille](https://les-tilleuls.coop/blog/grille-salariale-a-vote)
 * [Voir les compétences associés aux titres](../titles/README.md)
 
 Note : cette grille **n'inclut pas** la prime de participation.
