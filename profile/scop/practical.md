@@ -20,9 +20,6 @@ Il est possible de faire du télétravail au sein de Les-Tilleuls.coop. Dans ce 
 
 Le⋅la coopérateur⋅rice qui souhaite opter pour cette organisation du travail doit prévenir l’employeur qui est libre de refuser la demande si cela impacte l’organisation du travail (mission en régie, réunion importante, formation, rendez-vous nécessitant la présence du salarié...).
 
-## Compte rendu d’activité (CRA)
-
-Vous serez amené à remplir un compte rendu d’activité hebdomadaire sur BoondManager, notre ERP. Cet outil permet d’indiquer le type de missions que vous réalisez (projets internes comme externes). Rapprochez-vous de Thomas (thomas@les-tilleuls.coop) afin d’obtenir votre accès.
 
 ## Congés, absences et retards
 
