@@ -1,11 +1,11 @@
 # Salaires
 
-Chez Les-Tilleuls.coop, tous les salarié•es sont placé sur une grille disposant de 6 niveaux, qui dépendent des compétences et de l'expérience.
+Chez Les-Tilleuls.coop, tous les salarié•es sont placé•es sur une grille disposant de 6 niveaux, qui dépendent des compétences et de l'expérience.
 
 Les revenus sont composés de 3 parties :
 
-1. un salaire fixe déterminé par la place dans les grilles (toutes les personne au même niveau ont le même salaire fixe)
-2. la participation aux bénéfices : 80 % des bénéfices réalisés par la coopératives sont répartis égalitairement entre toutes et tous les salarié•es, au prorata du temps de travail annuel effectif (les 20 % restants sont mis en réserve pour investir et faire face à d’éventuels coups durs) ; si cette prime peut être prise immédiatement ou au bout de 5 ans, auquel cas elle n'est pas imposable
+1. un salaire fixe déterminé par la place dans la grille (toutes les personnes au même niveau ont le même salaire fixe)
+2. la participation aux bénéfices : 80 % des bénéfices réalisés par la coopérative sont répartis égalitairement entre toutes et tous les salarié•es, au prorata du temps de travail annuel effectif (les 20 % restants sont mis en réserve pour investir et faire face à d’éventuels coups durs) ; si cette prime peut être touchée immédiatement ou au bout de 5 ans, auquel cas elle n'est pas imposable
 3. une prime d’ancienneté dans la coopérative
 
 Les salarié•es habitant en région parisienne bénéficient également d'un bonus de 20%.
