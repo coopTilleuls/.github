@@ -12,7 +12,6 @@ If you’re interested in the free software we back, check out their dedicated G
 * [🔨 Vulcain](https://github.com/dunglas/vulcain): fast and idiomatic client-driven REST APIs, open protocol and reference implementation written in Go
 * [⚡️ React ESI](https://github.com/dunglas/react-esi): blazing-fast Server-Side Rendering for React and Next.js, written in TypeScript
 * [🐲 FrankenPHP](https://github.com/dunglas/frankenphp): modern PHP app server written in Go
-* [📚 PHP Standard Library](https://github.com/azjezz/psl): a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 * [📄 Doctrine JSON ODM](https://github.com/dunglas/doctrine-json-odm): an Object-Document Mapper (ODM) for Doctrine ORM leveraging new JSON types of modern RDBMS
 * [🛡️ OAuth2 Server Bundle](https://github.com/thephpleague/oauth2-server-bundle): a spec compliant, secure by default PHP OAuth 2.0 Server for Symfony
 * [🏄 ESQL](https://github.com/soyuka/esql): PHP Extended SQL
