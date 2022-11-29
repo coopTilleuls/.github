@@ -1,6 +1,6 @@
 # Salaires
 
-Chez Les-Tilleuls.coop, tous les salarié•es sont placé•es sur une grille disposant de 6 niveaux, qui dépendent des compétences et de l'expérience.
+Chez [Les-Tilleuls.coop](https://les-tilleuls.coop), tous les salarié•es sont placé•es sur une grille disposant de 6 niveaux, qui dépendent des compétences et de l'expérience.
 
 Les revenus sont composés de 3 parties :
 
