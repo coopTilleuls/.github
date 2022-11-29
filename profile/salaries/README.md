@@ -12,16 +12,15 @@ Les salarié•es habitant en région parisienne bénéficient également d'un b
 
 Toutes et tous les salarié•es bénéficient également de nombreux avantages en nature :
 
-* Chèques déjeuner
-* Chèques Cadhoc
-* Chèques culture
-* Chèques lire
-* Forfait mobilités durables
+* [Chèques Déjeuner](https://up.coop/updejeuner/employeurs)
+* [Chèques Cadhoc](https://boutiques.cheque-cadhoc.fr/)
+* [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/)
+* [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd)
 * Remboursement de 100€ par an sur une licence dans un club de sport
-* [Congé menstruel](https://les-tilleuls.coop/blog/conge-menstruel)
 * Mutuelle prise en charge à 100% par la coopérative
-* Remboursement des abonnements de transport en commun
-* Congés sans soldes illimités
+* [Remboursement de 50% d'un aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
+* [Congé menstruel](https://les-tilleuls.coop/blog/conge-menstruel)
+* Congé sans solde illimité
 
 Le temps de travail hebdomadaire est de 35H (réelles).
 
