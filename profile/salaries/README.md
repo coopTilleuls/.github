@@ -51,7 +51,10 @@ Historique des primes de participation depuis la création, pour un salarié aya
 | **2017**           | 10 666  |
 | **2018**           | 16 218  |
 | **2019**           | 6 932   |
-| **Total fin 2019** | 52 793  |
+| **2020**           | 5754    |
+| **2021**           | 7785,73 |
+
+Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative.
 
 ## Règles de calcul du bonus d'ancienneté
 
