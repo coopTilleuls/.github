@@ -43,24 +43,24 @@ Note : cette grille **n'inclut pas** la prime de participation.
 
 Historique des primes de participation depuis la création, pour un salarié ayant travaillé à temps plein et une année complète :
 
-| **2012**           | **986** |
-|--------------------|---------|
-| **2013**           | 2 398   |
-| **2015**           | 6 159   |
-| **2016**           | 9 434   |
-| **2017**           | 10 666  |
-| **2018**           | 16 218  |
-| **2019**           | 6 932   |
-| **2020**           | 5754    |
-| **2021**           | 7785,73 |
+| **Exercice** | **Montant** |
+| 2012         | 986         |
+| 2013         | 2 398       |
+| 2015         | 6 159       |
+| 2016         | 9 434       |
+| 2017         | 10 666      |
+| 2018         | 16 218      |
+| 2019         | 6 932       |
+| 2020         | 5 754       |
+| 2021         | 7 786       |
 
 Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative.
 
 ## Règles de calcul du bonus d'ancienneté
 
-| Ancienneté | **Pourcentage de bonus** |
-| 2          | 5                        |
-| 5          | 10                       |
-| 7          | 15                       |
-| 10         | 20                       |
-| 15         | 25                       |
+| **Ancienneté** | **Pourcentage de bonus** |
+| 2              | 5                        |
+| 5              | 10                       |
+| 7              | 15                       |
+| 10             | 20                       |
+| 15             | 25                       |
