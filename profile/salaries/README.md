@@ -54,12 +54,11 @@ Historique des primes de participation depuis la création, pour un salarié aya
 | **2019**           | 6 932   |
 | **Total fin 2019** | 52 793  |
 
-## Règles de calcul du bonus d'anciennetté
+## Règles de calcul du bonus d'ancienneté
 
-| **Ancienneté** | **Pourcentage de bonus** |
-|----------------|--------------------------|
-| **2**          | 5                        |
-| **5**          | 10                       |
-| **7**          | 15                       |
-| **10**         | 20                       |
-| **15**         | 25                       |
+| Ancienneté | **Pourcentage de bonus** |
+| 2          | 5                        |
+| 5          | 10                       |
+| 7          | 15                       |
+| 10         | 20                       |
+| 15         | 25                       |
