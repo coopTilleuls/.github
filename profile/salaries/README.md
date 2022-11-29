@@ -18,7 +18,7 @@ Toutes et tous les salarié•es bénéficient également de nombreux avantages 
 * [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd)
 * Remboursement de 100€ par an sur une licence dans un club de sport
 * Mutuelle prise en charge à 100% par la coopérative
-* [Remboursement de 50% d'un aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
+* [Remboursement de 50% d'un abonnement aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
 * [Congé menstruel](https://les-tilleuls.coop/blog/conge-menstruel)
 * Congé sans solde illimité
 
