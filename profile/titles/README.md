@@ -8,6 +8,8 @@ Chez [Les-Tilleuls.coop](https://les-tilleuls.coop), nous utilisons les critère
 
 Ces critères examinent la capacité de travail qu’une personne est capable d’effectuer de manière indépendante. Outre cette évaluation, nous examinons également la qualité de l’exécution elle-même.
 
+**[Voir les salaires correspondants](../salaries/README.md)
+
 ## Développeur junior
 
 - Les réalisations sont examinées de manière approfondie et de nombreuses modifications sont généralement nécessaires avant de merger le code.
