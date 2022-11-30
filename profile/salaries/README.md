@@ -77,6 +77,7 @@ Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune entrepri
 |------------------------|--------------------|--------------------|
 | Chèques Déjeuner       | 5,2€               | 4,8€               |
 | Mutuelle               | 72,50€             | 0€                 | 
-| Chèques Lire           | 100€               | 0€                 |
+| Chèques culture        | 100€               | 0€                 |
+| Prime télétravail      | 20€                | 0€                 |
 | Chèques Cadhoc         | 171€               | 0€                 |
 | Prime mobilité durable | 700€               | 0€                 |
