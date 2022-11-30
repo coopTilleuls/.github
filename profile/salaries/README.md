@@ -27,7 +27,7 @@ Toutes et tous les salarié•es bénéficient également de nombreux avantages 
 * Possibilité de poser des congés par anticipation (congés acquis) 
 * 2 congés supplémentaires : lundi de pentecôte et le jeudi de l'ascension
 * Prime télétravail à hauteur de 20€/mois
-* Carte Liberté pour les coopérateurs des agences et ceux qui voyagent régulièrement (379€)
+* Carte SNCF Liberté pour les coopérateurs en ayant besoin (379€)
 * Nombreuses formations interne ( pôle formation ) 
 * Participation à des conférences (budget de 1000€/an)
 
