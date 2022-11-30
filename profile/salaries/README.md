@@ -17,7 +17,7 @@ Toutes et tous les salarié•es bénéficient également de nombreux avantages 
 * [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/)
 * [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd)
 * Remboursement de 100€ par an sur une licence dans un club de sport
-* Mutuelle prise en charge à 100% par la coopérative
+* Mutuelle prise en charge à 100% par la coopérative (73,50€/mois)
 * [Remboursement de 50% d'un abonnement aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
 * [Congé menstruel](https://les-tilleuls.coop/blog/conge-menstruel)
 * Congé sans solde illimité
