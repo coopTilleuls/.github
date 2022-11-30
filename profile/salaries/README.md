@@ -1,4 +1,4 @@
-# Salaires
+# Revenus
 
 Chez [Les-Tilleuls.coop](https://les-tilleuls.coop), tous les salarié•es sont placé•es sur une grille disposant de 6 niveaux, qui dépendent des compétences et de l'expérience.
 
@@ -12,26 +12,9 @@ Les revenus sont composés de plusieurs parties :
 
 Les salarié•es habitant en région parisienne bénéficient également d'un bonus de 20%.
 
-Toutes et tous les salarié•es bénéficient également de nombreux avantages :
-
-* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs). Possibilité de choisir entre la carte ou les chèques papier. Valeur unitaire de 10€ avec prise en charge par la SCOP à hauteur de 6€ et 4€ par le coopérateur.
-* [Chèques Cadhoc](https://boutiques.cheque-cadhoc.fr/) (171€/an)
-* [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/) (100€/an)
-* [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd)
-* Remboursement de 100€ par an sur une licence dans un club de sport
-* Mutuelle prise en charge à 100% par la coopérative (73,50€/mois)
-* [Remboursement de 50% d'un abonnement aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
-* [Congé menstruel](https://les-tilleuls.coop/blog/conge-menstruel)
-* Congé sans solde illimité
-* Liberté dans la pose des congés 
-* Possibilité de poser des congés par anticipation (congés acquis) 
-* 2 congés supplémentaires : lundi de pentecôte et le jeudi de l'ascension
-* Prime télétravail à hauteur de 20€/mois
-* Carte SNCF Liberté pour les coopérateurs en ayant besoin (379€)
-* Nombreuses formations interne ( pôle formation ) 
-* Participation à des conférences (budget de 1000€/an)
-
 Le temps de travail hebdomadaire est de 35H (réelles).
+
+## Salaires
 
 * [Lire sur le blog le processus d'élaboration de cette grille](https://les-tilleuls.coop/blog/grille-salariale-a-vote)
 * [Voir les compétences associés aux titres](../titles/README.md)
@@ -47,7 +30,7 @@ Note : cette grille **n'inclut pas** les autres parts de la rémunération (part
 | **Expert Programmer**    | 42 012,11€                 |
 | **Principal Programmer** | 51 348,13€                 |
 
-# Primes de participation
+# Prime de participation
 
 Historique des primes de participation depuis la création, pour un salarié ayant travaillé à temps plein et une année complète :
 
@@ -65,7 +48,37 @@ Historique des primes de participation depuis la création, pour un salarié aya
 
 Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative.
 
-## Règles de calcul du bonus d'ancienneté
+## Avantages
+
+Toutes et tous les salarié•es bénéficient également de nombreux avantages :
+
+* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs). Possibilité de choisir entre la carte ou les chèques papier. Valeur unitaire de 10€ avec prise en charge par la coopérative à hauteur de 5,20€ et 4,80€ par le coopérateur.
+* [Chèques Cadhoc](https://boutiques.cheque-cadhoc.fr/) (171€/an)
+* [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/) (100€/an)
+* [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd)
+* Remboursement de 100€ par an sur une licence dans un club de sport
+* Mutuelle prise en charge à 100% par la coopérative (73,50€/mois)
+* [Remboursement de 50% d'un abonnement aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
+* [Congé menstruel](https://les-tilleuls.coop/blog/conge-menstruel)
+* Congé sans solde illimité
+* Liberté dans la pose des congés 
+* Possibilité de poser des congés par anticipation (congés acquis) 
+* 2 congés supplémentaires : lundi de pentecôte et le jeudi de l'ascension
+* Prime télétravail à hauteur de 20€/mois
+* Carte SNCF Liberté pour les coopérateurs en ayant besoin (379€)
+* Nombreuses formations interne ( pôle formation ) 
+* Participation à des conférences (budget de 1000€/an)
+
+| **Objet**              | **Part employeur** | **Part salarié•e** |
+|------------------------|--------------------|--------------------|
+| Chèques Déjeuner       | 5,2€/ticket        | 4,8€/ticket        |
+| Mutuelle               | 72,50€/mois        | 0€                 | 
+| Chèques culture        | 100€/an            | 0€                 |
+| Prime télétravail      | 20€/mpis maximum   | 0€                 |
+| Chèques Cadhoc         | 171€/an            | 0€                 |
+| Prime mobilité durable | 700€/an maximum    | 0€                 |
+
+## Bonus d'ancienneté dans la coopérative
 
 | **Ancienneté** | **Bonus** |
 |----------------|-----------|
@@ -74,14 +87,3 @@ Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune entrepri
 | 7 ans          | 15%       |
 | 10 ans         | 20%       |
 | 15 ans         | 25%       |
-
-## Autres avantages
-
-| **Objet**              | **Part employeur** | **Part salarié•e** |
-|------------------------|--------------------|--------------------|
-| Chèques Déjeuner       | 5,2€               | 4,8€               |
-| Mutuelle               | 72,50€             | 0€                 | 
-| Chèques culture        | 100€               | 0€                 |
-| Prime télétravail      | 20€                | 0€                 |
-| Chèques Cadhoc         | 171€               | 0€                 |
-| Prime mobilité durable | 700€               | 0€                 |
