@@ -10,7 +10,7 @@ Les revenus sont composés de 3 parties :
 
 Les salarié•es habitant en région parisienne bénéficient également d'un bonus de 20%.
 
-Toutes et tous les salarié•es bénéficient également de nombreux avantages en nature :
+Toutes et tous les salarié•es bénéficient également de nombreux avantages :
 
 * [Chèques Déjeuner](https://up.coop/updejeuner/employeurs)
 * [Chèques Cadhoc](https://boutiques.cheque-cadhoc.fr/)
@@ -64,3 +64,14 @@ Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune entrepri
 | 7              | 15                       |
 | 10             | 20                       |
 | 15             | 25                       |
+
+## Règles de calcul autres avantages en 2022 en €
+
+| **Objet** | **Participation employeur** | **Participation salariale** |
+| Ticket restaurant | 5,2 | 4,8 |
+| Mutuelle | 72,50 | 
+| Chèques lire | 100 |
+| Chèques cadhoc | 171 |
+| Prime mobilité durable | 700 |
+
+ 
