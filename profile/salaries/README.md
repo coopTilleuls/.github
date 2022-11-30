@@ -23,12 +23,12 @@ Note : cette grille **n'inclut pas** les autres parts de la rémunération (part
 
 | **Titre**                | **Salaire de base annuel** |
 |--------------------------|----------------------------|
-| **Junior Programmer**    | 24 504,00€                 |
-| **Programmer**           | 30 630,00€                 |
-| **Senior Programmer**    | 32 676,08€                 |
-| **Lead Programmer**      | 37 344,10€                 |
-| **Expert Programmer**    | 42 012,11€                 |
-| **Principal Programmer** | 51 348,13€                 |
+| **Junior Programmer**    | 24 504,00 €                |
+| **Programmer**           | 30 630,00 €                |
+| **Senior Programmer**    | 32 676,08 €                |
+| **Lead Programmer**      | 37 344,10 €                |
+| **Expert Programmer**    | 42 012,11 €                |
+| **Principal Programmer** | 51 348,13 €                |
 
 # Prime de participation
 
@@ -36,15 +36,15 @@ Historique des primes de participation depuis la création, pour un salarié aya
 
 | **Exercice** | **Montant** |
 |--------------|-------------|
-| 2021         | 7 786€      |
-| 2020         | 5 754€      |
-| 2019         | 6 932€      |
-| 2018         | 16 218€     |
-| 2017         | 10 666€     |
-| 2016         | 9 434€      |
-| 2015         | 6 159€      |
-| 2013         | 2 398€      |
-| 2012         | 986€        |
+| 2021         | 7 786 €     |
+| 2020         | 5 754 €     |
+| 2019         | 6 932 €     |
+| 2018         | 16 218 €    |
+| 2017         | 10 666 €    |
+| 2016         | 9 434 €     |
+| 2015         | 6 159 €     |
+| 2013         | 2 398 €     |
+| 2012         | 986 €       |
 
 Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative, et par la mise en place de la PPV dès sa création.
 
@@ -52,31 +52,31 @@ Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune entrepri
 
 Toutes et tous les salarié•es bénéficient également de nombreux avantages :
 
-* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs). Possibilité de choisir entre la carte ou les chèques papier. Valeur unitaire de 10€ avec prise en charge par la coopérative à hauteur de 5,20€ et 4,80€ par le coopérateur.
-* [Chèques Cadhoc](https://boutiques.cheque-cadhoc.fr/) (171€/an)
-* [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/) (100€/an)
-* [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd)
-* Remboursement de 100€ par an sur une licence dans un club de sport
-* Mutuelle prise en charge à 100% par la coopérative (73,50€/mois)
+### Avantages en nature et primes
+
+* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs). Possibilité de choisir entre la carte ou les chèques papier. Valeur unitaire de 10 € avec prise en charge par la coopérative à hauteur de 5,20 € et 4,80 € par le coopérateur.
+* [Chèques Cadhoc](https://boutiques.cheque-cadhoc.fr/) (171 €/an)
+* [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/) (100 €/an)
+* [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd) (jusqu'à 700 € par an)
+* Prime télétravail à hauteur de 20 €/mois
+* Remboursement de 100 € par an sur une licence dans un club de sport
+* Mutuelle prise en charge à 100% par la coopérative (73,50 €/mois)
 * [Remboursement de 50% d'un abonnement aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
+* Carte SNCF Liberté pour les coopérateurs en ayant besoin (379 €)
+
+### Congés
+
+* 2 jours de congés payés supplémentaires : lundi de pentecôte et le jeudi de l'ascension
 * [Congé menstruel](https://les-tilleuls.coop/blog/conge-menstruel)
 * Congé sans solde illimité
-* Liberté dans la pose des congés 
-* Possibilité de poser des congés par anticipation (congés acquis) 
-* 2 congés supplémentaires : lundi de pentecôte et le jeudi de l'ascension
-* Prime télétravail à hauteur de 20€/mois
-* Carte SNCF Liberté pour les coopérateurs en ayant besoin (379€)
-* Nombreuses formations interne ( pôle formation ) 
-* Participation à des conférences (budget de 1000€/an)
+* Liberté dans la pose des congés
+* Possibilité de poser des congés par anticipation (congés acquis)
 
-| **Objet**              | **Part employeur** | **Part salarié•e** |
-|------------------------|--------------------|--------------------|
-| Chèques Déjeuner       | 5,2€/ticket        | 4,8€/ticket        |
-| Mutuelle               | 72,50€/mois        | 0€                 | 
-| Chèques culture        | 100€/an            | 0€                 |
-| Prime télétravail      | 20€/mpis maximum   | 0€                 |
-| Chèques Cadhoc         | 171€/an            | 0€                 |
-| Prime mobilité durable | 700€/an maximum    | 0€                 |
+### Formation et communauté
+
+* Budget de 1000 €/an pour participer à des conférences
+* Nombreuses formations internes (pôle formation)
+* Possibilité de contribuer au logiciel libre sur son temps de travail après accord de l'Assemblée Générale
 
 ## Bonus d'ancienneté dans la coopérative
 
