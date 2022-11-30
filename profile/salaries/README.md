@@ -66,7 +66,7 @@ Toutes et tous les salarié•es bénéficient également de nombreux avantages 
 
 ### Congés
 
-* 2 jours de congés payés supplémentaires : lundi de pentecôte et le jeudi de l'ascension
+* 2 jours de congés payés supplémentaires : le lundi de pentecôte et le jeudi de l'ascension
 * [Congé menstruel](https://les-tilleuls.coop/blog/conge-menstruel)
 * Congé sans solde illimité
 * Liberté dans la pose des congés
