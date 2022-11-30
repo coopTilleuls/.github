@@ -36,17 +36,17 @@ Historique des primes de participation depuis la création, pour un salarié aya
 
 | **Exercice** | **Montant** |
 |--------------|-------------|
-| 2012         | 986€        |
-| 2013         | 2 398€      |
-| 2015         | 6 159€      |
-| 2016         | 9 434€      |
-| 2017         | 10 666€     |
-| 2018         | 16 218€     |
-| 2019         | 6 932€      |
-| 2020         | 5 754€      |
 | 2021         | 7 786€      |
+| 2020         | 5 754€      |
+| 2019         | 6 932€      |
+| 2018         | 16 218€     |
+| 2017         | 10 666€     |
+| 2016         | 9 434€      |
+| 2015         | 6 159€      |
+| 2013         | 2 398€      |
+| 2012         | 986€        |
 
-Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative.
+Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative, et par la mise en place de la PPV dès sa création.
 
 ## Avantages
 
