@@ -21,6 +21,9 @@ Toutes et tous les salarié•es bénéficient également de nombreux avantages 
 * [Remboursement de 50% d'un abonnement aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
 * [Congé menstruel](https://les-tilleuls.coop/blog/conge-menstruel)
 * Congé sans solde illimité
+* 2 congés supplémentaires : lundi de pentecôte et le jeudi de l'ascension
+* Prime télétravail à hauteur de 20€/mois
+* Carte Liberté pour les coopérateurs des agences et ceux qui voyagent régulièrement (379€)
 
 Le temps de travail hebdomadaire est de 35H (réelles).
 
