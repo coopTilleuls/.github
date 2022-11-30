@@ -14,7 +14,7 @@ Toutes et tous les salarié•es bénéficient également de nombreux avantages 
 
 * [Chèques Déjeuner](https://up.coop/updejeuner/employeurs). Possibilité de choisir entre la carte ou les chèques papier. Valeur unitaire de 10€ avec prise en charge par la SCOP à hauteur de 6€ et 4€ par le coopérateur.
 * [Chèques Cadhoc](https://boutiques.cheque-cadhoc.fr/) (171€/an)
-* [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/)
+* [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/) (100€/an)
 * [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd)
 * Remboursement de 100€ par an sur une licence dans un club de sport
 * Mutuelle prise en charge à 100% par la coopérative (73,50€/mois)
