@@ -10,7 +10,7 @@ Les revenus sont composés de plusieurs parties :
 4. Un [bonus d'ancienneté](#bonus-dancienneté) dans la coopérative.
 5. Des [avantages](#avantages).
 
-Les salarié·e·s habitant en région parisienne bénéficient également d'un bonus de 20%.
+Les salarié·e·s habitant en région parisienne bénéficient également d'un bonus de 20 %.
 
 Le temps de travail hebdomadaire est de 35H (réelles).
 Il est possible, au cas par cas et avec l'accord du coopérateur et de la coopérative, d'effectuer des heures supplémentaires rémunérées.
@@ -69,8 +69,8 @@ Tou·te·s les salarié·e·s bénéficient également de nombreux avantages :
 * [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd) (jusqu'à 700 € par an)
 * Prime télétravail à hauteur de 20 € / mois
 * Remboursement de 100 € / an sur une licence dans un club de sport
-* [Mutuelle Malakoff Humanis base conventionnelle + option 2](https://www.malakoffhumanis.com/entreprises/conventions-collectives-nationales/bureaux-etudes-techniques/) prise en charge à 100% par la coopérative (73,50 € / mois)
-* [Remboursement de 50% d'un abonnement aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
+* [Mutuelle Malakoff Humanis base conventionnelle + option 2](https://www.malakoffhumanis.com/entreprises/conventions-collectives-nationales/bureaux-etudes-techniques/) prise en charge à 100 % par la coopérative (73,50 € / mois)
+* [Remboursement de 50 % d'un abonnement aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
 * [Carte Liberté](https://www.sncf.com/fr/offre-voyageurs/offres-entreprises/carte-liberte-la-carte-adaptee-aux-professionnels) SNCF pour les coopérateur·rice·s en ayant besoin pour leurs déplacements professionnels (379 €)
 * Borne de recharge pour voiture électrique (gratuite) au bureau de Lille
 * Place en crèche (Lille)
@@ -99,10 +99,10 @@ Tou·te·s les salarié·e·s bénéficient également de nombreux avantages :
 
 | **Ancienneté** | **Bonus** |
 |----------------|-----------|
-| 2 ans          | 5%        |
-| 5 ans          | 10%       |
-| 7 ans          | 15%       |
-| 10 ans         | 20%       |
-| 15 ans         | 25%       |
+| 2 ans          | 5 %       |
+| 5 ans          | 10 %      |
+| 7 ans          | 15 %      |
+| 10 ans         | 20 %      |
+| 15 ans         | 25 %      |
 
 Le bonus est appliqué automatiquement.
