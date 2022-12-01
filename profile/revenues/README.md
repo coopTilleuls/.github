@@ -1,16 +1,16 @@
 # Revenus
 
-Chez [Les-Tilleuls.coop](https://les-tilleuls.coop), tous les salarié•es sont placé•es sur une grille disposant de 6 niveaux, qui dépendent des compétences et de l'expérience.
+Chez [Les-Tilleuls.coop](https://les-tilleuls.coop), tou•te•s les salarié•e•s sont placé•e•s sur une grille disposant de 6 niveaux, qui dépendent des compétences et de l'expérience.
 
 Les revenus sont composés de plusieurs parties :
 
 1. Un [salaire fixe](#salaires) déterminé par la place dans la grille (toutes les personnes au même niveau ont le même salaire fixe), voir ci-dessous.
-2. La [participation aux bénéfices](#prime-de-participation) : **80 % des bénéfices** réalisés par la coopérative sont répartis égalitairement entre toutes et tous les salarié•es, au prorata du temps de travail annuel effectif (les 20 % restants sont mis en réserve pour investir et faire face à d’éventuels coups durs). Cette prime peut être débloquée immédiatement ou au bout de 5 ans, auquel cas elle n'est pas imposable. Elle peut également être débloquée prématurément et sans imposition [dans certains cas de figure prévus par la loi](https://www.service-public.fr/particuliers/vosdroits/F31622).
+2. La [participation aux bénéfices](#prime-de-participation) : **80 % des bénéfices** réalisés par la coopérative sont répartis égalitairement entre tou•te•s les salarié•e•s, au prorata du temps de travail annuel effectif (les 20 % restants sont mis en réserve pour investir et faire face à d'éventuels coups durs). Cette prime peut être prise immédiatement, ou au bout de 5 ans (auquel cas elle n'est pas imposable). Elle peut également être débloquée prématurément et sans imposition [dans certains cas de figure prévus par la loi](https://www.service-public.fr/particuliers/vosdroits/F31622).
 3. Une [prime de partage de la valeur (PPV)](https://www.service-public.fr/particuliers/vosdroits/F35235) de **3 000 € / an** (non imposable)
-4. Un [bonus d’ancienneté](#bonus-dancienneté) dans la coopérative.
+4. Un [bonus d'ancienneté](#bonus-dancienneté) dans la coopérative.
 5. Des [avantages](#avantages).
 
-Les salarié•es habitant en région parisienne bénéficient également d'un bonus de 20%.
+Les salarié•e•s habitant en région parisienne bénéficient également d'un bonus de 20%.
 
 Le temps de travail hebdomadaire est de 35H (réelles).
 Il est possible, au cas par cas et avec l'accord du coopérateur et de la coopérative, d'effectuer des heures supplémentaires rémunérées.
@@ -22,14 +22,14 @@ Il est possible, au cas par cas et avec l'accord du coopérateur et de la coopé
 
 Note : cette grille **n'inclut pas** les autres parts de la rémunération (part des bénéfices, PPV...).
 
-| **Titre**                | **Salaire de base annuel** |
-|--------------------------|----------------------------|
-| **Junior Programmer**    | 24 504,00 €                |
-| **Programmer**           | 30 630,00 €                |
-| **Senior Programmer**    | 32 676,08 €                |
-| **Lead Programmer**      | 37 344,10 €                |
-| **Expert Programmer**    | 42 012,11 €                |
-| **Principal Programmer** | 51 348,13 €                |
+| **Titre**                        | **Salaire de base annuel** |
+|----------------------------------|----------------------------|
+| **Développeur.euse junior**      | 24 504,00 €                |
+| **Développeur.euse**             | 30 630,00 €                |
+| **Développeur.euse senior**      | 32 676,08 €                |
+| **Lead développeur.euse**        | 37 344,10 €                |
+| **Développeur.euse expert**      | 42 012,11 €                |
+| **Développeur.euse principal•e** | 51 348,13 €                |
 
 Les salaires sont versés le 27 de chaque mois.
 
@@ -39,7 +39,7 @@ Note : il est possible de demander une avance sur salaire.
 
 ## Prime de participation
 
-Historique des primes de participation depuis la création, pour un salarié ayant travaillé à temps plein et une année complète :
+Historique des primes de participation depuis la création, pour un•e salarié•e ayant travaillé à temps plein et une année complète :
 
 | **Exercice** | **Montant** |
 |--------------|-------------|
@@ -53,25 +53,25 @@ Historique des primes de participation depuis la création, pour un salarié aya
 | 2013         | 2 398 €     |
 | 2012         | 986 €       |
 
-Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative, et par la mise en place de la PPV (3 000 €) dès sa création.
+Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune Entreprise Innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative, et par la mise en place de la PPV (3 000 €) dès sa création.
 
 La prime de participation peut être débloquée dès l'approbation des comptes (généralement en juin pour l'année comptable précédente, qui se termine en décembre).
 
 ## Avantages
 
-Toutes et tous les salarié•es bénéficient également de nombreux avantages :
+Tou•te•s les salarié•e•s bénéficient également de nombreux avantages :
 
 ### Avantages en nature et primes
 
-* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs) ; possibilité de choisir entre la carte ou les chèques papier ; valeur unitaire de 10 € avec prise en charge par la coopérative à hauteur de 5,20 € et 4,80 € par le coopérateur
+* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs) ; possibilité de choisir entre la carte ou les chèques papiers ; valeur unitaire de 10 € avec prise en charge à hauteur de 5,20 € par la coopérative et 4,80 € par le/la coopérateur•trice
 * [Chèques Cadhoc](https://boutiques.cheque-cadhoc.fr/) (171 € / an)
 * [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/) (100 € / an)
 * [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd) (jusqu'à 700 € par an)
 * Prime télétravail à hauteur de 20 € / mois
-* Remboursement de 100 € par an sur une licence dans un club de sport
+* Remboursement de 100 € / an sur une licence dans un club de sport
 * [Mutuelle Malakoff Humanis base conventionnelle + option 2](https://www.malakoffhumanis.com/entreprises/conventions-collectives-nationales/bureaux-etudes-techniques/) prise en charge à 100% par la coopérative (73,50 € / mois)
 * [Remboursement de 50% d'un abonnement aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
-* [Carte Liberté](https://www.sncf.com/fr/offre-voyageurs/offres-entreprises/carte-liberte-la-carte-adaptee-aux-professionnels) SNCF pour les coopérateurs en ayant besoin pour leurs déplacements professionnels (379 €)
+* [Carte Liberté](https://www.sncf.com/fr/offre-voyageurs/offres-entreprises/carte-liberte-la-carte-adaptee-aux-professionnels) SNCF pour les coopérateur•trice•s en ayant besoin pour leurs déplacements professionnels (379 €)
 * Borne de recharge pour voiture électrique (gratuite) au bureau de Lille
 * Place en crèche (Lille)
 
