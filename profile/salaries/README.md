@@ -17,7 +17,7 @@ Le temps de travail hebdomadaire est de 35H (réelles).
 ## Salaires
 
 * [Lire sur le blog le processus d'élaboration de cette grille](https://les-tilleuls.coop/blog/grille-salariale-a-vote)
-* [Voir les compétences associés aux titres](../titles/README.md)
+* [Voir les compétences associées aux titres](../titles/README.md)
 
 Note : cette grille **n'inclut pas** les autres parts de la rémunération (part des bénéfices, PPV...).
 
