@@ -63,7 +63,7 @@ Tou•te•s les salarié•e•s bénéficient également de nombreux avantages
 
 ### Avantages en nature et primes
 
-* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs) ; possibilité de choisir entre la carte ou les chèques papiers ; valeur unitaire de 10 € avec prise en charge à hauteur de 5,20 € par la coopérative et 4,80 € par le/la coopérateur•trice
+* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs) ; possibilité de choisir entre la carte ou les chèques papiers ; valeur unitaire de 10 € avec prise en charge à hauteur de 5,20 € par la coopérative et 4,80 € par le/la coopérateur•rice
 * [Chèques Cadhoc](https://boutiques.cheque-cadhoc.fr/) (171 € / an)
 * [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/) (100 € / an)
 * [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd) (jusqu'à 700 € par an)
@@ -71,7 +71,7 @@ Tou•te•s les salarié•e•s bénéficient également de nombreux avantages
 * Remboursement de 100 € / an sur une licence dans un club de sport
 * [Mutuelle Malakoff Humanis base conventionnelle + option 2](https://www.malakoffhumanis.com/entreprises/conventions-collectives-nationales/bureaux-etudes-techniques/) prise en charge à 100% par la coopérative (73,50 € / mois)
 * [Remboursement de 50% d'un abonnement aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
-* [Carte Liberté](https://www.sncf.com/fr/offre-voyageurs/offres-entreprises/carte-liberte-la-carte-adaptee-aux-professionnels) SNCF pour les coopérateur•trice•s en ayant besoin pour leurs déplacements professionnels (379 €)
+* [Carte Liberté](https://www.sncf.com/fr/offre-voyageurs/offres-entreprises/carte-liberte-la-carte-adaptee-aux-professionnels) SNCF pour les coopérateur•rice•s en ayant besoin pour leurs déplacements professionnels (379 €)
 * Borne de recharge pour voiture électrique (gratuite) au bureau de Lille
 * Place en crèche (Lille)
 
