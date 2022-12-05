@@ -8,6 +8,8 @@ Chez [Les-Tilleuls.coop](https://les-tilleuls.coop), nous utilisons les critère
 
 Ces critères examinent la capacité de travail qu’une personne est capable d’effectuer de manière indépendante. Outre cette évaluation, nous examinons également la qualité de l’exécution elle-même.
 
+**[Voir les salaires correspondants](../salaries/README.md)
+
 ## Développeur junior
 
 - Les réalisations sont examinées de manière approfondie et de nombreuses modifications sont généralement nécessaires avant de merger le code.
@@ -60,28 +62,3 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 - Reconnu dans l’industrie pour ses contributions matérielles à l’état de l’art.
 - Invente de nouveaux concepts, fait régulièrement progresser l’ensemble de l’organisation.
 - Généralement au moins 15 ans d’expérience en tant que programmeur professionnel.
-
-<!--
-# Résumé de la grille de salaire
-
-| niveau    | brut annuel à l’entrée |
-| --------- | ----------- |
-| junior    | 20,116 €    |
-| `` +20%   | 24,139 €    |
-| confirmé  | 27,432 €    |
-| `` +20%   | 32,918 €    |
-| senior    | 32,004 €    |
-| `` +20%   | 38,404 €    |
-| lead      | 36,576 €    |
-| `` +20%   | 43,891 €    |
-| expert    | 41,148 €    |
-| `` +20%   | 49,377 €    |
-| principal | 50,292 €    |
-| `` +20%   | 60,350 €    |
-
-Des primes d'ancienneté sont également prévues après 3, 5, 7, 10 et 15 années passées en tant que coopérateur.
-
-Au salaire s’ajoute une prime de participation annuelle. Cette prime corresponds à ~80% du bénéfice annuel de la coopérative répartis à parts égales entre tous les coopérateurs. En 2021, son montant s'élevait à 7 000€ bruts pour un coopérateur travaillant à temps plein.
-
-Les lignes +20% s'appliquent aux salaires parisiens.
--->
