@@ -45,7 +45,7 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 
 - Chèques-cadeaux de 173 € environ pour Noël.
 - Chèques culture de 100 €.
-- Tickets restaurant de 10 € (en chèque ou en carte).
+- [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs). Possibilité de choisir entre la carte ou les chèques papier. Valeur unitaire de 10€ avec prise en charge par la SCOP à hauteur de 5,20€ et 4,80€ par le coopérateur.
 
 ### Primes
 
