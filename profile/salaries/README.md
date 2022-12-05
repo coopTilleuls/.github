@@ -68,6 +68,9 @@ Toutes et tous les salarié•es bénéficient également de nombreux avantages 
 
 * 2 jours de congés payés supplémentaires : le lundi de pentecôte et le jeudi de l'ascension
 * [Congé menstruel](https://les-tilleuls.coop/blog/conge-menstruel)
+* 3 jours de congés payés enfants malades 
+* 3 jours de congés "aléas de la vie" pour les postes de Junior programmer et Programmer
+* Congés d'ancienneté: 1 jour après 5 ans/ 2 jours après 10 ans / 3 jours après 15 ans / 4 jours après 20 ans
 * Congé sans solde illimité
 * Liberté dans la pose des congés
 * Possibilité de poser des congés par anticipation (congés acquis)
