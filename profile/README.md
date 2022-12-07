@@ -17,10 +17,11 @@ If you’re interested in the free software we back, check out their dedicated G
 * [🏄 ESQL](https://github.com/soyuka/esql): PHP Extended SQL
 * [📦 Our other projects](https://github.com/orgs/coopTilleuls/repositories)
 
-Our internal documentation and other useful information are also publicly available:
+More information about the cooperative:
 
 - [🤝️ How we work as a worker cooperative](https://github.com/coopTilleuls/.github/tree/main/profile/scop/en/README.md)
-- [🧙️ Titles for programmers and salaries](https://github.com/coopTilleuls/.github/tree/main/profile/titles/en/README.md)
+- [💰 Revenues (🇫🇷)](https://github.com/coopTilleuls/.github/tree/main/profile/revenues/README.md)
+- [🧙️ Titles for programmers](https://github.com/coopTilleuls/.github/tree/main/profile/titles/en/README.md)
 - [🚞️ Onboarding guide for newcomers](https://github.com/coopTilleuls/.github/tree/main/profile/onboarding/en/README.md)
 <!-- - [📰️ Press kit](https://github.com/coopTilleuls/.github/tree/main/profile/press-kit/README.md)
 - [🎨️ Our styleguide](https://github.com/coopTilleuls/.github/tree/main/profile/styleguide/README.md) -->

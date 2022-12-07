@@ -4,11 +4,11 @@ Chez [Les-Tilleuls.coop](https://les-tilleuls.coop), tous les salarié•es sont
 
 Les revenus sont composés de plusieurs parties :
 
-1. Un salaire fixe déterminé par la place dans la grille (toutes les personnes au même niveau ont le même salaire fixe), voir ci-dessous.
-2. La participation aux bénéfices : **80 % des bénéfices** réalisés par la coopérative sont répartis égalitairement entre toutes et tous les salarié•es, au prorata du temps de travail annuel effectif (les 20 % restants sont mis en réserve pour investir et faire face à d’éventuels coups durs). Cette prime peut être débloquée dès l'approbation des comptes (généralement en juin pour l'année comptable précédente) ou au bout de 5 ans, auquel cas elle n'est pas imposable. Elle peut également être débloquée prématurément et sans imposition [dans certains cas de figure prévus par la loi](https://www.service-public.fr/particuliers/vosdroits/F31622).
+1. Un [salaire fixe](#salaires) déterminé par la place dans la grille (toutes les personnes au même niveau ont le même salaire fixe), voir ci-dessous.
+2. La [participation aux bénéfices](#prime-de-participation) : **80 % des bénéfices** réalisés par la coopérative sont répartis égalitairement entre toutes et tous les salarié•es, au prorata du temps de travail annuel effectif (les 20 % restants sont mis en réserve pour investir et faire face à d’éventuels coups durs). Cette prime peut être débloquée immédiatement ou au bout de 5 ans, auquel cas elle n'est pas imposable. Elle peut également être débloquée prématurément et sans imposition [dans certains cas de figure prévus par la loi](https://www.service-public.fr/particuliers/vosdroits/F31622).
 3. Une [prime de partage de la valeur (PPV)](https://www.service-public.fr/particuliers/vosdroits/F35235) de **3 000 €/an** (non imposable)
-4. Une prime d’ancienneté dans la coopérative.
-5. Des avantages listés ci-après.
+4. Un [bonus d’ancienneté](#bonus-dancienneté) dans la coopérative.
+5. Des [avantages](#avantages).
 
 Les salarié•es habitant en région parisienne bénéficient également d'un bonus de 20%.
 
@@ -30,6 +30,10 @@ Note : cette grille **n'inclut pas** les autres parts de la rémunération (part
 | **Expert Programmer**    | 42 012,11 €                |
 | **Principal Programmer** | 51 348,13 €                |
 
+Les salaires sont versés le 27 de chaque mois.
+
+Contactez Elephteria ou Olivier pour obtenir vos fiches de paies.
+
 # Prime de participation
 
 Historique des primes de participation depuis la création, pour un salarié ayant travaillé à temps plein et une année complète :
@@ -47,6 +51,8 @@ Historique des primes de participation depuis la création, pour un salarié aya
 | 2012         | 986 €       |
 
 Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative, et par la mise en place de la PPV dès sa création.
+
+La prime de participation peut être débloquée dès l'approbation des comptes (généralement en juin pour l'année comptable précédente, qui se termine en décembre).
 
 ## Avantages
 
@@ -81,7 +87,7 @@ Toutes et tous les salarié•es bénéficient également de nombreux avantages 
 * Nombreuses formations internes (pôle formation)
 * Possibilité de contribuer au logiciel libre sur son temps de travail après accord de l'Assemblée Générale
 
-## Bonus d'ancienneté dans la coopérative
+## Bonus d'ancienneté
 
 | **Ancienneté** | **Bonus** |
 |----------------|-----------|
