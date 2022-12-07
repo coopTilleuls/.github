@@ -87,10 +87,11 @@ Toutes et tous les salarié•es bénéficient également de nombreux avantages 
 
 ### Formation et communauté
 
+* Nombreuses formations en interne et [via l'OPCO Atlas](https://campus.opco-atlas.fr/branches/bureaux-etudes/1876)
 * Budget de 1 000 € / an pour participer à des conférences (défraiement et entrée)
 * Possibilité de préparer ses conférences sur son temps de travail en cas de sélection à une conférence nationale ou internationale
+* Programme d'accompagnemement interne des nouvelles et nouveaux conférenciers
 * Possibilité de contribuer au logiciel libre sur son temps de travail après accord de l'Assemblée Générale
-* Nombreuses formations internes (pôle formation)
 
 ## Bonus d'ancienneté
 
