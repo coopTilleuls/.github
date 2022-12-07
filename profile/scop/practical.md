@@ -12,7 +12,11 @@ Depuis janvier 2021, nous avons mis en place une grille de salaires ouverte au p
 
 À la date anniversaire de son contrat, chaque personne peut soumettre au vote son repositionnement dans la grille. Si cette position est acceptée par l’Assemblée Générale, l’augmentation de la rémunération est actée, tout comme l’évolution des responsabilités qui vont avec.
 
-Découvrez [la grille](../titles/README.md) et [l’article](https://les-tilleuls.coop/fr/blog/grille-salariale-a-vote) que nous avons rédigé à ce sujet.
+Découvrez [les revenus](../revenues/README.md), [la grille de compétences](../titles/README.md) et [l’article](https://les-tilleuls.coop/fr/blog/grille-salariale-a-vote) que nous avons rédigé à ce sujet.
+
+# Avantages
+
+Toutes et tous les salari•es disposent de nombreux avantages : [voir la liste complète](../revenues/README.md).
 
 ## Télétravail
 
@@ -61,66 +65,10 @@ Les déplacements en dehors des zones géographiques d’affiliation et de rési
 
 Les autres frais sont remboursés au « réel » sur factures (exemple : transports).
 
-## Restauration
-
-En tant que salarié de la Scop, vous avez droit à des tickets restaurant d’un montant unitaire de 9 €. Leur quantité varie selon le nombre de jours ouvrés sur le mois (congés, jours fériés).
-
-Vous avez le choix entre les chèques Up ou la carte Up. Pour plus d’informations, vous pouvez vous rapprocher d’Olivier ou Eleftheria.
-
-## Complémentaire santé et prévoyance
-
-Les salariés bénéficient du contrat mutuelle de Les-Tilleuls.coop. Il est pris en charge par la Scop à 100 %. L’organisme est Malakoff Humanis. L’affiliation au contrat est obligatoire, c’est le directeur administratif qui s’occupera de celle-ci.
-
-## Bonus
-
-Chaque coopérateur⋅rice bénéficie des avantages suivants :
-
-- Chèques-cadeaux de 173 € environ pour Noël.
-- Chèques culture de 100 €.
-
-## Indemnités
-
-Chaque coopérateur⋅rice reçoit une indemnité télétravail de 20 € par mois.
-
-Il est possible de se faire rembourser (ou de demander) du matériel utilisé pour le télétravail (écran, chaise, bureau...).
-
-Il est possible de demander une prime forfait mobilités durables (limite de 500 € par an).
-
-## Formation et événements
-
-Vous bénéficiez d’une enveloppe annuelle de 1000 € pour l’entrée, le logement et les différents défraiements liés aux événements.
-
-Des formations peuvent être dispensées par nos formateurs. Le canal MasterClass est dédié aux formations.
-
-Les speakers bénéficient de jours de congés supplémentaires pour préparer leur participation aux événements.
-
-## Participation
-
-La participation est répartie à part égale entre tous les coopérateur·rice·s de la Scop au prorata du temps de travail. Il est possible de la débloquer jusqu’à 15 jours maximum après l’AGO (assemblée générale ordinaire). Il convient d’établir un courrier à Olivier.
-Sinon, celle-ci est bloquée pendant 5 ans sauf cas de [déblocage anticipé prévue par la loi](https://www.service-public.fr/particuliers/vosdroits/F31622).
 
 ## SCI
 
 Il est possible de monter au capital de la SCI. Il s’agit des locaux situés à Lille. Pour plus d’informations, vous pouvez vous rapprocher d’Olivier.
-
-## Autres avantages
-
-Chaque coopérateur⋅rice bénéficie des avantages suivants :
-
-- Place en crèche (Lille)
-- Forfait sport : 100 €/an sur présentation d’un justificatif
-- 3 jours enfants malade pris en charge par la société
-
-## Avantages de la convention collective SYNTEC
-
-La convention collective prévoit également les avantages suivants :
-
-- Prime vacances après 1 an d’ancienneté
-- Un congé supplémentaire après 5 années d’ancienneté, 2 jours après 10 ans d’ancienneté et 3 jours après 15 années d’ancienneté
-
-## Virement du salaire
-
-Le salaire est généralement versé au 27 de chaque mois par virement bancaire. N’oubliez pas de fournir un RIB à Olivier dès votre arrivée.
 
 ## Déplacements
 
@@ -132,9 +80,9 @@ Si vous êtes amené·e à effectuer des déplacements réguliers, une carte SNC
 
 Dans un souci d’écologie, nous mettons en place des réflexes de bons sens au sein de nos bureaux. Pour cela, vous trouverez différents types de poubelles à Lille :
 
-- Celle pour les gobelets en plastique
-- Celle pour les bouteilles en plastique
-- Celle pour le papier fin et les cartonnettes
-- Celle pour les canettes en métal
-- Celle pour le plastique en général (cartons, emballages plastiques...)
-- Celle pour les déchets non recyclables
+* Celle pour les gobelets en plastique
+* Celle pour les bouteilles en plastique
+* Celle pour le papier fin et les cartonnettes
+* Celle pour les canettes en métal
+* Celle pour le plastique en général (cartons, emballages plastiques...)
+* Celle pour les déchets non recyclables
