@@ -24,12 +24,12 @@ Note : cette grille **n'inclut pas** les autres parts de la rémunération (part
 
 | **Titre**                        | **Salaire de base annuel** |
 |----------------------------------|----------------------------|
-| **Développeur.euse junior**      | 24 504,00 €                |
-| **Développeur.euse**             | 30 630,00 €                |
-| **Développeur.euse senior**      | 32 676,08 €                |
-| **Lead développeur.euse**        | 37 344,10 €                |
-| **Développeur.euse expert**      | 42 012,11 €                |
-| **Développeur.euse principal·e** | 51 348,13 €                |
+| **Développeur·euse junior**      | 24 504,00 €                |
+| **Développeur·euse**             | 30 630,00 €                |
+| **Développeur·euse senior**      | 32 676,08 €                |
+| **Lead développeur·euse**        | 37 344,10 €                |
+| **Développeur·euse expert**      | 42 012,11 €                |
+| **Développeur·euse principal·e** | 51 348,13 €                |
 
 Les salaires sont versés le 27 de chaque mois.
 
@@ -45,15 +45,15 @@ Historique des primes de participation depuis la création, pour un·e salarié�
 |--------------|-------------|
 | 2021         | 7 786 €     |
 | 2020         | 5 754 €     |
-| 2019         | 6 932 €     |
-| 2018         | 16 218 €    |
-| 2017         | 10 666 €    |
-| 2016         | 9 434 €     |
-| 2015         | 6 159 €     |
-| 2013         | 2 398 €     |
+| 2019         | 6 932 €     |
+| 2018         | 16 218 €    |
+| 2017         | 10 666 €    |
+| 2016         | 9 434 €     |
+| 2015         | 6 159 €     |
+| 2013         | 2 398 €     |
 | 2012         | 986 €       |
 
-Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune Entreprise Innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative, et par la mise en place de la PPV (3 000 €) dès sa création.
+Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative, et par la mise en place de la PPV (3 000 €) dès sa création.
 
 La prime de participation peut être débloquée dès l'approbation des comptes (généralement en juin pour l'année comptable précédente, qui se termine en décembre).
 
@@ -63,7 +63,7 @@ Tou·te·s les salarié·e·s bénéficient également de nombreux avantages :
 
 ### Avantages en nature et primes
 
-* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs) ; possibilité de choisir entre la carte ou les chèques papier ; valeur unitaire de 10 € avec prise en charge à hauteur de 5,20 € par la coopérative et 4,80 € par le/la coopérateur·rice
+* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs) ; possibilité de choisir entre la carte ou les chèques papier ; valeur unitaire de 10 € avec prise en charge à hauteur de 5,20 € par la coopérative et 4,80 € par la ou le coopérateur·rice
 * [Chèques Cadhoc](https://boutiques.cheque-cadhoc.fr/) (171 € / an)
 * [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/) (100 € / an)
 * [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd) (jusqu'à 700 € par an)
