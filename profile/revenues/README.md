@@ -33,7 +33,7 @@ Note : cette grille **n'inclut pas** les autres parts de la rémunération (part
 
 Les salaires sont versés le 27 de chaque mois.
 
-Contactez Elephteria ou Olivier pour obtenir vos fiches de paies.
+Contactez Eleftheria ou Olivier pour obtenir vos fiches de paies.
 
 Note : il est possible de demander une avance sur salaire.
 
