@@ -63,7 +63,7 @@ Tou·te·s les salarié·e·s bénéficient également de nombreux avantages :
 
 ### Avantages en nature et primes
 
-* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs) ; possibilité de choisir entre la carte ou les chèques papiers ; valeur unitaire de 10 € avec prise en charge à hauteur de 5,20 € par la coopérative et 4,80 € par le/la coopérateur·rice
+* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs) ; possibilité de choisir entre la carte ou les chèques papier ; valeur unitaire de 10 € avec prise en charge à hauteur de 5,20 € par la coopérative et 4,80 € par le/la coopérateur·rice
 * [Chèques Cadhoc](https://boutiques.cheque-cadhoc.fr/) (171 € / an)
 * [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/) (100 € / an)
 * [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd) (jusqu'à 700 € par an)
