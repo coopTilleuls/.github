@@ -12,4 +12,3 @@ Le vademecum du salarié : des réponses à des questions très pratiques
 - Je dois me déplacer pour suivre une formation
 - Je dois me déplacer chez un client
 
-_____
