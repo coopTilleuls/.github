@@ -1,26 +1,26 @@
 # Revenus
 
-Chez [Les-Tilleuls.coop](https://les-tilleuls.coop), tou·te·s les salarié·e·s sont placé·e·s sur une grille disposant de 6 niveaux, qui dépendent des compétences et de l'expérience.
+Chez [Les-Tilleuls.coop](https://les-tilleuls.coop), tou·te·s les salarié·e·s sont placé·e·s sur une grille disposant de 6 niveaux, qui dépendent des compétences et de l’expérience.
 
 Les revenus sont composés de plusieurs parties :
 
 1. Un [salaire fixe](#salaires) déterminé par la place dans la grille (toutes les personnes au même niveau ont le même salaire fixe), voir ci-dessous.
-2. La [participation aux bénéfices](#prime-de-participation) : **80 % des bénéfices** réalisés par la coopérative sont répartis égalitairement entre tou·te·s les salarié·e·s, au prorata du temps de travail annuel effectif (les 20 % restants sont mis en réserve pour investir et faire face à d'éventuels coups durs). Cette prime peut être prise immédiatement, ou au bout de 5 ans (auquel cas elle n'est pas imposable). Elle peut également être débloquée prématurément et sans imposition [dans certains cas de figure prévus par la loi](https://www.service-public.fr/particuliers/vosdroits/F31622).
+2. La [participation aux bénéfices](#prime-de-participation) : **80 % des bénéfices** réalisés par la coopérative sont répartis égalitairement entre tou·te·s les salarié·e·s, au prorata du temps de travail annuel effectif (les 20 % restants sont mis en réserve pour investir et faire face à d’éventuels coups durs). Cette prime peut être débloquée immédiatement, ou au bout de 5 ans (auquel cas elle n’est pas imposable). Elle peut également être débloquée prématurément et sans imposition [dans certains cas de figure prévus par la loi](https://www.service-public.fr/particuliers/vosdroits/F31622).
 3. Une [prime de partage de la valeur (PPV)](https://www.service-public.fr/particuliers/vosdroits/F35235) de **3 000 € / an** (non imposable)
-4. Un [bonus d'ancienneté](#bonus-dancienneté) dans la coopérative.
+4. Un [bonus d’ancienneté](#bonus-dancienneté) dans la coopérative.
 5. Des [avantages](#avantages).
 
-Les salarié·e·s habitant en région parisienne bénéficient également d'un bonus de 20 %.
+Les salarié·e·s habitant en région parisienne bénéficient également d’un bonus de 20 %.
 
 Le temps de travail hebdomadaire est de 35H (réelles).
-Il est possible, au cas par cas et avec l'accord du coopérateur et de la coopérative, d'effectuer des heures supplémentaires rémunérées.
+Il est possible, au cas par cas et avec l’accord du coopérateur et de la coopérative, d’effectuer des heures supplémentaires rémunérées.
 
 ## Salaires
 
-* [Lire sur le blog le processus d'élaboration de cette grille](https://les-tilleuls.coop/blog/grille-salariale-a-vote)
+* [Lire sur le blog le processus d’élaboration de cette grille](https://les-tilleuls.coop/blog/grille-salariale-a-vote)
 * [Voir les compétences associées aux titres](../titles/README.md)
 
-Note : cette grille **n'inclut pas** les autres parts de la rémunération (part des bénéfices, PPV...).
+Note : cette grille **n’inclut pas** les autres parts de la rémunération (part des bénéfices, PPV...).
 
 | **Titre**                        | **Salaire de base annuel** |
 |----------------------------------|----------------------------|
@@ -53,9 +53,9 @@ Historique des primes de participation depuis la création, pour un·e salarié�
 | 2013         | 2 398 €     |
 | 2012         | 986 €       |
 
-Note : la baisse post-2018 s'explique par l'expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative, et par la mise en place de la PPV (3 000 €) dès sa création.
+Note : la baisse post-2018 s’explique par l’expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative, et par la mise en place de la PPV (3 000 €) dès sa création.
 
-La prime de participation peut être débloquée dès l'approbation des comptes (généralement en juin pour l'année comptable précédente, qui se termine en décembre).
+La prime de participation peut être débloquée dès l’approbation des comptes (généralement en juin pour l’année comptable précédente, qui se termine en décembre).
 
 ## Avantages
 
@@ -66,36 +66,36 @@ Tou·te·s les salarié·e·s bénéficient également de nombreux avantages :
 * [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs) ; possibilité de choisir entre la carte ou les chèques papier ; valeur unitaire de 10 € avec prise en charge à hauteur de 5,20 € par la coopérative et 4,80 € par la ou le coopérateur·rice
 * [Chèques Cadhoc](https://boutiques.cheque-cadhoc.fr/) (171 € / an)
 * [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/) (100 € / an)
-* [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd) (jusqu'à 700 € par an)
+* [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd) (jusqu’à 700 € par an)
 * Prime télétravail à hauteur de 20 € / mois
 * Remboursement de 100 € / an sur une licence dans un club de sport
 * [Mutuelle Malakoff Humanis base conventionnelle + option 2](https://www.malakoffhumanis.com/entreprises/conventions-collectives-nationales/bureaux-etudes-techniques/) prise en charge à 100 % par la coopérative (73,50 € / mois)
-* [Remboursement de 50 % d'un abonnement aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
+* [Remboursement de 50 % d’un abonnement aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
 * [Carte Liberté](https://www.sncf.com/fr/offre-voyageurs/offres-entreprises/carte-liberte-la-carte-adaptee-aux-professionnels) SNCF pour les coopérateur·rice·s en ayant besoin pour leurs déplacements professionnels (379 €)
 * Borne de recharge pour voiture électrique (gratuite) au bureau de Lille
 * Place en crèche (Lille)
 
 ### Congés
 
-* 2 jours de congés payés supplémentaires : le lundi de pentecôte et le jeudi de l'ascension
+* 2 jours de congés payés supplémentaires : le lundi de pentecôte et le jeudi de l’ascension
 * [Congé menstruel](https://les-tilleuls.coop/blog/conge-menstruel)
 * 3 jours de congés payés enfants malades
 * 3 jours de congés "aléas de la vie" pour les postes de *Junior programmer* et *Programmer*
-* Congés d'ancienneté : 1 jour après 5 ans ; 2 jours après 10 ans ; 3 jours après 15 ans ; 4 jours après 20 ans
-* Prime vacances après 1 an d'ancienneté
+* Congés d’ancienneté : 1 jour après 5 ans ; 2 jours après 10 ans ; 3 jours après 15 ans ; 4 jours après 20 ans
+* Prime vacances après 1 an d’ancienneté
 * Congé sans solde illimité
 * Liberté dans la pose des congés
 * Possibilité de poser des congés par anticipation (congés acquis)
 
 ### Formation et communauté
 
-* Nombreuses formations en interne et [via l'OPCO Atlas](https://campus.opco-atlas.fr/branches/bureaux-etudes/1876)
+* Nombreuses formations en interne et [via l’OPCO Atlas](https://campus.opco-atlas.fr/branches/bureaux-etudes/1876)
 * Budget de 1 000 € / an pour participer à des conférences (défraiement et entrée)
 * Possibilité de préparer ses conférences sur son temps de travail en cas de sélection à une conférence nationale ou internationale
-* Programme d'accompagnemement interne des nouvelles et nouveaux conférenciers
-* Possibilité de contribuer au logiciel libre sur son temps de travail après accord de l'Assemblée Générale
+* Programme d’accompagnemement interne des nouvelles et nouveaux conférenciers
+* Possibilité de contribuer au logiciel libre sur son temps de travail après accord de l’Assemblée Générale
 
-## Bonus d'ancienneté
+## Bonus d’ancienneté
 
 | **Ancienneté** | **Bonus** |
 |----------------|-----------|

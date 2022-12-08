@@ -19,7 +19,7 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 
 ### Longue absence
 
-- Après une longue absence, un entretien RH a lieu afin d'informer le⋅la coopérateur⋅rice sur les changements ayant eu lieu pendant son absence et lui rappeler la possibilité de reprendre progressivement un rythme normal.
+- Après une longue absence, un entretien RH a lieu afin d’informer le⋅la coopérateur⋅rice sur les changements ayant eu lieu pendant son absence et lui rappeler la possibilité de reprendre progressivement un rythme normal.
 
 ## Formation et montée en compétence
 
@@ -33,7 +33,7 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 ## Salaires
 
 - Vote de principe pour aligner les postes « transverses » sur la grille « développeur ».
-- À la date d'anniversaire de l'entrée dans la SCOP, le positionnement de le⋅la coopérateur⋅rice est réévalué pendant l'AG. Il est possible de demander un repositionnement avant cette date (pour cela il faut se mettre dans la liste des personnes à réévaluer dans la diapo de l'AG dédiée).
+- À la date d’anniversaire de l’entrée dans la SCOP, le positionnement de le⋅la coopérateur⋅rice est réévalué pendant l’AG. Il est possible de demander un repositionnement avant cette date (pour cela il faut se mettre dans la liste des personnes à réévaluer dans la diapo de l’AG dédiée).
 
 ### Indemnités
 
@@ -49,7 +49,7 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 
 ### Primes
 
-- La gérance est rémunérée à hauteur de 3 % du chiffre d'affaires. Elle est plafonnée à 3 fois le salaire médian de la grille. En cas de co-gérance, cette prime est partagée entre les co-gérants.
+- La gérance est rémunérée à hauteur de 3 % du chiffre d’affaires. Elle est plafonnée à 3 fois le salaire médian de la grille. En cas de co-gérance, cette prime est partagée entre les co-gérants.
 
 ## Embauches
 
