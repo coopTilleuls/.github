@@ -69,7 +69,7 @@ Toutes et tous les salarié•es bénéficient également de nombreux avantages 
 * [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd) (jusqu'à 700 € par an)
 * Prime télétravail à hauteur de 20 € / mois
 * Remboursement de 100 € par an sur une licence dans un club de sport
-* [Mutuelle Malakoff Humanis base conventionelle + option 2](https://www.malakoffhumanis.com/entreprises/conventions-collectives-nationales/bureaux-etudes-techniques/) prise en charge à 100% par la coopérative (73,50 € / mois)
+* [Mutuelle Malakoff Humanis base conventionnelle + option 2](https://www.malakoffhumanis.com/entreprises/conventions-collectives-nationales/bureaux-etudes-techniques/) prise en charge à 100% par la coopérative (73,50 € / mois)
 * [Remboursement de 50% d'un abonnement aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
 * [Carte Liberté](https://www.sncf.com/fr/offre-voyageurs/offres-entreprises/carte-liberte-la-carte-adaptee-aux-professionnels) SNCF pour les coopérateurs en ayant besoin pour leurs déplacements professionnels (379 €)
 * Borne de recharge pour voiture électrique (gratuite) au bureau de Lille
