@@ -21,6 +21,7 @@ Nous créons, contribuons et maintenons une multitude de logiciels libres comme 
 Vous trouverez ici toute notre documentation interne et autres informations utiles.
 
 - [🌳️ Présentation de notre SCOP](scop/README.md)
+- [💰 Revenus](https://github.com/coopTilleuls/.github/tree/main/profile/revenues/README.md)
 - [🧙️ Les échelons de postes et notre grille de salaire](titles/README.md)
 - [🚞️ Le guide d’onboarding](onboarding/README.md)
 <!-- WIP :
