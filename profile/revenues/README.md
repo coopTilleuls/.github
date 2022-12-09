@@ -13,7 +13,7 @@ Les revenus sont composés de plusieurs parties :
 Les salarié•es habitant en région parisienne bénéficient également d'un bonus de 20%.
 
 Le temps de travail hebdomadaire est de 35H (réelles).
-Il est possible, au cas par cas et avec l'accord du coopérateur et de la coopérative, d'effecteur des heures supplémentaires rémunérées.
+Il est possible, au cas par cas et avec l'accord du coopérateur et de la coopérative, d'effectuer des heures supplémentaires rémunérées.
 
 ## Salaires
 
