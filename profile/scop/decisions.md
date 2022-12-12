@@ -6,7 +6,7 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 
 ### Assemblées Générales
 
-- Les coopérateur⋅rice⋅s se réunissent de préférence dans les bureaux de leur antenne respective pour suivre l’AG à distance.
+- Les personnes coopératrices se réunissent de préférence dans les bureaux de leur antenne respective pour suivre l’AG à distance.
 - Une fois par an, une AG est organisée dans une antenne autre que Lille.
 
 ### Déplacements
@@ -19,12 +19,12 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 
 ### Longue absence
 
-- Après une longue absence, un entretien RH a lieu afin d’informer le⋅la coopérateur⋅rice sur les changements ayant eu lieu pendant son absence et lui rappeler la possibilité de reprendre progressivement un rythme normal.
+- Après une longue absence, un entretien RH a lieu afin d’informer la personne coopératrice sur les changements ayant eu lieu pendant son absence et lui rappeler la possibilité de reprendre progressivement un rythme normal.
 
 ## Formation et montée en compétence
 
-- Une personne est dédiée au suivi et à la montée en compétences des développeur⋅ses de niveau junior.
-- Un système de « parrainage »  est mis en place pour soulager la charge de travail de la personne dédiée aux développeur⋅ses junior.
+- Une personne est dédiée au suivi et à la montée en compétences des personnes développeuses de niveau junior.
+- Un système de « parrainage »  est mis en place pour soulager la charge de travail de la personne dédiée aux personnes développeuses junior.
 
 ## Social
 
@@ -33,11 +33,11 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 ## Salaires
 
 - Vote de principe pour aligner les postes « transverses » sur la grille « développeur ».
-- À la date d’anniversaire de l’entrée dans la SCOP, le positionnement de le⋅la coopérateur⋅rice est réévalué pendant l’AG. Il est possible de demander un repositionnement avant cette date (pour cela il faut se mettre dans la liste des personnes à réévaluer dans la diapo de l’AG dédiée).
+- À la date d’anniversaire de l’entrée dans la SCOP, le positionnement de la personne coopératrice est réévaluée pendant l’AG. Il est possible de demander un repositionnement avant cette date (pour cela il faut se mettre dans la liste des personnes à réévaluer dans la diapo de l’AG dédiée).
 
 ### Indemnités
 
-- Chaque coopérateur⋅rice reçoit une indemnité télétravail de 20 € par mois.
+- Chaque personne coopératrice reçoit une indemnité télétravail de 20 € par mois.
 - Il est possible de se faire rembourser (ou de demander) du matériel utilisé pour le télétravail (écran, chaise, bureau, etc.).
 - Il est possible de demander une prime forfait mobilités durables (limite de 500 € par an).
 
@@ -63,12 +63,12 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 
 ### Congés
 
-- 3 jours de congés pour des enfants malades sont pris en charge par la SCOP. Dans le cas des stagiaires, alternant·es, développeur⋅ses junior ou développeur⋅ses, ces 3 jours de congés peuvent aussi être pris pour toute raison exceptionnelle.
+- 3 jours de congés pour des enfants malades sont pris en charge par la SCOP. Dans le cas des personnes stagiaires, alternantes, développeuses junior ou développeuses, ces 3 jours de congés peuvent aussi être pris pour toute raison exceptionnelle.
 - Un congé menstruel par mois est pris en charge.
 
 ### Heures supplémentaires
 
-- Le temps de travail est de 35h ; néanmoins si un⋅e développeur⋅se souhaite travailler plus pour s’adapter aux horaires de son client, il peut en faire la demande.
+- Le temps de travail est de 35h ; néanmoins si une personne développeuse souhaite travailler plus pour s’adapter aux horaires de son client, il peut en faire la demande.
 
 ## Soutiens financiers
 

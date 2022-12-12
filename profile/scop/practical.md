@@ -4,11 +4,11 @@
 
 Conformément au principe d’autogestion, chaque salarié organise lui-même ses horaires de travail. L’arrivée dans les locaux peut se faire entre 8h et 10h. Un temps plein correspond à un volume horaire hebdomadaire de 35 heures, à répartir entre le lundi et le vendredi.
 
-Note : lorsqu’un⋅e coopérateur⋅rice est en mission chez le client, il⋅elle peut être amené⋅e à s’adapter à ses horaires mais il⋅elle ne doit pas dépasser les 35h contractuelles. Rapprochez-vous de votre commercial si votre client souhaite échanger à ce sujet.
+Note : lorsqu’une personne coopératrice est en mission chez le client, elle peut être amenée à s’adapter à ses horaires mais elle ne doit pas dépasser les 35h contractuelles. Rapprochez-vous de votre commercial si votre client souhaite échanger à ce sujet.
 
 ## Grille de salaires
 
-Depuis janvier 2021, nous avons mis en place une grille de salaires ouverte au public. La grille est associée à une description des pré-requis exigés pour chacun des niveaux (des compétences techniques et d’encadrement, ainsi que le nombre d’années d’expérience généralement nécessaire pour les posséder), chacun·e peut ainsi s’auto-positionner selon son profil au niveau qui lui correspond le mieux et par conséquent connaître sa rémunération.
+Depuis janvier 2021, nous avons mis en place une grille de salaires ouverte au public. La grille est associée à une description des pré-requis exigés pour chacun des niveaux (des compétences techniques et d’encadrement, ainsi que le nombre d’années d’expérience généralement nécessaire pour les posséder), chaque personne salariée peut ainsi s’auto-positionner selon son profil au niveau qui lui correspond le mieux et par conséquent connaître sa rémunération.
 
 À la date anniversaire de son contrat, chaque personne peut soumettre au vote son repositionnement dans la grille. Si cette position est acceptée par l’Assemblée Générale, l’augmentation de la rémunération est actée, tout comme l’évolution des responsabilités qui vont avec.
 
@@ -22,7 +22,7 @@ Toutes et tous les salari•es disposent de nombreux avantages : [voir la liste 
 
 Il est possible de faire du télétravail au sein de Les-Tilleuls.coop. Dans ce cas, le salarié doit rester joignable durant les horaires de référence appliquées au sein de la société. Afin d’avoir une vision sur le temps de travail effectué, le télétravailleur relève sur son compte rendu d’activité (sur BoondManager) ses horaires de travail pour chaque jour travaillé à son domicile et transmettra ce relevé à la direction administrative.
 
-Le⋅la coopérateur⋅rice qui souhaite opter pour cette organisation du travail doit prévenir l’employeur qui est libre de refuser la demande si cela impacte l’organisation du travail (mission en régie, réunion importante, formation, rendez-vous nécessitant la présence du salarié...).
+La personne coopératrice qui souhaite opter pour cette organisation du travail doit prévenir l’employeur qui est libre de refuser la demande si cela impacte l’organisation du travail (mission en régie, réunion importante, formation, rendez-vous nécessitant la présence du salarié...).
 
 ## Compte rendu d’activité (CRA)
 
@@ -38,7 +38,7 @@ En cas d’absence imprévue ou de retard, nous vous demandons également de pr�
 messagerie instantanée.
 À noter que les salariés peuvent poser librement des congés sans solde selon leurs besoins, tant que la procédure décrite ci-dessus est respectée (prévenir dès que possible, renseigner dans BoondManager et dans l’agenda Google).
 
-Chaque coopérateur⋅rice bénéficie d’un jour de congés supplémentaire en mai en général après le jeudi de l’ascension.
+Chaque personne coopératrice bénéficie d’un jour de congés supplémentaire en mai en général après le jeudi de l’ascension.
 
 ## Comité social et économique
 
@@ -74,7 +74,7 @@ Il est possible de monter au capital de la SCI. Il s’agit des locaux situés �
 
 Lors de vos déplacements professionnels, Thomas ou Cécile peuvent réserver votre train/vol et vos nuits d’hôtel. Envoyez votre demande au plus tôt par mail à thomas@les-tilleuls.coop ou cecile@les-tilleuls.coop car il est souvent difficile de trouver un hôtel pour la veille.
 
-Si vous êtes amené·e à effectuer des déplacements réguliers, une carte SNCF Liberté vous sera délivrée afin que vous puissiez bénéficier de tarifs attractifs lors de la réservation.
+Si vous effectuez des déplacements réguliers, une carte SNCF Liberté vous sera délivrée afin que vous puissiez bénéficier de tarifs attractifs lors de la réservation.
 
 ## Tri sélectif
 

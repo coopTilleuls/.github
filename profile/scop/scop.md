@@ -1,4 +1,4 @@
-# Être coopérateur⋅rice : un double statut salarié/associé
+# Être coopérateur : un double statut salarié/associé
 
 Comme son nom l’indique, La Coopérative des Tilleuls est une Scop (société coopérative de production).
 
