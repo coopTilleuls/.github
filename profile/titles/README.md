@@ -56,7 +56,7 @@ Ces critères examinent la capacité de travail qu’une personne est capable d�
 
 ## Développeur principal
 
-- Peut mettre en place et diriger un service entier, comme le e-commerce ou Click'N'Collect.
+- Peut mettre en place et diriger un service entier, comme le e-commerce ou Click’N’Collect.
 - Entièrement capable de concevoir, de gérer et d’exploiter des systèmes entièrement nouveaux (systèmes de facturation de la conception, Active Record à partir de zéro).
 - Capable de diriger et d’animer des équipes plus importantes pour des projets de grande envergure et de longue durée.
 - Reconnu dans l’industrie pour ses contributions matérielles à l’état de l’art.

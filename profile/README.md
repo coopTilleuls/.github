@@ -4,7 +4,7 @@
 
 Les-Tilleuls.coop is a tech [worker cooperative](https://en.wikipedia.org/wiki/Worker_cooperative) specialized in e-commerce, trainings and free software. We bring your projects to life by combining creativity, durability and cutting-edge development.
 
-If you’re interested in the free software we back, check out their dedicated GitHub pages:
+If you're interested in the free software we back, check out their dedicated GitHub pages:
 
 * [🕷 API Platform](https://github.com/api-platform): create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time, written in PHP and TypeScript
 * [🎼 Symfony](https://github.com/symfony): a set of reusable PHP components and a framework for web projects

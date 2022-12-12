@@ -5,7 +5,7 @@ Les-Tilleuls.coop is a **Coopérative** (SARL SCOP) , owned and self-managed by 
 **Divided into 3 poles (development, expertise and training) and API, web and cloud specialists**, Les-Tilleuls.coop's employees design, audit and develop web and mobile applications as well as e-commerce platforms .
 
 Creators of the **API Platform** framework, the collaborators of Les-Tilleuls.coop are authors of multiple publications, and actively contribute to free software such as PHP.net or Symfony. The languages and technologies JavaScript (React, Vue), PHP, Docker and Kubernetes also have few secrets for them.
-Les-Tilleuls.coop puts its skills at the service of SMEs as well as large accounts like **Adeo (formerly Leroy Merlin), Orange, Decathlon, Citiz, Alice’s Garden, 24 Sèvres and even France Télévisions**.
+Les-Tilleuls.coop puts its skills at the service of SMEs as well as large accounts like **Adeo (formerly Leroy Merlin), Orange, Decathlon, Citiz, Alice's Garden, 24 Sèvres and even France Télévisions**.
 
 Les-Tilleuls.coop is also recognized as a **professional training center specializing in software development**. The training courses provided at Masterclass by Les-Tilleuls.coop are for all public and levels, and are eligible for funding by organizations (OPCA, AFPL).
 

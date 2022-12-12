@@ -20,7 +20,7 @@ Vous pouvez consulter [🔒 l’index général ici](https://docs.google.com/doc
 - Le calendrier des disponibilités et des prospects ;
 - La liste des événements de l’année ;
 - Le suivi des recrutements ;
-- La liste des conférences que nos coopérateur⋅rice⋅s proposent ;
+- La liste des conférences que nos personnes coopératrices proposent ;
 - Le suivi du budget.
 
 ## GitHub
@@ -32,7 +32,7 @@ Cet outil est axé sur la sociabilité du développement web. Il offre de nombre
 Tout comme sur votre compte Google Apps, **l’activation de la validation en deux étapes est obligatoire sur votre compte GitHub**.
 Nous vous demanderons à votre arrivée votre pseudonyme Github pour vous ajouter à notre team.
 
-Autre point, pour pouvoir signer et certifier vos commits, pensez à ajouter vos clés GPG via cette page : [Voir la doc d'installation](/onboarding/installation.md#git)
+Autre point, pour pouvoir signer et certifier vos commits, pensez à ajouter vos clés GPG via cette page : [Voir la doc d’installation](/onboarding/installation.md#git)
 
 ## Loomio
 
