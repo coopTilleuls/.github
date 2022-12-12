@@ -1,8 +1,8 @@
-# FAQ des salariés
+# FAQ des salariés de la SCOP
 Le vademecum du salarié : des réponses à des questions très pratiques
 ## Santé
-- Je suis malade 
-- Mon enfant est malade
+- [Je suis malade](#je-suis-malade) 
+- [Mon enfant est malade](#mon-enfant-est-malade)
 - Je suis enceinte
 - J'ai besoin d'un aménagement particulier
 - Je suis salarié étranger
@@ -11,4 +11,11 @@ Le vademecum du salarié : des réponses à des questions très pratiques
 - Je dois me déplacer pour donner une formation
 - Je dois me déplacer pour suivre une formation
 - Je dois me déplacer chez un client
+___
+### Santé
+#### Je suis malade
+1. Je préviens asap mon équipe, mon commercial et la cellule RH
+2. Je fais parvenir un certificat médical à la cellule RH
+3. Je renseigne Boonmanager
 
+#### Mon enfant est malade
