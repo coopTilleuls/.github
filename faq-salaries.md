@@ -16,6 +16,6 @@ ___
 #### Je suis malade
 1. Je préviens asap mon équipe, mon commercial et la cellule RH
 2. Je fais parvenir un certificat médical à la cellule RH
-3. Je renseigne Boonmanager
+3. Je renseigne Boondmanager
 
 #### Mon enfant est malade
