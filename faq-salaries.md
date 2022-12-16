@@ -19,3 +19,7 @@ ___
 3. Je renseigne Boondmanager
 
 #### Mon enfant est malade
+#### Je suis enceinte
+1. Je préviens la cellule RH et remets la déclaration de grossesse (document établi par la CPAM)
+2. Je peux bénéficier d'une réduction de mon temps de travail à partir du 3éme mois à hauteur de 20 minutes par jour
+3. Je ne récupère pas mon temps de travail lorsque les consultations prénatales sont réalisées pendant ma journée de travail 
