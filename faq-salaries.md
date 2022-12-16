@@ -19,3 +19,5 @@ ___
 3. Je renseigne Boondmanager
 
 #### Mon enfant est malade
+1. Je préviens asap mon équipe, mon commercial et la cellule RH
+2. Je renseigne Boondmanager
