@@ -57,6 +57,13 @@ Note : la baisse post-2018 s’explique par l’expiration du statut [Jeune entr
 
 La prime de participation peut être débloquée dès l’approbation des comptes (généralement en juin pour l’année comptable précédente, qui se termine en décembre).
 
+## Prime de partage de la valeur 
+
+| **Exercice** | **Montant** |
+|--------------|-------------|
+| 2022         | 3 000 €     |
+| 2021         | 1 000 €     |
+
 ## Avantages
 
 Toutes les personnes salariées bénéficient également de nombreux avantages :
