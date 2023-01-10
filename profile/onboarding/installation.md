@@ -57,7 +57,9 @@ git config --global alias.pull "pull --rebase"
 git config --global alias.merge "merge --no-ff"
 ```
 
-### Add SSH key ([docs](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification))
+### Authentificate to Github and signing commits using SSH Key
+
+Generate SSH key
 
 ```bash
 ssh-keygen -t ed25519 -C "name@les-tilleuls.coop"
@@ -66,26 +68,25 @@ ssh-add ~/.ssh/id_ed25519
 xclip -selection clipboard < ~/.ssh/id_ed25519.pub
 ```
 
-[Copy the key on GitHub](https://github.com/settings/ssh/new)
-
-### Add GPG key ([docs](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification))
+[Copy the key on GitHub](https://github.com/settings/ssh/new), do it twice :
+- once for Key type "Authentification Key"
+- once for Key type "Signing commits"
 
 ```bash
-gpg --gen-key
-gpg --list-secret-keys --keyid-format=long
-			/home/elise/.gnupg/pubring.kbx
-			------------------------------
-			sec   rsa3072/ABCD000-THE-KEY-00000 2021-09-06 [SC] [expires: 2023-09-06]
-			      ABCD000000000ABCD000-THE-KEY-00000
-			uid                 [ultimate] Name  <name@les-tilleuls.coop>
-			ssb   rsa3072/6E045DB94B4CB3BE 2021-09-06 [E] [expires: 2023-09-06]
-git config --global user.signingkey ABCD000-THE-KEY-00000
-gpg --armor --export ABCD000-THE-KEY-00000 | xclip -selection clipboard
+git config --global commit.gpgsign true
+git config --global gpg.format ssh
+git config --global user.signingkey ~/.ssh/id_ed25519.pub
 ```
 
-[Then copy the key on GitHub](https://github.com/settings/gpg/new)
+To check if it's working, create a new git repository on any empty dir :
+```bash
+git init
+git commit --allow-empty --message="Testing SSH signing"
+# If working properly, output will be:
+[main 9xxx104] Testing SSH signing
+```
 
-### .gitignore global
+### `.gitignore` global
 
 ```bash
 wget https://raw.githubusercontent.com/coopTilleuls/.github/main/profile/public/dotfiles/.gitignore_global -O ~/.gitignore_global
