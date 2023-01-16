@@ -37,6 +37,13 @@ Contactez Eleftheria ou Olivier pour obtenir vos fiches de paies.
 
 Note : il est possible de demander une avance sur salaire.
 
+## Prime de partage de la valeur 
+
+| **Exercice** | **Montant** |
+|--------------|-------------|
+| 2022         | 3 000 €     |
+| 2021         | 1 000 €     |
+
 ## Prime de participation
 
 Historique des primes de participation depuis la création, pour une personne salariée ayant travaillé à temps plein et une année complète :
