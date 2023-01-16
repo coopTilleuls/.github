@@ -37,6 +37,13 @@ Contactez Eleftheria ou Olivier pour obtenir vos fiches de paies.
 
 Note : il est possible de demander une avance sur salaire.
 
+## Prime de partage de la valeur 
+
+| **Exercice** | **Montant** |
+|--------------|-------------|
+| 2022         | 3 000 €     |
+| 2021         | 1 000 €     |
+
 ## Prime de participation
 
 Historique des primes de participation depuis la création, pour une personne salariée ayant travaillé à temps plein et une année complète :
@@ -56,13 +63,6 @@ Historique des primes de participation depuis la création, pour une personne sa
 Note : la baisse post-2018 s’explique par l’expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative, et par la mise en place de la PPV (3 000 €) dès sa création.
 
 La prime de participation peut être débloquée dès l’approbation des comptes (généralement en juin pour l’année comptable précédente, qui se termine en décembre).
-
-## Prime de partage de la valeur 
-
-| **Exercice** | **Montant** |
-|--------------|-------------|
-| 2022         | 3 000 €     |
-| 2021         | 1 000 €     |
 
 ## Avantages
 
