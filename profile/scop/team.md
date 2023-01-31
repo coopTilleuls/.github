@@ -58,7 +58,7 @@ Our team today is composed of more than 60 people:
 | Raphaël Marchese        | developer                                  | Lille       |                     |
 | Baptiste Meyer          | backend developer                          | Lille       | @meyerbaptiste      |
 | Philippe Mironov        | technical commercial                       | Russie      |                     |
-| Hugo Moubèche           | SRE                                        | Nantes      |                     |
+| Hugo Moubèche           | SRE                                        | Rennes      | @husimo-tilleuls    |
 | Nicolas Philippe        | backend developer                          | Lyon        | @nikophil           |
 | Alan Poulain            | consultant                                 | Paris       | @alanpoulain        |
 | Pierre Rebeilleau       | backend developer                          | Lille       | @PierreRebeilleau   |
