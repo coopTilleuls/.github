@@ -31,6 +31,6 @@ ___
 3. Je ne récupère pas mon temps de travail lorsque les consultations prénatales sont réalisées pendant ma journée de travail 
 
 #### J'ai besoin d'un aménagement
-1. Je me renseigne auprès de la Cellule RH qui pourra m'orienter vers les intercoluteurs appropriés ( médecin du travail, cap emploi etc)
+1. Je me renseigne auprès de la Cellule RH qui pourra m'orienter vers les intercoluteurs appropriés (médecin du travail, cap emploi, etc.)
 
 #### Je suis salarié étranger
