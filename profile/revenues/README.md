@@ -37,7 +37,7 @@ Contactez Eleftheria ou Olivier pour obtenir vos fiches de paies.
 
 Note : il est possible de demander une avance sur salaire.
 
-## Prime de partage de la valeur 
+## Prime de partage de la valeur
 
 | **Exercice** | **Montant** |
 |--------------|-------------|
@@ -97,7 +97,7 @@ Toutes les personnes salariées bénéficient également de nombreux avantages :
 ### Formation et communauté
 
 * Nombreuses formations en interne et [via l’OPCO Atlas](https://campus.opco-atlas.fr/branches/bureaux-etudes/1876)
-* Budget de 1 000 € / an pour participer à des conférences (défraiement et entrée)
+* Budget de 1 000 € / an pour participer à des conférences (défraiement et entrée) ; la participation à des conférences est **temporairement** limitée à une conférence de deux jours par an
 * Possibilité de préparer ses conférences sur son temps de travail en cas de sélection à une conférence nationale ou internationale
 * Programme d’accompagnemement interne des nouvelles et nouveaux conférenciers
 * Possibilité de contribuer au logiciel libre sur son temps de travail après accord de l’Assemblée Générale

@@ -13,6 +13,12 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 
 - Une politique de déplacement est mise en place. Dans les grandes lignes : réserver le plus tôt possible, privilégier les déplacements écologiques et économiques, récupération accordée en cas de déplacement en jour non ouvré, plafond de 150 € pour les logements.
 
+## Missions
+
+- Jusqu'à nouvel ordre en raison de la situation économique, il n'est plus possible de refuser une mission proposée par l'équipe commerciale sans raison valable autre que la préférence personnelle.
+- Jusqu'à nouvel ordre en raison de la situation économique, il n'est plus possible de demander une sortie de mission sans raison valable autre que la préférence personnelle.
+- Il n'est pas possible de refuser le présentiel pour une mission donnée.
+
 ## Intégration
 
 - La période d’intégration « non staffée » est de 2 semaines, avec 1 semaine minimum à Lille ou dans une antenne (dans la mesure du possible).
@@ -50,6 +56,10 @@ Cette page regroupe les décisions importantes déjà discutées en AG :
 ### Primes
 
 - La gérance est rémunérée à hauteur de 3 % du chiffre d’affaires. Elle est plafonnée à 3 fois le salaire médian de la grille. En cas de co-gérance, cette prime est partagée entre les co-gérants.
+
+## Avantages
+
+- En temps normal, un budget de 1000 € par an est accordé à chaque personne coopératrice pour participer à des conférences (défraiement et entrée). Cette participation à des conférences est **temporairement** limitée à une conférence de deux jours par an.
 
 ## Embauches
 
