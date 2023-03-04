@@ -9,8 +9,3 @@ Découvrez ici quelques informations sur notre histoire, notre fonctionnement, l
 - [📧️ Contacts](contact.md)
 - [🗂️ Les outils](tools.md)
 - [📑️ Informations pratiques](practical.md)
-
-## Assemblées générales
-
-<!-- - [🙋️ Comptes rendus d’AG](ag.md) -->
-- [📌️ Décisions passées](decisions.md)
