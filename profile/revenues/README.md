@@ -64,11 +64,7 @@ Note : la baisse post-2018 s’explique par l’expiration du statut [Jeune entr
 
 La prime de participation peut être débloquée dès l’approbation des comptes (généralement en juin pour l’année comptable précédente, qui se termine en décembre).
 
-## Avantages
-
-Toutes les personnes salariées bénéficient également de nombreux avantages :
-
-### Avantages en nature et primes
+## Avantages en nature et primes
 
 * [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs) ; possibilité de choisir entre la carte ou les chèques papier ; valeur unitaire de 10 € avec prise en charge à hauteur de 6,00 € par la coopérative et 4,00 € par la personne salariée
 * [Chèques Cadhoc](https://boutiques.cheque-cadhoc.fr/) (171 € / an)
@@ -82,7 +78,7 @@ Toutes les personnes salariées bénéficient également de nombreux avantages :
 * Borne de recharge pour voiture électrique (gratuite) au bureau de Lille
 * Place en crèche (Lille)
 
-### Congés
+## Congés
 
 * 2 jours de congés payés supplémentaires : le lundi de Pentecôte et le jeudi de l’Ascension
 * [Congé menstruel](https://les-tilleuls.coop/blog/conge-menstruel)
@@ -94,7 +90,7 @@ Toutes les personnes salariées bénéficient également de nombreux avantages :
 * Liberté dans la pose des congés
 * Possibilité de poser des congés par anticipation (congés acquis)
 
-### Formation et communauté
+## Formation et communauté
 
 * Nombreuses formations en interne et [via l’OPCO Atlas](https://campus.opco-atlas.fr/branches/bureaux-etudes/1876)
 * Budget de 1 000 € / an pour participer à des conférences (défraiement et entrée)
