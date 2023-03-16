@@ -4,11 +4,11 @@ Chez [Les-Tilleuls.coop](https://les-tilleuls.coop), toutes les personnes salari
 
 Les revenus sont composés de plusieurs parties :
 
-1. Un [salaire fixe](#salaires) déterminé par la place dans la grille (toutes les personnes au même niveau ont le même salaire fixe), voir ci-dessous.
-2. La [participation aux bénéfices](#prime-de-participation) : **80 % des bénéfices** réalisés par la coopérative sont répartis égalitairement entre toutes les personnes salariées, au prorata du temps de travail annuel effectif (les 20 % restants sont mis en réserve pour investir et faire face à d’éventuels coups durs). Cette prime peut être débloquée immédiatement, ou au bout de 5 ans (auquel cas elle n’est pas imposable). Elle peut également être débloquée prématurément et sans imposition [dans certains cas de figure prévus par la loi](https://www.service-public.fr/particuliers/vosdroits/F31622).
+1. Un [salaire fixe](https://github.com/coopTilleuls/.github/blob/main/profile/revenues/README.md#salaires) déterminé par la place dans la grille (toutes les personnes au même niveau ont le même salaire fixe), voir ci-dessous.
+2. La [participation aux bénéfices](https://github.com/coopTilleuls/.github/blob/main/profile/revenues/README.md#prime-de-participation) : **80 % des bénéfices** réalisés par la coopérative sont répartis égalitairement entre toutes les personnes salariées, au prorata du temps de travail annuel effectif (les 20 % restants sont mis en réserve pour investir et faire face à d’éventuels coups durs). Cette prime peut être débloquée immédiatement, ou au bout de 5 ans (auquel cas elle n’est pas imposable). Elle peut également être débloquée prématurément et sans imposition [dans certains cas de figure prévus par la loi](https://www.service-public.fr/particuliers/vosdroits/F31622).
 3. Une [prime de partage de la valeur (PPV)](https://www.service-public.fr/particuliers/vosdroits/F35235) de **3 000 € / an** (non imposable).
-4. Un [bonus d’ancienneté](#bonus-dancienneté) dans la coopérative.
-5. Des [avantages](#avantages).
+4. Un [bonus d’ancienneté](https://github.com/coopTilleuls/.github/blob/main/profile/revenues/README.md#bonus-danciennet%C3%A9) dans la coopérative.
+5. Des [avantages](https://github.com/coopTilleuls/.github/blob/main/profile/revenues/README.md#avantages).
 
 Les personnes salariées habitant en région parisienne bénéficient également d’un bonus de 20 %.
 
@@ -18,7 +18,7 @@ Il est possible, au cas par cas et avec l’accord de la personne salariée et d
 ## Salaires
 
 * [Lire sur le blog le processus d’élaboration de cette grille](https://les-tilleuls.coop/blog/grille-salariale-a-vote)
-* [Voir les compétences associées aux titres](../titles/README.md)
+* [Voir les compétences associées aux titres](https://github.com/coopTilleuls/.github/blob/main/profile/titles/README.md)
 
 Note : cette grille **n’inclut pas** les autres parts de la rémunération (part des bénéfices, PPV...).
 
