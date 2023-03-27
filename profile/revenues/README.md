@@ -77,6 +77,7 @@ La prime de participation peut être débloquée dès l’approbation des compte
 * [Carte Liberté](https://www.sncf.com/fr/offre-voyageurs/offres-entreprises/carte-liberte-la-carte-adaptee-aux-professionnels) SNCF pour les personnes salariées en ayant besoin pour leurs déplacements professionnels (379 €)
 * Borne de recharge pour voiture électrique (gratuite) au bureau de Lille
 * Place en crèche (Lille)
+* Protections périodiques à disposition
 
 ## Congés
 
@@ -108,4 +109,4 @@ La prime de participation peut être débloquée dès l’approbation des compte
 | 10 ans         | 20 %      |
 | 15 ans         | 25 %      |
 
-Le bonus est appliqué automatiquement.
+Le bonus est appliqué automatiquement dès que la date d'anniversaire du contrat est passée.
