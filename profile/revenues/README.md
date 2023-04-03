@@ -90,6 +90,9 @@ La prime de participation peut être débloquée dès l’approbation des compte
 * Congé sans solde illimité
 * Liberté dans la pose des congés
 * Possibilité de poser des congés par anticipation (congés acquis)
+* Congé maternité : prise en charge à 100% du salaire et des avantages sociaux dès la première année de salariat (contrairement à Syntec, notre convention collective, qui prévoit ce maintien à partir d’1 an d’ancienneté)
+* Congé second parent : prise en charge à 100% du salaire et des avantages sociaux dès la première année (contrairement aux 2 ans de notre convention collective)
+* Retour d’un congé longue durée (parental, sabbatique, maladie…) : mise en place d’un onboarding pour que la coopératrice ou le coopérateur reprenne ses marques au sein de l’entreprise.
 
 ## Formation et communauté
 
