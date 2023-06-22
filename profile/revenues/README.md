@@ -62,7 +62,7 @@ Historique des primes de participation depuis la création, pour une personne sa
 | 2012         | 986 €       |
 
 Notes :
-* la baisse post-2022 s'explique par la hausse de la PPV, par la décision d'augmenter les salaires (et donc par la hausse des cotisations associées) ainsi que par la réalisation d'investissements (entre autres choses la création d'une [équipe SRE](https://les-tilleuls.coop/blog/rencontre-equipe-sre))
+* la baisse post-2022 s'explique par la hausse de la PPV, par la décision d'augmenter les salaires ainsi que par la réalisation d'investissements (entre autres choses la création d'une [équipe SRE](https://les-tilleuls.coop/blog/rencontre-equipe-sre))
 * la baisse post-2018 s’explique par l’expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative, et par la mise en place de la PPV dès sa création.
 
 La prime de participation peut être débloquée dès l’approbation des comptes (généralement en juin pour l’année comptable précédente, qui se termine en décembre).
