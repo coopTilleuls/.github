@@ -50,6 +50,7 @@ Historique des primes de participation depuis la création, pour une personne sa
 
 | **Exercice** | **Montant** |
 |--------------|-------------|
+| 2022         | 1 590 €     |
 | 2021         | 7 786 €     |
 | 2020         | 5 754 €     |
 | 2019         | 6 932 €     |
@@ -60,7 +61,9 @@ Historique des primes de participation depuis la création, pour une personne sa
 | 2013         | 2 398 €     |
 | 2012         | 986 €       |
 
-Note : la baisse post-2018 s’explique par l’expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative, et par la mise en place de la PPV (3 000 €) dès sa création.
+Notes :
+* la baisse post-2022 s'explique par la hausse de la PPV, par la décision d'augmenter les salaires ainsi que par la réalisation d'investissements (entre autres choses la création d'une [équipe SRE](https://les-tilleuls.coop/blog/rencontre-equipe-sre))
+* la baisse post-2018 s’explique par l’expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative, et par la mise en place de la PPV dès sa création.
 
 La prime de participation peut être débloquée dès l’approbation des comptes (généralement en juin pour l’année comptable précédente, qui se termine en décembre).
 
@@ -92,14 +95,14 @@ La prime de participation peut être débloquée dès l’approbation des compte
 * Possibilité de poser des congés par anticipation (congés acquis)
 * Congé maternité : prise en charge à 100% du salaire et des avantages sociaux dès la première année de salariat (contrairement à Syntec, notre convention collective, qui prévoit ce maintien à partir d’1 an d’ancienneté)
 * Congé second parent : prise en charge à 100% du salaire et des avantages sociaux dès la première année (contrairement aux 2 ans de notre convention collective)
-* Retour d’un congé longue durée (parental, sabbatique, maladie…) : mise en place d’un onboarding pour que la coopératrice ou le coopérateur reprenne ses marques au sein de l’entreprise.
+* Retour d’un congé longue durée (parental, sabbatique, maladie…) : mise en place d’un on-boarding pour que la coopératrice ou le coopérateur reprenne ses marques au sein de l’entreprise
 
 ## Formation et communauté
 
 * Nombreuses formations en interne et [via l’OPCO Atlas](https://campus.opco-atlas.fr/branches/bureaux-etudes/1876)
 * Budget de 1 000 € / an pour participer à des conférences (défraiement et entrée)
 * Possibilité de préparer ses conférences sur son temps de travail en cas de sélection à une conférence nationale ou internationale
-* Programme d’accompagnemement interne des nouvelles et nouveaux conférenciers
+* Programme d’accompagnement interne des nouvelles et nouveaux conférenciers
 * Possibilité de contribuer au logiciel libre sur son temps de travail après accord de l’Assemblée Générale
 
 ## Bonus d’ancienneté
