@@ -74,6 +74,8 @@ La prime de participation peut être débloquée dès l’approbation des compte
 * [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/) (100 € / an)
 * [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd) (jusqu’à 700 € par an)
 * Prime télétravail à hauteur de 20 € / mois
+* SRE : Prime d'astreinte à hauteur de 3 € brut de l'heure supplémentaire
+* SRE : Les heures d'intervention pendant les astreintes seront rémunérées ou récupérées au choix, avec des coefficients de majoration dépendant de l'horaire d'intervention
 * Remboursement de 100 € / an sur une licence dans un club de sport
 * [Mutuelle Malakoff Humanis base conventionnelle + option 2](https://www.malakoffhumanis.com/entreprises/conventions-collectives-nationales/bureaux-etudes-techniques/) prise en charge à 100 % par la coopérative (73,50 € / mois)
 * [Remboursement de 50 % d’un abonnement aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
