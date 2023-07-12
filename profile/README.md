@@ -17,7 +17,7 @@ If you're interested in the free software we back, check out their dedicated Git
 * [🏄 ESQL](https://github.com/soyuka/esql): PHP Extended SQL
 * [📦 Our other projects](https://github.com/orgs/coopTilleuls/repositories)
 
-More information about the cooperative:
+# More information about our company:
 
 - [🤝️ How we work as a worker cooperative](https://github.com/coopTilleuls/.github/tree/main/profile/scop/en/README.md)
 - [💰 Revenues (🇫🇷)](https://github.com/coopTilleuls/.github/tree/main/profile/revenues/README.md)
@@ -26,6 +26,13 @@ More information about the cooperative:
 <!-- - [📰️ Press kit](https://github.com/coopTilleuls/.github/tree/main/profile/press-kit/README.md)
 - [🎨️ Our styleguide](https://github.com/coopTilleuls/.github/tree/main/profile/styleguide/README.md) -->
 
+# Get in touch! 
+
+- 💻 https://les-tilleuls.coop/
+- ✉️ contact@les-tilleuls.coop
+- 🐦 [Twitter](https://twitter.com/coopTilleuls)
+- 🐘 [Mastodon](https://mastodon.online/@cooptilleuls)
+  
 ---
 
 <details>
