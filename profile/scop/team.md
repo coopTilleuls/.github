@@ -38,7 +38,7 @@ Our team today is composed of more than 60 people:
 | Allison Guilhem         | backend developer                          | Lyon        | @alli83             |
 | Grégoire Hébert         | backend developer                          | Lille       | @GregoireHebert     |
 | Cécile Helary-Hamerel   | marketing and communications manager       | Lille       | @CecileAmrl         |
-| Romain Herault          | backend developer                          | Lille       | Romaixn             |
+| Romain Herault          | backend developer                          | Lille       | @Romaixn            |
 | Natacha Heubès          | backend developer                          | Paris       |                     |
 | Jérémy Huard            | frontend developer                         | Montpellier | @J3m5               |
 | Frédéric Jost           | backend developer                          | Lille       | @f-jost             |
