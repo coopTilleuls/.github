@@ -44,7 +44,11 @@ Chaque personne coopératrice bénéficie d’un jour de congés supplémentaire
 
 Nous disposons d’un CSE (comité social et économique) qui se substitue aux actuels délégués du personnel dans les entreprises d’au moins 11 salariés. Le CSE a pour mission d’assurer une expression collective des salariés permettant la prise en compte de leurs intérêts dans les décisions relatives à la gestion et à l’évolution économique et financière de l’entreprise, à l’organisation du travail, à la formation professionnelle et aux techniques de production.
 
-Élus pour un mandat de 4 ans, nos élus titulaires actuels sont Clément Talleu et Grégory Copin.
+Élus pour un mandat de 4 ans, nos élus titulaires actuels sont :
+
+- **Collège employé** : Vincent Fuger (titulaire), pas de suppléant
+- **Collège agent de maîtrise** : Margaux Feslard (titulaire) et Antoine Cau (suppléant)
+- **Collège cadre** : Justine Delalleau, Clément Talleu (titulaires) et Loïc Vernet, Laury Sorriaux (suppléants)
 
 ## Conseil de surveillance
 
@@ -72,9 +76,11 @@ Il est possible de monter au capital de la SCI. Il s’agit des locaux situés �
 
 ## Déplacements
 
-Lors de vos déplacements professionnels, Thomas ou Cécile peuvent réserver votre train/vol et vos nuits d’hôtel. Envoyez votre demande au plus tôt par mail à thomas@les-tilleuls.coop ou cecile@les-tilleuls.coop car il est souvent difficile de trouver un hôtel pour la veille.
+Lors de vos déplacements professionnels, Touria peut réserver votre train/vol et vos nuits d’hôtel. Envoyez votre demande au plus tôt par mail ou par chat à touria@les-tilleuls.coop car il est souvent difficile de trouver un hôtel pour la veille.
 
 Si vous effectuez des déplacements réguliers, une carte SNCF Liberté vous sera délivrée afin que vous puissiez bénéficier de tarifs attractifs lors de la réservation.
+
+Nous disposons d'un appartement à Paris, au dessus de notre bureau situé au 10, allée Lydia Becker. Pour prendre possession de l'appartement, inscrivez-vous sur [l'agenda partagé](https://calendar.google.com/calendar/u/0?cid=Y19lOWZmYmM3MjYzZWQ0NjlhYTY2NmJlZTY4MDM4NmJkMmJlNzQxNTVmNjdkZGI1MDQzODk1ZGU5NjlmZTcxMjZkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) et prévenez notre équipe sur le canal **Paris** de notre Google Chat.
 
 ## Tri sélectif
 
