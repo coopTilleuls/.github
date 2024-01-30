@@ -46,7 +46,7 @@ Nous disposons d’un CSE (comité social et économique) qui se substitue aux a
 
 Élus pour un mandat de 4 ans, nos élus titulaires actuels sont :
 
-- **Collège employé** : Vincent Fuger (titulaire), pas de supplément
+- **Collège employé** : Vincent Fuger (titulaire), pas de suppléant
 - **Collège agent de maîtrise** : Margaux Feslard (titulaire) et Antoine Cau (suppléant)
 - **Collège cadre** : Justine Delalleau, Clément Talleu (titulaires) et Loïc Vernet, Laury Sorriaux (suppléants)
 
