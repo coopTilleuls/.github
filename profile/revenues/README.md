@@ -84,7 +84,7 @@ La prime de participation peut être débloquée dès l’approbation des compte
 
 ## Congés
 
-* 2 jours de congés payés supplémentaires : le lundi de Pentecôte et le jeudi de l’Ascension
+* 2 jours de congés payés supplémentaires : le lundi de Pentecôte et le vendredi de l’Ascension
 * [Congé menstruel](https://les-tilleuls.coop/blog/conge-menstruel)
 * 3 jours de congés payés enfants malades
 * 3 jours de congés "aléas de la vie" pour les postes de *Junior programmer* et *Programmer*
