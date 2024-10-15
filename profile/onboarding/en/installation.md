@@ -9,7 +9,7 @@ Install
 ```bash
 sudo add-apt-repository ppa:ondrej/php
 sudo apt install curl make \
-    docker docker-compose \
+    wmdocker docker-compose \
     software-properties-common \
     php8.0 libapache2-mod-php8.0 \
     xclip clipit \
