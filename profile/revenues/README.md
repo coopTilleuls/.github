@@ -113,6 +113,9 @@ La prime de participation peut être débloquée dès l’approbation des compte
 | 5 ans          | 10 %      |
 | 7 ans          | 15 %      |
 | 10 ans         | 20 %      |
-| 15 ans         | 25 %      |
+| 12 ans         | 25 %      |
+| 15 ans         | 30 %      |
+| 17 ans         | 35 %      |
+| 20 ans         | 40 %      |
 
 Le bonus est appliqué automatiquement dès que la date d'anniversaire du contrat est passée.
