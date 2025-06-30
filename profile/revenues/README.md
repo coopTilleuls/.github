@@ -41,6 +41,8 @@ Note : il est possible de demander une avance sur salaire.
 
 | **Exercice** | **Montant** |
 |--------------|-------------|
+| 2024         | 2 000 €     |
+| 2023         | 0 €         |
 | 2022         | 3 000 €     |
 | 2021         | 1 000 €     |
 
@@ -50,6 +52,8 @@ Historique des primes de participation depuis la création, pour une personne sa
 
 | **Exercice** | **Montant** |
 |--------------|-------------|
+| 2024         | 12 166 €    |
+| 2023         | 0 €         |
 | 2022         | 1 590 €     |
 | 2021         | 7 786 €     |
 | 2020         | 5 754 €     |
@@ -62,7 +66,7 @@ Historique des primes de participation depuis la création, pour une personne sa
 | 2012         | 986 €       |
 
 Notes :
-* la baisse post-2022 s'explique par la hausse de la PPV, par la décision d'augmenter les salaires ainsi que par la réalisation d'investissements (entre autres choses la création d'une [équipe SRE](https://les-tilleuls.coop/blog/rencontre-equipe-sre))
+* les faibles montants de 2022 et 2023 s'expliquent par la décision d'augmenter les salaires, par la réalisation d'investissements (entre autres choses la création d'une [équipe SRE](https://les-tilleuls.coop/blog/rencontre-equipe-sre)) et par [la crise économique qu'a connue du secteur du numérique ces années là](https://www.lesechos.fr/tech-medias/hightech/2022-une-annee-catastrophique-pour-la-tech-1892157)
 * la baisse post-2018 s’explique par l’expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative, et par la mise en place de la PPV dès sa création.
 
 La prime de participation peut être débloquée dès l’approbation des comptes (généralement en juin pour l’année comptable précédente, qui se termine en décembre).
