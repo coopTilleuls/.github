@@ -41,6 +41,8 @@ Note : il est possible de demander une avance sur salaire.
 
 | **Exercice** | **Montant** |
 |--------------|-------------|
+| 2024         | 2000 €      |
+| 2023         | 0 €         |
 | 2022         | 3 000 €     |
 | 2021         | 1 000 €     |
 
@@ -50,7 +52,9 @@ Historique des primes de participation depuis la création, pour une personne sa
 
 | **Exercice** | **Montant** |
 |--------------|-------------|
-| 2022         | 1 590 €     |
+| 2024         | 12 166 €    |
+| 2023         | 0 €         |
+|  2022        | 1 590 €      | 
 | 2021         | 7 786 €     |
 | 2020         | 5 754 €     |
 | 2019         | 6 932 €     |
