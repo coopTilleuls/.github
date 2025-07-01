@@ -73,7 +73,7 @@ La prime de participation peut être débloquée dès l’approbation des compte
 
 ## Avantages en nature et primes
 
-* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs) en carte; valeur unitaire de 12 € avec prise en charge à hauteur de 8,00 € par la coopérative et 4,00 € par la personne salariée
+* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs) en carte; valeur unitaire de 12 € avec prise en charge à hauteur de 7,20 € par la coopérative et 4,80 € par la personne salariée
 * [Cagnottes Leeto Sport, Loisirs et Culture](https://boutiques.cheque-cadhoc.fr/) (200 € / an)
 * [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd) (jusqu’à 700 € par an)
 * Prime télétravail à hauteur de 20 € / mois
