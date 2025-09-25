@@ -9,7 +9,7 @@ Vous allez récupérer vos accès à vos différents comptes :
 - [ ] Google Workspace pour les e-mails, le chat interne, les agendas et le drive (pensez à la double authenfication lors de la configuration de ce compte !)
 - [ ] Nous allons ajouter votre compte GitHub à notre organisation (idem, pensez double authentification !)
 - [ ] Vous allez recevoir une invitation pour accéder à Loomio (notre interface permettant de voter à distance différentes décisions (budgets, recrutements, participations à des initiatives diverses...)
-- [ ] Vous recevrez une invitation à Boond manager (notre ERP qui permet notamment de comptabiliser vos temps et vos prises de congés)
+- [ ] Vous recevrez une invitation à SalesForce (notre ERP qui permet notamment de comptabiliser vos temps et vos prises de congés)
 - [ ] Plusieurs documents seront à signer (votre contrat, vos documents pour la mutuelle, notre attestation RGPD...), vous récupérez également vos premiers tickets resto
 - [ ] Si vous êtes ok, nous ajoutons également votre photo sur la page équipe de notre site web
 - [ ] Côté technique, il faut désormais [configurer votre ordinateur](installation.md)
