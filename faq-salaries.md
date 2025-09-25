@@ -16,14 +16,14 @@ ___
 #### Je suis malade
 1. Je préviens asap mon équipe, mon commercial et la cellule RH
 2. Je fais parvenir un certificat médical à la cellule RH sous 48h
-3. Je renseigne Boondmanager
+3. Je renseigne SalesForce
 4. Je bénéficie après 1 an d'ancienneté du maintien de salaire 
 
 #### Mon enfant est malade
 1. Je préviens asap mon équipe, mon commercial et la cellule RH
 2. Je fais parvenir un certificat médical à la cellule RH 
 3. Je peux bénéficier de 3 jours enfants malade par année civile payé par l'entreprise 
-4. Je renseigne Boondmanager
+4. Je renseigne SalesForce
 
 #### Je suis enceinte
 1. Je préviens la cellule RH et remets la déclaration de grossesse (document établi par la CPAM)
