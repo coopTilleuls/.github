@@ -6,7 +6,7 @@ Les revenus sont composés de plusieurs parties :
 
 1. Un [salaire fixe](#salaires) déterminé par la place dans la grille (toutes les personnes au même niveau ont le même salaire fixe), voir ci-dessous.
 2. La [participation aux bénéfices](#prime-de-participation) : **80 % des bénéfices** réalisés par la coopérative sont répartis égalitairement entre toutes les personnes salariées, au prorata du temps de travail annuel effectif (les 20 % restants sont mis en réserve pour investir et faire face à d’éventuels coups durs). Cette prime peut être débloquée immédiatement, ou au bout de 5 ans (auquel cas elle n’est pas imposable). Elle peut également être débloquée prématurément et sans imposition [dans certains cas de figure prévus par la loi](https://www.service-public.fr/particuliers/vosdroits/F31622).
-3. Une [prime de partage de la valeur (PPV)](https://www.service-public.fr/particuliers/vosdroits/F35235) de **3 000 € / an** (non imposable).
+3. Une [prime de partage de la valeur (PPV)](https://www.service-public.fr/particuliers/vosdroits/F35235) de maximum **3 000 € / an** (imposable).
 4. Un [bonus d’ancienneté](#bonus-danciennet%C3%A9) dans la coopérative.
 5. Des [avantages](#avantages-en-nature-et-primes).
 
@@ -73,9 +73,8 @@ La prime de participation peut être débloquée dès l’approbation des compte
 
 ## Avantages en nature et primes
 
-* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs) ; possibilité de choisir entre la carte ou les chèques papier ; valeur unitaire de 10 € avec prise en charge à hauteur de 6,00 € par la coopérative et 4,00 € par la personne salariée
-* [Chèques Cadhoc](https://boutiques.cheque-cadhoc.fr/) (171 € / an)
-* [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/) (100 € / an)
+* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs) en carte; valeur unitaire de 12 € avec prise en charge à hauteur de 7,20 € par la coopérative et 4,80 € par la personne salariée
+* [Cagnottes Leeto Sport, Loisirs et Culture](https://boutiques.cheque-cadhoc.fr/) (200 € / an)
 * [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd) (jusqu’à 700 € par an)
 * Prime télétravail à hauteur de 20 € / mois
 * Remboursement de 100 € / an sur une licence dans un club de sport
