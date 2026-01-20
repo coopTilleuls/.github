@@ -11,7 +11,7 @@ sudo add-apt-repository ppa:ondrej/php
 sudo apt install curl make \
     docker docker-compose \
     software-properties-common \
-    php8.0 libapache2-mod-php8.0 \
+    php libapache2-mod-php \
     xclip clipit \
     zsh
 sudo snap install --classic phpstorm \
