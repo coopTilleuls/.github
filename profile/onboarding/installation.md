@@ -6,6 +6,8 @@
 
 Install
 
+#### Ubuntu
+
 ```bash
 sudo add-apt-repository ppa:ondrej/php
 sudo apt install curl make \
@@ -22,6 +24,26 @@ sudo usermod -aG docker $USER  # you will need to restart your session
 ```
 
 - [oh-my-zsh](https://ohmyz.sh/) or alternatives
+
+#### Debian
+
+Debian propose des paquets moins à jour qu’Ubuntu, mais ne force pas l’utilisation de snap, ce qui évite des problèmes de lenteur au lancement de certaines applications snap. Le fait de ne pas avoir la dernière version de PHP n’est pas handicapant avec les projets dockerisés qui ont leur propre version de PHP.  
+
+Note : testé avec Debian 13, ça installe PHP 8.4.
+
+```bash
+sudo apt install curl make \
+    docker.io docker-compose \
+    php-cli php-curl php-xml \
+    xclip
+
+sudo usermod -aG docker $USER  # you will need to restart your session
+```
+
+PhpStorm : télécharger l’archive https://www.jetbrains.com/phpstorm/download/?section=linux la décompresser puis lancer le fichier `PhpStorm/bin/phpstorm`.
+Une fois dans PHPStorm, ouvrir le menu « Tools » et cliquer sur « Create Desktop Entry… ». On peut ensuite lancer PHPStorm depuis son environnement de bureau.
+
+Firefox : par défaut Debian fournit la version ESR (support étendu), pour avoir la dernière version on peut [utiliser les dépôts APT de Mozilla](https://support.mozilla.org/fr/kb/installer-firefox-linux#w_installation-par-paquet-deb-pour-les-distributions-basees-sur-debian-recommande) ou [lancer à partir de l’archive](https://support.mozilla.org/fr/kb/installer-firefox-linux#w_installation-locale-de-firefox-dans-un-compte-utilisateur).
 
 ### Mac
 
