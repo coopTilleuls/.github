@@ -1,19 +1,18 @@
-# 👋️ Welcome on Les-Tilleuls.coop's GitHub page!
+# 👋️ Welcome to Les-Tilleuls.coop's GitHub page!
 
 <a href="https://les-tilleuls.coop"><img align="right" src="https://raw.githubusercontent.com/coopTilleuls/.github/main/profile/public/img/tree.svg" height="250" alt="Les-Tilleuls.coop"></a>
 
-Les-Tilleuls.coop is a tech [worker cooperative](https://en.wikipedia.org/wiki/Worker_cooperative) specialized in e-commerce, trainings and free software. We bring your projects to life by combining creativity, durability and cutting-edge development.
+Les-Tilleuls.coop is a tech [worker cooperative](https://en.wikipedia.org/wiki/Worker_cooperative) specialized in e-commerce, trainings and free software. We bring your projects to life by combining creativity, durability, and cutting-edge development.
 
-If you're interested in the free software we back, check out their dedicated GitHub pages:
+If you're interested in the free software our team created, check out their dedicated GitHub pages:
 
+* [🐲 FrankenPHP](https://github.com/php/frankenphp): modern PHP app server written in Go
 * [🕷 API Platform](https://github.com/api-platform): create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time, written in PHP and TypeScript
 * [🎼 Symfony](https://github.com/symfony): a set of reusable PHP components and a framework for web projects
 * [💌 Mercure](https://github.com/dunglas/mercure): real-time made easy, open protocol and reference implementation written in Go
 * [🔨 Vulcain](https://github.com/dunglas/vulcain): fast and idiomatic client-driven REST APIs, open protocol and reference implementation written in Go
 * [⚡️ React ESI](https://github.com/dunglas/react-esi): blazing-fast Server-Side Rendering for React and Next.js, written in TypeScript
-* [🐲 FrankenPHP](https://github.com/dunglas/frankenphp): modern PHP app server written in Go
 * [📄 Doctrine JSON ODM](https://github.com/dunglas/doctrine-json-odm): an Object-Document Mapper (ODM) for Doctrine ORM leveraging new JSON types of modern RDBMS
-* [🛡️ OAuth2 Server Bundle](https://github.com/thephpleague/oauth2-server-bundle): a spec compliant, secure by default PHP OAuth 2.0 Server for Symfony
 * [🏄 ESQL](https://github.com/soyuka/esql): PHP Extended SQL
 * [📦 Our other projects](https://github.com/orgs/coopTilleuls/repositories)
 
@@ -30,9 +29,11 @@ If you're interested in the free software we back, check out their dedicated Git
 
 - 💻 https://les-tilleuls.coop/
 - ✉️ contact@les-tilleuls.coop
-- 🐦 [Twitter](https://twitter.com/coopTilleuls)
 - 🐘 [Mastodon](https://mastodon.online/@cooptilleuls)
-  
+- 🦋 [Bluesky](https://bsky.app/profile/les-tilleuls.coop)
+- 💼 [LinkedIn](https://www.linkedin.com/company/les-tilleuls-coop/)
+- 𝕏 [X](https://x.com/coopTilleuls)
+
 ---
 
 <details>
