@@ -1,6 +1,6 @@
 # Premiers pas
 
-Avant d’arriver chez nous Eleftheria, notre chargée de recrutement, prendra le soin de vous contacter pour connaître différents détails sur vos besoins en matériel. En addition à cela, voici comment se passera votre première journée parmi nous :
+Avant d’arriver chez nous, Eleftheria, notre chargée de recrutement, prendra le soin de vous contacter pour connaître différents détails sur vos besoins en matériel. En addition à cela, voici comment se passera votre première journée parmi nous :
 
 - [ ] Vous allez récupérer votre ordinateur (nous vous laissons le choix entre un MacBook Pro ou un Dell sous Linux)
 - [ ] Vous récupérez votre kit de bienvenue (comprenant un polo, un sweat zippé, une thermos, une tasse à café, des stylos et d’autres goodies)

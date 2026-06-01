@@ -59,6 +59,8 @@ git config --global alias.merge "merge --no-ff"
 
 ### Add SSH key ([docs](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification))
 
+Generate SSH key 
+
 ```bash
 ssh-keygen -t ed25519 -C "name@les-tilleuls.coop"
 eval "$(ssh-agent -s)"
@@ -83,9 +85,25 @@ git config --global user.signingkey ABCD000-THE-KEY-00000
 gpg --armor --export ABCD000-THE-KEY-00000 | xclip -selection clipboard
 ```
 
-[Then copy the key on GitHub](https://github.com/settings/gpg/new)
+[Then copy the key on GitHub](https://github.com/settings/gpg/new) do it twice :
+- once for Key type "Authentification Key"
+- once for Key type "Signing commits"
 
-### .gitignore global
+```bash
+git config --global commit.gpgsign true
+git config --global gpg.format ssh
+git config --global user.signingkey ~/.ssh/id_ed25519.pub
+```
+
+To check if it's working, create a new git repository on any empty dir :
+```bash
+git init
+git commit --allow-empty --message="Testing SSH signing"
+# If working properly, output will be:
+[main 9xxx104] Testing SSH signing
+```
+
+### `.gitignore` global
 
 ```bash
 wget https://raw.githubusercontent.com/coopTilleuls/.github/main/profile/public/dotfiles/.gitignore_global -O ~/.gitignore_global
