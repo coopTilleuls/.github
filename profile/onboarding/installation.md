@@ -4,7 +4,7 @@
 
 ### Linux
 
-Install
+Installer
 
 ```bash
 sudo add-apt-repository ppa:ondrej/php
@@ -18,10 +18,10 @@ sudo snap install --classic phpstorm \
     code \
     node
 
-sudo usermod -aG docker $USER  # you will need to restart your session
+sudo usermod -aG docker $USER  # il faudra redémarrer la session
 ```
 
-- [oh-my-zsh](https://ohmyz.sh/) or alternatives
+- [oh-my-zsh](https://ohmyz.sh/) ou alternatives
 
 ### Mac
 
@@ -42,11 +42,11 @@ Installer [oh-my-zsh](https://ohmyz.sh/) et configurer iTerm pour utiliser une N
 
 ## dotfiles
 
-- [handy lists of aliases](/profile/public/dotfiles/.aliases) to add to `.bashrc` or `.zshrc`
+- [liste pratique d'alias](/profile/public/dotfiles/.aliases) à ajouter à `.bashrc` ou `.zshrc`
 
 ## Git
 
-### basic config
+### config basique
 
 ```bash
 git config --global user.name "name"
@@ -57,9 +57,9 @@ git config --global alias.pull "pull --rebase"
 git config --global alias.merge "merge --no-ff"
 ```
 
-### Authentificate to Github and signing commits using SSH Key
+### S'authentifier à Github et signer ses commits avec une clé SSH
 
-Generate SSH key
+Générer une clé SSH
 
 ```bash
 ssh-keygen -t ed25519 -C "name@les-tilleuls.coop"
@@ -68,9 +68,9 @@ ssh-add ~/.ssh/id_ed25519
 xclip -selection clipboard < ~/.ssh/id_ed25519.pub
 ```
 
-[Copy the key on GitHub](https://github.com/settings/ssh/new), do it twice :
-- once for Key type "Authentification Key"
-- once for Key type "Signing commits"
+[Copier la clé sur GitHub](https://github.com/settings/ssh/new), le faire deux fois :
+- une fois pour la clé de type "Authentification Key"
+- une fois pour la clé de type "Signing commits"
 
 ```bash
 git config --global commit.gpgsign true
@@ -78,11 +78,11 @@ git config --global gpg.format ssh
 git config --global user.signingkey ~/.ssh/id_ed25519.pub
 ```
 
-To check if it's working, create a new git repository on any empty dir :
+Pour vérifier que tout fonctionne, créer un nouveau repository git sur un dossier vide :
 ```bash
 git init
 git commit --allow-empty --message="Testing SSH signing"
-# If working properly, output will be:
+# Si tout va bien, l'output devrait ressembler à:
 [main 9xxx104] Testing SSH signing
 ```
 
