@@ -23,6 +23,13 @@ sudo usermod -aG docker $USER  # il faudra redémarrer la session
 
 - [oh-my-zsh](https://ohmyz.sh/) ou alternatives
 
+#### Chiffrer son répertoire home avec ecryptfs (Ubuntu, Debian, etc.)
+
+Cela protégera vos données et les données des projets en cas de perte ou vol de votre ordinateur.
+
+1. `sudo apt install ecryptfs-utils`
+2. Suivre ce guide : https://doc.ubuntu-fr.org/ecryptfs#chiffrer_sonhome
+
 ### Mac
 
 Installer [Brew](https://brew.sh/) puis (sélectionnez uniquement les outils qui vous intéressent suivant le(s) langage(s) que vous utilisez):
