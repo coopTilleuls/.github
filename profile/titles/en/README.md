@@ -1,107 +1,96 @@
-# Titles for programmers
+**English** · [Français](https://github.com/coopTilleuls/.github/blob/main/profile/titles/README.md)
 
-> We're introducing Titles for programmers forked from [basecamp handbook](https://github.com/basecamp/handbook). These titles will help us specify a salary grid and normalize salaries at Les-Tilleuls.
+# 🧙 Job titles
 
-- [Voir la version française](../README.md)
+At Les-Tilleuls.coop, every developer is placed at one of the six levels below, which match the six levels of our [salary scale](https://github.com/coopTilleuls/.github/blob/main/profile/revenues/en/README.md). These criteria are neither exhaustive nor a checklist: they are a basis for an individual conversation about career progression.
 
-We use the following criteria to assess the level and title of programmers of [Les-Tilleuls.coop](https://les-tilleuls.coop). These criteria aren't exhaustive, and they aren't mere checklists. They're a guidance to having an individualized discussion about career progression.
+They mainly look at the scope of work someone can take on independently. We also look at the quality of that work. The titles are the ones used in the salary scale and are inspired by the [Basecamp handbook](https://github.com/basecamp/handbook). To find out how to move up a level, see the [Pay and benefits](https://github.com/coopTilleuls/.github/blob/main/profile/revenues/en/README.md) page.
 
-It should also be noted that these criteria chiefly examine the cooperativee of work someone is capable of tackling independently. In addition to that assessment, we also look at the quality of the execution itself. <!-- reword this: Basecamp pays in the top 10% of the industry (based on San Francisco rates), so the quality of the work itself should be commensurate with that target. -->
+## Soft skills and professional behavior
 
-## Soft skills & professional behavior
-Non-technical skills are expected at every level.
+These skills are expected at every level.
 
-### Reliability / Accountability
-- Honors commitments
-- Proactively speaks up when facing difficulties
-- Shows consistency in the quality delivered
+### Reliability and accountability
+
+- honors commitments;
+- speaks up early when facing difficulties;
+- delivers work of consistent quality.
 
 ### Professional communication
-- Communicates clearly with the team
-- Asks relevant questions
-- Documents what needs to be documented
+
+- communicates clearly with the team;
+- asks relevant questions;
+- documents what needs to be documented.
 
 ### Teamwork
-- Collaborates effectively
-- Takes part in code reviews
-- Follows internal standards
+
+- collaborates effectively;
+- takes part in code reviews;
+- follows internal standards.
 
 ## Junior Programmer
 
-- Work is thoroughly reviewed with substantial back'n'forth frequently needed before merging.
-- Basic language features are mastered, but some advanced structures may still be unfamiliar.
-- Occasional issues following patterns and approaches within existing code bases.
-- Works primarily on tightly cooperativeed, routine problems.
-- Builds reliable professional habits under supervision
-  - flags difficulties early
-  - gives regular progress updates (daily, chat, tickets)
-  - follows the team's basic practices
-- Usually less than 2 years of experience being a professional programmer in the specific domain, as this status is considered as transitory.
+- Work is reviewed in detail, and substantial changes are usually needed before merging.
+- Has mastered the basic features of the language, but not yet some advanced structures.
+- Sometimes struggles to follow the patterns and approaches of an existing code base.
+- Works mostly on routine, tightly scoped problems.
+- Builds reliable professional habits with support: flags difficulties early, gives regular progress updates (daily, chat, tickets) and follows the team’s basic practices.
+- Usually less than 2 years of experience as a professional developer. This level is considered transitional.
 
 ## Programmer
 
-- Work is reviewed with the occasional need for material direction or implementation changes.
-- Follows established patterns and approaches within existing code bases with ease.
-- Works mostly on clearly defined and cooperativeed individual features or problems.
-- Starts suggesting improvements to existing code
-- Reliable on simple tasks, communicates properly within the team
-  - Can estimate simple tasks
-  - Doesn't block the team
-  - Starts taking part in code reviews
-- Usually at least 2-5 years of experience being a professional programmer in the specific domain or if you had a Master's Degree.
+- Work is reviewed, with occasional changes to the implementation or the overall direction of the code.
+- Easily follows the established patterns and approaches of an existing code base.
+- Works mostly on clearly defined and scoped features or problems.
+- Starts suggesting improvements to existing code.
+- Is reliable on simple tasks and communicates well within the team: can estimate simple tasks, does not block the team and starts taking part in code reviews.
+- Usually 2 to 5 years of experience as a professional developer, or a master’s degree.
 
 ## Senior Programmer
 
-- Work doesn't necessarily need to be reviewed, but general approach may be.
-- Fully capable of taking substantial features from concept to shipping as the sole programmer (alongside a designer).
-- Can provide material feedback on the work of junior programmers and programmers, in particular through regular code review.
-- Can represent the cooperative in front of the client's technical stakeholders
-- Reliable on a whole functional cooperativee, positive influence on team collaboration
-  - restates requirements
-  - raises the alert as soon as a risk appears
-  - manages their own workload and warns early if it slips
-- Deep expertise within at least one programming environment.
-- Basic proficiency in at least one additional programming environment.
-- Usually at least 5-8 years of experience being a professional programmer in the specific domain.
+- Work does not necessarily need to be reviewed, but the general approach may be.
+- Can take a substantial feature from concept to production as the only developer (alongside a designer).
+- Can support Junior Programmers and Programmers, in particular through regular code reviews.
+- Has deep expertise in at least one programming environment, and basic skills in at least one other.
+- Can represent the cooperative in front of a customer’s technical stakeholders.
+- Is reliable on a whole functional scope and has a positive influence on the team: restates requirements, raises the alert as soon as a risk appears, manages their own workload and warns early if it slips.
+- Usually 5 to 8 years of experience as a professional developer.
 
 ## Lead Programmer
 
-- Work happens completely autonomously with no regular need for review.
-- Fully capable of owning and running entire subsystems of work (API Platform expert, Mercure implementation).
-- Helps set and maintain professional standards for the entire organization.
-- Deep expertise within at least one programming environment. Has interests with other programming languages.
-- Capable of running and directing small teams for substantial projects.
-- Is a referent for code review or to help coworkers.
-- Can take part in pre-sales on simple projects and familiar topics
-- Mentors interns and apprentices
-- Runs internal training sessions (short or recurring) for developers
-  Example: running an internal workshop on getting started with API Platform, or on using Git
-- Clear communication with the team and the client, constructive and structuring attitude
-  - adapts their communication to the team and/or the clients
-  - clarifies technical stakes for the team
-  - supports the more junior members
-  - can explain technical choices in plain language
-- Usually at least 8-12 years of experience being a professional programmer in the specific domain.
+- Works fully independently, with no regular need for review.
+- Can own and run complex systems (for example as an API Platform expert or to implement Mercure).
+- Helps set and maintain professional standards for the whole cooperative.
+- Has deep expertise in at least one programming environment and is interested in other languages.
+- Can lead small teams on substantial projects.
+- Is a go-to person for code review and for helping colleagues.
+- Can take part in pre-sales on simple projects and familiar topics.
+- Mentors interns and apprentices.
+- Runs internal training sessions, one-off or recurring, for developers (for example a workshop on getting started with API Platform or Git).
+- Communicates clearly with the team and customers, with a constructive attitude: adapts to their audience, clarifies technical stakes, supports more junior colleagues and can explain technical choices in plain language.
+- Usually 8 to 12 years of experience as a professional developer.
 
 ## Expert Programmer
 
-- Gives training courses in full autonomy.
-- Analyst and consulting adviser on at least one topic.
-- Can lead an architecture mission leading technical decisions on a projet.
-- Deep, substantial expertise in multiple programming environments.
-- Capable of running and directing teams for substantial projects.
-- Capable of executing projects across multiple domains (say, native app that needs API backend).
-- Usually at least 12-15 years of experience being a professional programmer in the specific domain.
+- Gives training courses fully independently.
+- Analyzes and advises on at least one topic.
+- Can lead an architecture assignment, driving the technical decisions on a project.
+- Has deep expertise in several programming environments.
+- Can lead and coordinate teams on substantial projects.
+- Can run projects that span several domains (for example a native app backed by an API).
+- Usually 12 to 15 years of experience as a professional developer.
 
 ## Principal Programmer
 
-- Can set and direct an entire department, like e-commerce or Click'N'Collect.
-- Fully capable of designing, owning, and running entirely new, novel systems (design billing systems, Active Record from scratch)
-- Capable of running and directing larger teams for large, long-running projects.
-- Recognized widely in the industry for material contributions to the state of the art.
-- Invents new concepts, pushes the whole organization forward regularly.
-- Contributes to the cooperative's overall technical vision.
-- Represents the cooperative within the ecosystem and with strategic clients.
+- Can set up and lead an entire service, such as e-commerce or click and collect.
+- Can design, own and run entirely new systems (for example a billing system, or an Active Record ORM built from scratch).
+- Can lead and coordinate large teams on large, long-running projects.
+- Is recognized in the industry for contributions to the state of the art.
+- Invents new concepts and regularly pushes the whole cooperative forward.
+- Contributes to the cooperative’s technical vision.
+- Represents the cooperative in the ecosystem and with strategic customers.
 - Is accountable for technical and cultural consistency.
-- Can own the overall technical leadership of key accounts or complex projects.
-- Usually at least 15+ years of experience being a professional programmer in the specific domain.
+- Can lead the technical side of key accounts or complex projects.
+- Usually at least 15 years of experience as a professional developer.
+
+⬅️ [Back to home](https://github.com/coopTilleuls/.github/blob/main/profile/README.md)

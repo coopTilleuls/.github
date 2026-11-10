@@ -1,125 +1,137 @@
-# Revenus
+[English](https://github.com/coopTilleuls/.github/blob/main/profile/revenues/en/README.md) · **Français**
 
-Chez [Les-Tilleuls.coop](https://les-tilleuls.coop), toutes les personnes salariées sont placées sur une grille disposant de 6 niveaux, qui dépendent des compétences et de l’expérience.
+# 💰 Revenus et avantages
 
-Les revenus sont composés de plusieurs parties :
+Chez Les-Tilleuls.coop, toutes les personnes salariées sont placées sur une grille de six niveaux, qui dépendent des compétences et de l’expérience. Les revenus se composent de plusieurs parts :
 
-1. Un [salaire fixe](#salaires) déterminé par la place dans la grille (toutes les personnes au même niveau ont le même salaire fixe), voir ci-dessous.
-2. La [participation aux bénéfices](#prime-de-participation) : **80 % des bénéfices** réalisés par la coopérative sont répartis égalitairement entre toutes les personnes salariées, au prorata du temps de travail annuel effectif (les 20 % restants sont mis en réserve pour investir et faire face à d’éventuels coups durs). Cette prime peut être débloquée immédiatement, ou au bout de 5 ans (auquel cas elle n’est pas imposable). Elle peut également être débloquée prématurément et sans imposition [dans certains cas de figure prévus par la loi](https://www.service-public.fr/particuliers/vosdroits/F31622).
-3. Une [prime de partage de la valeur (PPV)](https://www.service-public.fr/particuliers/vosdroits/F35235) de **3 000 € / an** (non imposable).
-4. Un [bonus d’ancienneté](#bonus-danciennet%C3%A9) dans la coopérative.
-5. Des [avantages](#avantages-en-nature-et-primes).
+- un **salaire fixe**, déterminé par le niveau dans la grille : toutes les personnes au même niveau ont le même salaire fixe ;
+- un **bonus d’ancienneté**, appliqué sur le salaire fixe ;
+- la **participation aux bénéfices** : 84 % des bénéfices sont répartis à parts égales entre toutes les personnes salariées, au prorata du temps de travail effectif. Les 16 % restants sont mis en réserve pour assurer la pérennité de la coopérative ;
+- une [**prime de partage de la valeur**](https://www.service-public.fr/particuliers/vosdroits/F35235) (PPV) pouvant aller jusqu’à 3 000 € par an, non imposable. Son montant est voté chaque année et il est le même pour tout le monde, au prorata du temps de travail ;
+- une **prime vacances** après un an d’ancienneté ;
+- des **avantages en nature et des primes**, détaillés plus bas.
 
-Les personnes salariées habitant en région parisienne bénéficient également d’un bonus de 20 %.
+Les personnes salariées qui viennent au bureau de Paris une fois par semaine et acceptent les missions en présentiel en région parisienne bénéficient d’un bonus de 20 % sur leur salaire fixe.
 
-Le temps de travail hebdomadaire est de 35H (réelles).
-Il est possible, au cas par cas et avec l’accord de la personne salariée et de la coopérative, d’effectuer des heures supplémentaires rémunérées.
+Le temps de travail hebdomadaire est de 35 heures réelles. Des heures supplémentaires rémunérées sont possibles au cas par cas, avec l’accord de la personne salariée et de la coopérative.
 
-## Salaires
+## Les salaires
 
-* [Lire sur le blog le processus d’élaboration de cette grille](https://les-tilleuls.coop/blog/grille-salariale-a-vote)
-* [Voir les compétences associées aux titres](https://github.com/coopTilleuls/.github/blob/main/profile/titles/README.md)
+Notre grille de salaires est publique depuis janvier 2021. Chaque niveau correspond à des compétences techniques et d’encadrement et à un nombre d’années d’expérience, décrits dans [les échelons de postes](https://github.com/coopTilleuls/.github/blob/main/profile/titles/README.md) : chaque personne peut ainsi se positionner elle-même et connaître sa rémunération. [Lire sur le blog comment nous avons construit cette grille](https://les-tilleuls.coop/blog/grille-salariale-a-vote).
 
-Note : cette grille **n’inclut pas** les autres parts de la rémunération (part des bénéfices, PPV...).
+Cette grille n’inclut pas les autres parts de la rémunération (participation, PPV, bonus).
 
-| **Titre**                | **Salaire de base annuel** |
-|--------------------------|----------------------------|
-| **Junior Programmer**    | 24 504,00 €                |
-| **Programmer**           | 30 630,00 €                |
-| **Senior Programmer**    | 32 676,08 €                |
-| **Lead Programmer**      | 37 344,10 €                |
-| **Expert Programmer**    | 42 012,11 €                |
-| **Principal Programmer** | 51 348,13 €                |
+| **Titre** | **Salaire de base annuel** |
+| :--- | :--- |
+| Junior Programmer | 24 504,00 € |
+| Programmer | 30 630,00 € |
+| Senior Programmer | 32 676,08 € |
+| Lead Programmer | 37 344,10 € |
+| Expert Programmer | 42 012,11 € |
+| Principal Programmer | 51 348,13 € |
 
-Les salaires sont versés le 27 de chaque mois.
+Les salaires sont versés le 27 de chaque mois. Il est possible de demander une avance sur salaire.
 
-Contactez Eleftheria ou Olivier pour obtenir vos fiches de paies.
+## Évoluer dans la grille
 
-Note : il est possible de demander une avance sur salaire.
+À la date anniversaire de son contrat, chaque personne a un entretien individuel avec l’équipe RH et peut demander à changer de niveau. Si l’équipe RH est d’accord, la décision est partagée à toute l’équipe et devient effective si personne ne s’y oppose avant l’assemblée générale suivante. En cas d’opposition, ou si la personne et l’équipe RH ne trouvent pas d’accord, la demande est présentée et votée en assemblée générale. Un changement de niveau s’accompagne d’une hausse de salaire et d’une évolution des responsabilités.
 
-## Prime de partage de la valeur 
+## Le bonus d’ancienneté
+
+| **Ancienneté** | **Bonus** |
+| :--- | :--- |
+| 2 ans | 5 % |
+| 5 ans | 10 % |
+| 7 ans | 15 % |
+| 10 ans | 20 % |
+| 12 ans | 25 % |
+| 15 ans | 30 % |
+
+Le bonus est appliqué automatiquement dès que la date anniversaire du contrat est passée.
+
+## La prime de participation
+
+Historique des primes de participation depuis la création, pour une personne ayant travaillé à temps plein sur une année complète :
 
 | **Exercice** | **Montant** |
-|--------------|-------------|
-| 2024         | 2 000 €     |
-| 2023         | 0 €         |
-| 2022         | 3 000 €     |
-| 2021         | 1 000 €     |
+| :--- | :--- |
+| 2025 | 14 897 € |
+| 2024 | 12 166 € |
+| 2023 | 0 € |
+| 2022 | 1 590 € |
+| 2021 | 7 786 € |
+| 2020 | 5 754 € |
+| 2019 | 6 932 € |
+| 2018 | 16 218 € |
+| 2017 | 10 666 € |
+| 2016 | 9 434 € |
+| 2015 | 6 159 € |
+| 2013 | 2 398 € |
+| 2012 | 986 € |
 
-## Prime de participation
+- les faibles montants de 2022 et 2023 s’expliquent par la décision d’augmenter les salaires, par des investissements (dont la création d’une [équipe SRE](https://les-tilleuls.coop/blog/rencontre-equipe-sre)) et par [la crise qu’a connue le secteur du numérique ces années-là](https://www.lesechos.fr/tech-medias/hightech/2022-une-annee-catastrophique-pour-la-tech-1892157) ;
+- la baisse après 2018 s’explique par la fin du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative et par la mise en place de la PPV.
 
-Historique des primes de participation depuis la création, pour une personne salariée ayant travaillé à temps plein et une année complète :
+La prime peut être débloquée dès l’approbation des comptes, généralement en juin pour l’exercice précédent, clos en décembre. Elle est imposable si elle est débloquée immédiatement, et non imposable si elle reste bloquée cinq ans. Elle peut aussi être débloquée plus tôt sans imposition [dans certains cas prévus par la loi](https://www.service-public.fr/particuliers/vosdroits/F31622).
+
+## La prime de partage de la valeur
 
 | **Exercice** | **Montant** |
-|--------------|-------------|
-| 2024         | 12 166 €    |
-| 2023         | 0 €         |
-| 2022         | 1 590 €     |
-| 2021         | 7 786 €     |
-| 2020         | 5 754 €     |
-| 2019         | 6 932 €     |
-| 2018         | 16 218 €    |
-| 2017         | 10 666 €    |
-| 2016         | 9 434 €     |
-| 2015         | 6 159 €     |
-| 2013         | 2 398 €     |
-| 2012         | 986 €       |
-
-Notes :
-* les faibles montants de 2022 et 2023 s'expliquent par la décision d'augmenter les salaires, par la réalisation d'investissements (entre autres choses la création d'une [équipe SRE](https://les-tilleuls.coop/blog/rencontre-equipe-sre)) et par [la crise économique qu'a connu le secteur du numérique ces années-là](https://www.lesechos.fr/tech-medias/hightech/2022-une-annee-catastrophique-pour-la-tech-1892157)
-* la baisse post-2018 s’explique par l’expiration du statut [Jeune entreprise innovante](https://entreprendre.service-public.fr/vosdroits/F31188) de la coopérative, et par la mise en place de la PPV dès sa création.
-
-La prime de participation peut être débloquée dès l’approbation des comptes (généralement en juin pour l’année comptable précédente, qui se termine en décembre).
+| :--- | :--- |
+| 2025 | 2 000 € |
+| 2024 | 2 000 € |
+| 2023 | 0 € |
+| 2022 | 3 000 € |
+| 2021 | 1 000 € |
 
 ## Avantages en nature et primes
 
-* [Chèques Déjeuner](https://up.coop/updejeuner/utilisateurs) ; possibilité de choisir entre la carte ou les chèques papier ; valeur unitaire de 10 € avec prise en charge à hauteur de 6,00 € par la coopérative et 4,00 € par la personne salariée
-* [Chèques Cadhoc](https://boutiques.cheque-cadhoc.fr/) (171 € / an)
-* [Chèques Culture](https://up.coop/cheque-culture/utiliser-cheque-culture/) (100 € / an)
-* [Forfait mobilités durables](https://www.ecologie.gouv.fr/faq-forfait-mobilites-durables-fmd) (jusqu’à 700 € par an)
-* Prime télétravail à hauteur de 20 € / mois
-* Remboursement de 100 € / an sur une licence dans un club de sport
-* [Mutuelle Malakoff Humanis base conventionnelle + option 2](https://www.malakoffhumanis.com/entreprises/conventions-collectives-nationales/bureaux-etudes-techniques/) prise en charge à 100 % par la coopérative (73,50 € / mois)
-* [Remboursement de 50 % d’un abonnement aux transports en commun](https://www.service-public.fr/particuliers/vosdroits/F19846)
-* [Carte Liberté](https://www.sncf.com/fr/offre-voyageurs/offres-entreprises/carte-liberte-la-carte-adaptee-aux-professionnels) SNCF pour les personnes salariées en ayant besoin pour leurs déplacements professionnels (379 €)
-* Borne de recharge pour voiture électrique (gratuite) au bureau de Lille
-* Place en crèche (Lille)
-* Protections périodiques à disposition
+- **Titres restaurant** : carte [UpDéjeuner](https://up.coop/updejeuner/), titres de 12 € pris en charge à 60 % par la coopérative ;
+- **Mutuelle** [Malakoff Humanis](https://www.malakoffhumanis.com/entreprises/conventions-collectives-nationales/bureaux-etudes-techniques/) (base conventionnelle et option 2) prise en charge à 100 % par la coopérative, et contrat de prévoyance ;
+- **Transports en commun** : [50 % de l’abonnement remboursé](https://www.service-public.fr/particuliers/vosdroits/F19846) ;
+- **Forfait mobilités durables** : jusqu’à 700 € par an pour les trajets à vélo ou en mobilité douce (800 € en cumul avec l’abonnement aux transports en commun) ;
+- **Télétravail** : prime de 20,80 € par mois et budget de 500 € pour équiper son poste à domicile (chaise, bureau…) ;
+- **Missions hors de la métropole de rattachement** : prime de 45 € par jour, transport et hébergement pris en charge, et [carte Liberté SNCF](https://www.sncf.com/fr/offre-voyageurs/offres-entreprises/carte-liberte-la-carte-adaptee-aux-professionnels) pour les personnes qui se déplacent souvent ;
+- **CSE** : cagnotte de 200 € par an pour le sport, la culture et les loisirs, billetterie à prix réduits et chèque cadeau de 196 € en fin d’année ;
+- **Union sociale des Scop** : [prestations](https://www.union-sociale.coop/nos-prestations) pour la petite enfance, les vacances, la scolarité ou les activités sportives et culturelles ;
+- **SCI** : possibilité d’entrer au capital des SCI propriétaires de nos locaux de Lille et de Nantes ;
+- au bureau de Lille : borne de recharge pour voiture électrique, parking vélo sécurisé et places en crèche ;
+- protections périodiques à disposition dans les bureaux.
 
 ## Congés
 
-* 2 jours de congés payés supplémentaires : le lundi de Pentecôte et le vendredi de l’Ascension
-* [Congé menstruel](https://les-tilleuls.coop/blog/conge-menstruel)
-* 3 jours de congés payés enfants malades
-* 3 jours de congés "aléas de la vie" pour les postes de *Junior programmer* et *Programmer*
-* Congés d’ancienneté : 1 jour après 5 ans ; 2 jours après 10 ans ; 3 jours après 15 ans ; 4 jours après 20 ans
-* Prime vacances après 1 an d’ancienneté
-* Congé sans solde illimité
-* Liberté dans la pose des congés
-* Possibilité de poser des congés par anticipation (congés acquis)
-* Congé maternité : prise en charge à 100% du salaire et des avantages sociaux dès la première année de salariat (contrairement à Syntec, notre convention collective, qui prévoit ce maintien à partir d’1 an d’ancienneté)
-* Congé second parent : prise en charge à 100% du salaire et des avantages sociaux dès la première année (contrairement aux 2 ans de notre convention collective)
-* Retour d’un congé longue durée (parental, sabbatique, maladie…) : mise en place d’un on-boarding pour que la coopératrice ou le coopérateur reprenne ses marques au sein de l’entreprise
+- 25 jours ouvrés de congés payés par an, à poser librement, y compris par anticipation, et reportables sur l’année suivante ;
+- 2 jours offerts, traditionnellement le lundi de Pentecôte et le vendredi de l’Ascension (dates votées chaque année en AG) ;
+- [congé menstruel](https://les-tilleuls.coop/blog/conge-menstruel) : un jour par mois, sans justificatif ;
+- 3 jours de congés exceptionnels par an pour faire face aux imprévus ;
+- congés d’ancienneté : 1 jour après 5 ans, 2 jours après 10 ans, 3 jours après 15 ans et 4 jours après 20 ans ;
+- congé sans solde illimité (il réduit la part de participation, calculée au prorata du temps de travail) ;
+- congé maternité et congé second parent : salaire et avantages maintenus à 100 % dès la première année, alors que la convention collective Syntec exige un an d’ancienneté pour le congé maternité et deux ans pour le congé second parent ;
+- retour d’un congé long (parental, sabbatique, maladie…) : un onboarding est organisé pour reprendre ses marques ;
+- temps partiel possible, sur demande en assemblée générale.
 
-## Formation et communauté
+## Organisation du travail
 
-* Nombreuses formations en interne et [via l’OPCO Atlas](https://campus.opco-atlas.fr/branches/bureaux-etudes/1876)
-* Budget de 1 000 € / an pour participer à des conférences (défraiement et entrée)
-* Possibilité de préparer ses conférences sur son temps de travail en cas de sélection à une conférence nationale ou internationale
-* Programme d’accompagnement interne des nouvelles et nouveaux conférenciers
-* Possibilité de contribuer au logiciel libre sur son temps de travail après accord de l’Assemblée Générale
+- chaque personne organise ses horaires : la journée commence entre 8 h et 10 h, pour 35 heures par semaine du lundi au vendredi. En mission chez un client, on s’adapte à ses horaires sans dépasser les 35 heures ;
+- droit à la déconnexion en dehors des heures de travail ;
+- télétravail possible, encadré par une charte interne ;
+- compte rendu d’activité et congés saisis chaque semaine dans Salesforce.
 
-## Bonus d’ancienneté
+## Formation et conférences
 
-| **Ancienneté** | **Bonus** |
-|----------------|-----------|
-| 2 ans          | 5 %       |
-| 5 ans          | 10 %      |
-| 7 ans          | 15 %      |
-| 10 ans         | 20 %      |
-| 12 ans         | 25 %      |
-| 15 ans         | 30 %      |
-| 17 ans         | 35 %      |
-| 20 ans         | 40 %      |
+- formations techniques en interne et formations non techniques [via l’OPCO Atlas](https://campus.opco-atlas.fr/branches/bureaux-etudes/1876) (anglais, gestion de projet, premiers secours en santé mentale…) ;
+- budget de 1 000 € et 2 jours par an pour assister à des conférences ;
+- les personnes sélectionnées comme speakers ne puisent pas dans ce budget et peuvent préparer leur intervention sur leur temps de travail ;
+- programme d’accompagnement interne pour les nouvelles et nouveaux speakers ;
+- possibilité de contribuer au logiciel libre sur son temps de travail, après accord de l’assemblée générale ;
+- entretien individuel annuel.
 
-Le bonus est appliqué automatiquement dès que la date d'anniversaire du contrat est passée.
+## Responsabilité environnementale
+
+- en France, les déplacements professionnels se font exclusivement en train, en transports en commun ou en mobilité douce. Les réservations passent par Supertripper et sont validées par l’équipe RH ;
+- les bureaux de Lille et de Nantes sont alimentés en électricité renouvelable par [Enercoop](https://www.enercoop.fr/) ;
+- nos déchets sont triés et recyclés avec le réseau ELISE, qui crée des emplois pour des personnes en insertion ou en situation de handicap ;
+- les ordinateurs ne sont remplacés que lorsque c’est nécessaire, et le matériel qui ne sert plus est réutilisé en interne ou donné à des associations ;
+- les repas de nos événements publics sont végétariens et en circuit court.
+
+⬅️ [Retour à l’accueil](https://github.com/coopTilleuls/.github/blob/main/profile/README.fr.md)

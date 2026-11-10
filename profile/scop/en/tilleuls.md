@@ -1,41 +1,58 @@
-# History
+**English** · [Français](https://github.com/coopTilleuls/.github/blob/main/profile/scop/tilleuls.md)
 
-Les-Tilleuls.coop is a **Coopérative** (SARL SCOP) , owned and self-managed by its workers, co-founded by Kévin Dunglas, Joad Martin and François-Henri Vasseur in december 2011.
+# 🌳 Les-Tilleuls.coop and Tilia
 
-**Divided into 3 poles (development, expertise and training) and API, web and cloud specialists**, Les-Tilleuls.coop's employees design, audit and develop web and mobile applications as well as e-commerce platforms .
+## Who we are
 
-Creators of the **API Platform** framework, the collaborators of Les-Tilleuls.coop are authors of multiple publications, and actively contribute to free software such as PHP.net or Symfony. The languages and technologies JavaScript (React, Vue), PHP, Docker and Kubernetes also have few secrets for them.
-Les-Tilleuls.coop puts its skills at the service of SMEs as well as large accounts like **Adeo (formerly Leroy Merlin), Orange, Decathlon, Citiz, Alice's Garden, 24 Sèvres and even France Télévisions**.
+Les-Tilleuls.coop was founded in December 2011 in Lille, France, by Kévin Dunglas, Joad Martin and François-Henri Vasseur. It is a worker cooperative (a *Scop* in French law): the company is owned by its employees, who are its members and make decisions about it together. We are now 80 people, and the cooperative is B Corp certified.
 
-Les-Tilleuls.coop is also recognized as a **professional training center specializing in software development**. The training courses provided at Masterclass by Les-Tilleuls.coop are for all public and levels, and are eligible for funding by organizations (OPCA, AFPL).
+What we do: design, build and maintain APIs, web applications and cloud infrastructures. We work across the whole life of a project, from audits and architecture consulting to development, hosting and on-call support.
 
-# Social project
+Since September 2026, [Tilia](https://tilia.coop) has carried our artificial intelligence offer. Same team, same engineering standards, applied to integrating AI into existing systems: custom MCP servers, agentic workflows, RAG, fine-tuning and sovereign cloud architectures.
 
-As a cooperative company, Les-Tilleuls.coop is based on a social project built on strong values. This aims to put people back at the heart of the company around 5 main principles:
+We are also a Qualiopi-certified training organization. Our [training courses](https://les-tilleuls.coop/en/masterclass) cover every level and can be funded by French training bodies.
+
+## Our purpose
+
+The cooperative model is how we build a committed, humane, equal and transparent company, and how we work towards a responsible Web that takes social and environmental issues seriously. We put our expertise at the service of innovation, sharing and the common good, for a sustainable and fair digital future.
+
+## Who we work with
+
+Companies and organizations of all sizes trust us with their projects, for example:
+
+- in media: ARTE, France Télévisions, Mediapart, CCM Benchmark Group;
+- in retail and e-commerce: Decathlon, Vestiaire Collective, PerfectDraft (AB InBev), Cotton Bird;
+- in sport: the French Swimming Federation and the French Ski Federation;
+- in energy and telecoms: IZI by EDF, Orange.
+
+Read our case studies on [our customers page](https://les-tilleuls.coop/en/customers).
+
+## Open source at the heart of what we do
+
+We created and maintain several open source projects used around the world, including [API Platform](https://github.com/api-platform), [FrankenPHP](https://github.com/php/frankenphp), [Mercure](https://github.com/dunglas/mercure) and [Vulcain](https://github.com/dunglas/vulcain). Members of our team sit on the Symfony core team and the PHP security team, and the cooperative sponsors the PHP Foundation. We mainly contribute to the PHP, Go and JavaScript ecosystems.
+
+# 🌱 Our social project
+
+Being a worker cooperative means choosing to put people back at the heart of the company. Our social project rests on five principles.
 
 ## Self-management
 
-Les-Tilleuls.coop is a cooperative company (SARL Scop) owned at 99% and in equal parts by its employees. Its governance is democratic: everyone participates in decision-making. After a maximum of one year of service with Les-Tilleuls.coop, all employees are called upon to become partners of the cooperative and co-owners of its capital. The company we work in is really our company. Each employee finds fulfillment in their activity, innovates, carries out projects, makes their voice heard and invests fully in customer satisfaction.
+The cooperative is governed democratically: each member has one vote, however many shares they hold. Every employee is expected to become a member within one year of joining. The company we work for is genuinely ours: everyone can lead projects, make their voice heard and take part in decisions. [See how our cooperative works](https://github.com/coopTilleuls/.github/blob/main/profile/scop/en/scop.md).
 
-## Social equity
+## Fairness
 
-At Les-Tilleuls.coop, it is normal that the money earned through the efforts, thoroughness, imagination or creativity of each person is fairly distributed among the employees. Wages are decided collectively, they are fair and reward each worker at his fair value. The profits generated by the company are distributed among all employees at the end of each year.
+Salaries are decided collectively and follow a [public salary scale](https://github.com/coopTilleuls/.github/blob/main/profile/titles/en/README.md). Each year, most of the profits are shared equally among all employees, in proportion to the time they worked. All the details are on the [Revenues](https://github.com/coopTilleuls/.github/blob/main/profile/revenues/en/README.md) page.
 
 ## The social and solidarity economy
 
-As a Scop, our company is a structure of the Social and Solidarity Economy. We are members of the Union Régionale des Scop du Nord - Pas-de-Calais - Picardie, and through this of APES 59/62 (Actors for a Solidarity Economy) and CRES 59/62. We are also members of ANIS (Association Nord Internet Solidaire) and approved "Solidarity Company".
-We try to collaborate as much as possible with other social and solidarity enterprises and help to develop cooperatives (Scop and Scic).
+As a worker cooperative, we are part of the social and solidarity economy. We are members of the regional union of Scop and Scic cooperatives in Hauts-de-France and of APES Hauts-de-France, as well as, through the regional union, of CRESS Hauts-de-France. We work with other social economy organizations whenever we can, and we help new cooperatives (Scop and Scic) get started.
 
 ## Knowledge sharing
 
-We design most of our applications and websites on the basis of free software to which we contribute.
+Most of our projects are built on open source software, which we contribute to. Employees can contribute to open source and prepare their conference talks during working hours. We also share what we learn on [our blog](https://les-tilleuls.coop/en/blog), at conferences and through our training courses.
 
-## The fight against exclusion and discrimination
+## Fighting exclusion and discrimination
 
-Within our company, respect for others, tolerance and diversity are central values, promoted and defended by all our employees. We refuse to work on projects of a racist, sexist, homophobic nature or which may hinder individual and collective freedoms (registration, surveillance, etc.).
-To find out more about SCOPs, do not hesitate to consult [this article from our blog](https://les-tilleuls.coop/fr/blog/article/qu-est-ce-qu-une-scop) .
+Respect, tolerance and diversity are core values of the cooperative. We refuse to work on projects that are racist, sexist, homophobic or transphobic, or that threaten individual and collective freedoms (profiling, surveillance, military…). Our [code of conduct](https://github.com/coopTilleuls/.github/blob/main/profile/scop/en/code_of_conduct.md) sets out what we do not tolerate and who to turn to.
 
-# Les-Tilleuls.coop on the web
-
-In order to stay informed of our latest news, we invite you to subscribe to the cooperative's Twitter, Linkedin, Mastodon, Facebook, and Instagram accounts. You can also check out our blog.
-If you have any questions about these media, we invite you to contact Cécile at cecile@les-tilleuls.coop.
+⬅️ [Back to the cooperative](https://github.com/coopTilleuls/.github/blob/main/profile/scop/en/README.md)

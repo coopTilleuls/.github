@@ -1,50 +1,58 @@
-# 👋️ Welcome to Les-Tilleuls.coop's GitHub page!
+<p align="center">
+  <a href="https://les-tilleuls.coop"><img src="https://raw.githubusercontent.com/coopTilleuls/.github/main/profile/public/img/tree.svg" height="140" alt="Les-Tilleuls.coop"></a>
+</p>
 
-<a href="https://les-tilleuls.coop"><img align="right" src="https://raw.githubusercontent.com/coopTilleuls/.github/main/profile/public/img/tree.svg" height="250" alt="Les-Tilleuls.coop"></a>
+**English** · [Français](https://github.com/coopTilleuls/.github/blob/main/profile/README.fr.md)
 
-Les-Tilleuls.coop is a tech [worker cooperative](https://en.wikipedia.org/wiki/Worker_cooperative) specialized in e-commerce, trainings and free software. We bring your projects to life by combining creativity, durability, and cutting-edge development.
+# 👋 Welcome to Les-Tilleuls.coop on GitHub
 
-If you're interested in the free software our team created, check out their dedicated GitHub pages:
+Les-Tilleuls.coop is a tech [worker cooperative](https://en.wikipedia.org/wiki/Worker_cooperative) founded in 2011 in Lille, France. We are 80 people, we own 99.9% of the company, and we are B Corp certified.
 
-* [🐲 FrankenPHP](https://github.com/php/frankenphp): modern PHP app server written in Go
-* [🕷 API Platform](https://github.com/api-platform): create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time, written in PHP and TypeScript
-* [🎼 Symfony](https://github.com/symfony): a set of reusable PHP components and a framework for web projects
-* [💌 Mercure](https://github.com/dunglas/mercure): real-time made easy, open protocol and reference implementation written in Go
-* [🔨 Vulcain](https://github.com/dunglas/vulcain): fast and idiomatic client-driven REST APIs, open protocol and reference implementation written in Go
-* [⚡️ React ESI](https://github.com/dunglas/react-esi): blazing-fast Server-Side Rendering for React and Next.js, written in TypeScript
-* [📄 Doctrine JSON ODM](https://github.com/dunglas/doctrine-json-odm): an Object-Document Mapper (ODM) for Doctrine ORM leveraging new JSON types of modern RDBMS
-* [🏄 ESQL](https://github.com/soyuka/esql): PHP Extended SQL
-* [📦 Our other projects](https://github.com/orgs/coopTilleuls/repositories)
+We design, build and host APIs, web applications and cloud infrastructures, and we train teams to do the same. Much of this work happens in the open: we created open source tools used by thousands of teams around the world, and we contribute to PHP, Symfony, Caddy and Go every day.
 
-# More information about our company:
+## 🌱 Tilia, our AI branch
 
-- [🤝️ How we work as a worker cooperative](https://github.com/coopTilleuls/.github/tree/main/profile/scop/en/README.md)
-- [💰 Revenues (🇫🇷)](https://github.com/coopTilleuls/.github/tree/main/profile/revenues/README.md)
-- [🧙️ Titles for programmers](https://github.com/coopTilleuls/.github/tree/main/profile/titles/en/README.md)
-- [🚞️ Onboarding guide for newcomers](https://github.com/coopTilleuls/.github/tree/main/profile/onboarding/en/README.md)
-<!-- - [📰️ Press kit](https://github.com/coopTilleuls/.github/tree/main/profile/press-kit/README.md)
-- [🎨️ Our styleguide](https://github.com/coopTilleuls/.github/tree/main/profile/styleguide/README.md) -->
+In September 2026, we launched [Tilia](https://tilia.coop) to help organizations connect AI to the systems they already run. Same team, same engineering standards:
 
-# Get in touch! 
+- 🔌 **Custom MCP servers** that plug your data and applications into AI assistants
+- 🤖 **Agentic workflows** that take over repetitive tasks
+- 📚 **RAG, fine-tuning and custom-trained models**
+- ☁️ **Sovereign cloud architectures**, deployed and operated 24/7
+- 🎓 [**Training**](https://tilia.coop/training/) for every level, from our Qualiopi-certified training organization
+- And much more
 
-- 💻 https://les-tilleuls.coop/
-- ✉️ contact@les-tilleuls.coop
-- 🐘 [Mastodon](https://mastodon.online/@cooptilleuls)
-- 🦋 [Bluesky](https://bsky.app/profile/les-tilleuls.coop)
-- 💼 [LinkedIn](https://www.linkedin.com/company/les-tilleuls-coop/)
-- 𝕏 [X](https://x.com/coopTilleuls)
+Our principle: the AI agent assists you, you stay in control.
 
----
+## 🛠 Open source we created
 
-<details>
-    <summary>💡️ Inspiration</summary>
-    This documentation is inspired by:
-    <ul>
-    <li><a href="https://github.com/basecamp/handbook">Basecamp</a></li>
-    <li><a href="https://github.com/24eme">24eme</a></li>
-    <li><a href="https://www.loomio.coop/">Loomio</a></li>
-    <li><a href="https://about.gitlab.com/handbook/">GitLab</a></li>
-    </ul>
-</details>
+| **Project** | **Description** |
+| :--- | :--- |
+| [🐲 FrankenPHP](https://github.com/php/frankenphp) | Modern PHP app server, written in Go |
+| [🕷 API Platform](https://github.com/api-platform) | REST and GraphQL APIs, real-time and API-first web apps, in PHP and TypeScript |
+| [💌 Mercure](https://github.com/dunglas/mercure) | Open protocol for real-time updates, with a reference implementation in Go |
+| [🔨 Vulcain](https://github.com/dunglas/vulcain) | Fast, client-driven REST APIs, open protocol and Go implementation |
+| [⚡️ React ESI](https://github.com/dunglas/react-esi) | Fast server-side rendering for React and Next.js |
+| [📄 Doctrine JSON ODM](https://github.com/dunglas/doctrine-json-odm) | Object-Document Mapper for Doctrine ORM, built on the JSON types of modern databases |
+| [🏄 ESQL](https://github.com/soyuka/esql) | PHP Extended SQL, an alternative to DQL |
 
-[French version](https://github.com/coopTilleuls/.github/tree/main/profile/README.fr.md)
+**We also contribute to** [Symfony](https://github.com/symfony) (core team), [PHP](https://github.com/php/php-src) (members of the core security team and sponsors of the [PHP Foundation](https://thephp.foundation/)), [Caddy](https://github.com/caddyserver/caddy), [Go](https://github.com/golang/go)…
+
+➡️ [All our repositories](https://github.com/orgs/coopTilleuls/repositories)
+
+## 🤝 Inside the cooperative
+
+This repository is also our public handbook:
+
+- [🌳 How we work as a worker cooperative](https://github.com/coopTilleuls/.github/blob/main/profile/scop/en/README.md)
+- [💰 Revenues](https://github.com/coopTilleuls/.github/blob/main/profile/revenues/en/README.md)
+- [🧙 Job titles and salary scale](https://github.com/coopTilleuls/.github/blob/main/profile/titles/en/README.md)
+- [🚞 Onboarding guide for newcomers](https://github.com/coopTilleuls/.github/blob/main/profile/onboarding/en/README.md)
+- [🙋 Recruitment (🇫🇷)](https://les-tilleuls.coop/la-cooperative/on-recrute) · [salary simulator (🇫🇷)](https://les-tilleuls.coop/la-cooperative/on-recrute/simulateur-revenus)
+
+## ✉️ Get in touch
+
+- 🌳 Les-Tilleuls.coop: [les-tilleuls.coop](https://les-tilleuls.coop/en/homepage) · [contact@les-tilleuls.coop](mailto:contact@les-tilleuls.coop)
+- 🌱 Tilia: [tilia.coop](https://tilia.coop) · [contact form](https://tilia.coop/contact/)
+- [Mastodon](https://mastodon.online/@cooptilleuls) · [Bluesky](https://bsky.app/profile/les-tilleuls.coop) · [LinkedIn](https://www.linkedin.com/company/les-tilleuls-coop/) · [X](https://x.com/coopTilleuls)
+
+💡 Inspiration: this handbook draws on the work of [Basecamp](https://github.com/basecamp/handbook), [24eme](https://github.com/24eme), [Loomio](https://www.loomio.coop/) and [GitLab](https://handbook.gitlab.com/).
