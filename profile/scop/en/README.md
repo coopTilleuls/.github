@@ -1,11 +1,14 @@
-# Les-Tilleuls.coop
+**English** · [Français](https://github.com/coopTilleuls/.github/blob/main/profile/scop/README.md)
 
-In this section, you will find in-depth documentation about our company, its history and way of working, our team, and other practical day-to-day informations.
+# 🌳 Our company
 
-- [🌳️ Les-Tilleuls.coop : our history and how we work](tilleuls.md)
-<!-- - [🏭️ The worker cooperatives in general](scop.md) -->
-- [👫️ The team](../team.md)
-<!-- - [🤝️ Code of conduct](code_of_conduct.md)
-- [📧️ Contacts](contact.md)
-- [🗂️ Tools](tools.md)
-- [📑️ Practical](practical.md) -->
+Who we are, how a worker cooperative works, and how we make decisions together.
+
+- [🌳 Les-Tilleuls.coop and Tilia: who we are and our social project](https://github.com/coopTilleuls/.github/blob/main/profile/scop/en/tilleuls.md)
+- [🏛 How our cooperative works and is governed](https://github.com/coopTilleuls/.github/blob/main/profile/scop/en/scop.md)
+- [🤝 Code of conduct](https://github.com/coopTilleuls/.github/blob/main/profile/scop/en/code_of_conduct.md)
+- [👫 The team](https://les-tilleuls.coop/la-cooperative/equipe)
+
+➡️ For pay and benefits, see the [💰 Revenues](https://github.com/coopTilleuls/.github/blob/main/profile/revenues/en/README.md) page.
+
+⬅️ [Back to home](https://github.com/coopTilleuls/.github/blob/main/profile/README.md)

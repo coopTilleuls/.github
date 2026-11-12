@@ -1,22 +1,47 @@
-# Premiers pas
+[English](https://github.com/coopTilleuls/.github/blob/main/profile/onboarding/en/todo.md) · **Français**
 
-Avant d’arriver chez nous, Eleftheria, notre chargée de recrutement, prendra le soin de vous contacter pour connaître différents détails sur vos besoins en matériel. En addition à cela, voici comment se passera votre première journée parmi nous :
+# 👣 Premiers pas
 
-- [ ] Vous allez récupérer votre ordinateur (nous vous laissons le choix entre un MacBook Pro ou un Dell sous Linux)
-- [ ] Vous récupérez votre kit de bienvenue (comprenant un polo, un sweat zippé, une thermos, une tasse à café, des stylos et d’autres goodies)
+## Avant votre arrivée
 
-Vous allez récupérer vos accès à vos différents comptes :
-- [ ] Google Workspace pour les e-mails, le chat interne, les agendas et le drive (pensez à la double authenfication lors de la configuration de ce compte !)
-- [ ] Nous allons ajouter votre compte GitHub à notre organisation (idem, pensez double authentification !)
-- [ ] Vous allez recevoir une invitation pour accéder à Loomio (notre interface permettant de voter à distance différentes décisions (budgets, recrutements, participations à des initiatives diverses...)
-- [ ] Vous recevrez une invitation à SalesForce (notre ERP qui permet notamment de comptabiliser vos temps et vos prises de congés)
-- [ ] Plusieurs documents seront à signer (votre contrat, vos documents pour la mutuelle, notre attestation RGPD...), vous récupérez également vos premiers tickets resto
-- [ ] Si vous êtes ok, nous ajoutons également votre photo sur la page équipe de notre site web
-- [ ] Côté technique, il faut désormais [configurer votre ordinateur](installation.md)
-- [ ] Enfin, il ne manque plus qu’à vous souhaiter la bienvenue sur notre chat !
+L’équipe RH prend contact avec vous pour connaître :
 
-Une fois ces formalités faites, Eleftheria planifie en votre compagnie plusieurs rendez-vous afin que vous rencontriez nos différents pôles. Ces points vous permettront de découvrir avec profondeur les sujets sur lesquels nous travaillons au quotidien.
+- votre préférence pour l’ordinateur professionnel (Linux ou macOS) ;
+- vos autres besoins en matériel pour travailler, au bureau comme en télétravail ;
+- les informations nécessaires à votre affiliation à la mutuelle.
 
-Si vous avez la moindre question (technique ou organisationnelle), n’hésitez surtout pas, nous sommes là pour vous aider.
+## Le jour de votre arrivée
 
-Bienvenue parmi nous !
+- vous récupérez votre ordinateur et votre kit de bienvenue ;
+- votre compte Google Workspace est créé et ajouté aux groupes et aux canaux de discussion (pensez à activer la double authentification) ;
+- un message de bienvenue est publié sur le chat de l’équipe : n’hésitez pas à vous présenter ;
+- vous recevez une invitation à Loomio, notre outil de vote en ligne, et un accès à Salesforce, où vous saisirez vos temps et vos congés ;
+- vous signez votre contrat et les documents qui l’accompagnent (mutuelle, annexe RGPD…) ;
+- si vous le souhaitez, envoyez-nous une photo pour la [page équipe](https://les-tilleuls.coop/la-cooperative/equipe) de notre site.
+
+## Vos premiers rendez-vous
+
+Dans les premiers jours, plusieurs coopératrices et coopérateurs vous accueillent, de préférence en présentiel, pour vous présenter :
+
+- la vie coopérative : droits et devoirs des salarié·es et des associé·es, référente harcèlement, CSE, congés… ;
+- l’organisation de la Scop, de ses pôles d’expertise et de ses outils de gestion de projet ;
+- la communication et les événements ;
+- les différentes parts de vos revenus ;
+- le pôle commercial.
+
+## À nous transmettre rapidement
+
+- votre identifiant GitHub, pour rejoindre l’organisation (avec la double authentification activée) ;
+- vos besoins en licences logicielles (nous recommandons PhpStorm pour le développement PHP, NeoVim et VS Code sont aussi utilisés) ;
+- le numéro de série de l’ordinateur que vous avez reçu ;
+- l’annexe RGPD signée.
+
+## Les premières semaines
+
+- une visite médicale d’embauche est organisée avec la médecine du travail ;
+- vous êtes inscrit·e à la mutuelle, à l’[Union sociale des Scop](https://www.union-sociale.coop) et à la billetterie du CSE ;
+- après un mois, vous faites le point avec les responsables sur vos débuts et votre intégration.
+
+Une question, technique ou organisationnelle ? N’hésitez surtout pas, nous sommes là pour vous aider. Bienvenue parmi nous !
+
+⬅️ [Retour à l’onboarding](https://github.com/coopTilleuls/.github/blob/main/profile/onboarding/README.md)

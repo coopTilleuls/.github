@@ -1,14 +1,14 @@
-# Bienvenue chez Les-Tilleuls.coop !
+[English](https://github.com/coopTilleuls/.github/blob/main/profile/onboarding/en/README.md) · **Français**
 
-![Welcome](img/welcome.gif)
+# 🚞 Bienvenue chez Les-Tilleuls.coop !
 
-Ces informations ont été conçues spécialement pour vous accompagner dans vos premiers pas dans la coopérative. Afin que votre intégration se déroule dans les meilleures conditions, nous avons rassemblé les informations essentielles sur votre nouvel environnement professionnel.
+![Bienvenue](https://raw.githubusercontent.com/coopTilleuls/.github/main/profile/onboarding/img/welcome.gif)
 
-Ces documents décrivent votre première journée chez Les-Tilleuls.coop et les installations de base à effectuer sur votre nouvelle machine.
+Cette section vous accompagne dans vos premiers pas dans la coopérative : ce qui se passe avant et pendant votre arrivée, puis les outils que nous utilisons au quotidien.
 
-**_Bienvenue et bonne lecture !_**
+- [👣 Premiers pas](https://github.com/coopTilleuls/.github/blob/main/profile/onboarding/todo.md)
+- [🗂 Nos outils](https://github.com/coopTilleuls/.github/blob/main/profile/onboarding/tools.md)
 
----
+Bienvenue et bonne lecture !
 
-- [👣️ Premières étapes et installations d’applications internes](todo.md)
-- [💻️ Configurations techniques](installation.md)
+⬅️ [Retour à l’accueil](https://github.com/coopTilleuls/.github/blob/main/profile/README.fr.md)

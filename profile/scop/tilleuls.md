@@ -1,40 +1,60 @@
-# Présentation et historique
+[English](https://github.com/coopTilleuls/.github/blob/main/profile/scop/en/tilleuls.md) · **Français**
 
-Créée en décembre 2011 à Lille, Les-Tilleuls.coop est une ESN (Entreprise de Services du Numérique) sous forme de Scop (Société Coopérative et Participative) spécialiste du web, du logiciel libre et de l’e-commerce. Notre société est détenue à 100 % par tous ses salariés. Sa gouvernance est démocratique et transparente : chaque personne coopératrice prend part démocratiquement à toutes les décisions de l’entreprise et les bénéfices sont répartis à parts égales entre tous les salariés. 
+# 🌳 Les-Tilleuls.coop et Tilia
 
-Répartis en 3 pôles (développement, expertise et formation), nous mettons nos compétences au service d’entreprises internationales de toutes tailles, de la start-up (Vestiaire Collective, IZI by EDF), aux grands comptes (Orange, General Electric, Adeo, la BNP, Renault, Decathlon) en passant par les services publics (France Télévisions, Arte) et les coopératives (Citiz, Olvo). Nous concevons et réalisons pour eux tous types d’applications métiers et d’applications web innovantes parmi lesquelles des plateformes e-commerce, des portails d’information ou des réseaux sociaux fédérés.
+## Qui sommes-nous ?
 
-Notre Scop compte parmi ses effectifs bon nombre de créateurs et de mainteneurs de logiciels libres populaires (API Platform, Symfony, PM2, Mercure, Vulcain, React ESI…). Nous contribuons principalement aux écosystèmes Go, PHP, JavaScript et Docker/Kubernetes.
+Les-Tilleuls.coop a été fondée en décembre 2011 à Lille par Kévin Dunglas, Joad Martin et François-Henri Vasseur. C’est une Société coopérative et participative (Scop) : l’entreprise est détenue entièrement par ses salarié·es, qui en sont les associé·es et prennent ensemble les décisions qui la concernent. Nous sommes aujourd’hui 80 et la coopérative est certifiée [B Corp](https://www.bcorporation.net/en-us/find-a-b-corp/company/les-tilleuls-coop).
 
-Les-Tilleuls.coop est également une société reconnue comme un centre de formation professionnelle spécialiste du développement logiciel. Les formations dispensées sont de tous niveaux et sont éligibles à des financements par des organismes.
+Notre métier : concevoir, développer et maintenir des API, des applications web et des infrastructures cloud. Nous intervenons sur toute la durée de vie d’un projet, de l’audit et du conseil en architecture jusqu’à l’hébergement et l’astreinte, en passant par le développement.
 
-# Le projet social
+Depuis septembre 2026, [Tilia](https://tilia.coop/fr/) porte notre offre en intelligence artificielle. C’est la même équipe et la même exigence d’ingénierie, appliquées à l’intégration de l’IA dans les systèmes existants : serveurs MCP sur mesure, workflows agentiques, RAG, fine-tuning et architectures cloud souveraines.
 
-En tant que Société coopérative et participative, Les-Tilleuls.coop est basée sur un projet social construit sur des valeurs fortes. Celui-ci vise à remettre l’humain au coeur de l’entreprise autour de 5 grands principes :
+Nous sommes aussi un organisme de formation certifié Qualiopi. Nos [formations](https://les-tilleuls.coop/masterclass) s’adressent à tous les niveaux et peuvent être prises en charge par les organismes de financement.
+
+## Notre raison d’être
+
+Le modèle coopératif est notre levier pour développer une entreprise engagée, humaine, égalitaire et transparente, et pour construire un Web responsable, conscient des enjeux sociaux et environnementaux. Nous mettons notre expertise au service de l’innovation, du partage et du bien commun, pour un avenir numérique durable et solidaire.
+
+## Avec qui travaillons-nous ?
+
+Des entreprises et des organisations de toutes tailles nous confient leurs projets, par exemple :
+
+- dans les médias : ARTE, France Télévisions, Mediapart, CCM Benchmark Group ;
+- dans le commerce et l’e-commerce : Decathlon, Vestiaire Collective, PerfectDraft (AB InBev), Cotton Bird ;
+- dans le sport : la Fédération Française de Natation et la Fédération Française de Ski ;
+- dans l’énergie et les télécoms : IZI by EDF, Orange.
+
+Retrouvez nos études de cas sur [la page clients](https://les-tilleuls.coop/nos-clients) de notre site.
+
+## Le logiciel libre, au cœur de notre activité
+
+Nous avons créé et maintenons plusieurs logiciels libres utilisés dans le monde entier, dont [API Platform](https://github.com/api-platform), [FrankenPHP](https://github.com/php/frankenphp), [Mercure](https://github.com/dunglas/mercure) et [Vulcain](https://github.com/dunglas/vulcain). Des membres de l’équipe font partie de la core team de Symfony et de l’équipe sécurité de PHP, et la coopérative est sponsor de la PHP Foundation. Nous contribuons principalement aux écosystèmes PHP, Go et JavaScript.
+
+# 🌱 Le projet social
+
+Être une Scop, c’est faire le choix de remettre les personnes au cœur de l’entreprise. Notre projet social repose sur cinq principes.
 
 ## L’autogestion
 
-Les-Tilleuls.coop est une Société Coopérative et Participative (SARL Scop) détenue à 99% et à parts égales par ses salariés. Sa gouvernance est démocratique : chacun participe aux prises de décisions. Au bout d’un an d’ancienneté maximum chez Les-Tilleuls.coop, tous les employés sont amenés à devenir associés de la coopérative et copropriétaires de son capital. La société dans laquelle nous travaillons, c’est vraiment notre société. Chaque salarié s’y trouve épanoui dans son activité, innove, porte des projets, fait entendre sa voix et s’investit totalement pour satisfaire les clients.
+La gouvernance de la coopérative est démocratique : chaque associé·e dispose d’une voix, quel que soit le nombre de parts qu’il ou elle détient. Toutes les personnes salariées ont vocation à devenir associées au plus tard un an après leur arrivée. L’entreprise dans laquelle nous travaillons est réellement la nôtre : chacun·e peut porter des projets, faire entendre sa voix et participer aux décisions. [Voir comment fonctionne notre Scop](https://github.com/coopTilleuls/.github/blob/main/profile/scop/scop.md).
 
 ## L’équité sociale
 
-Chez Les-Tilleuls.coop, il est normal que l’argent gagné grâce aux efforts, la rigueur, l’imagination ou la créativité de chacun soit équitablement réparti entre les employés. Les salaires sont décidés collectivement, ils sont équitables et rétribuent chaque travailleur à sa juste valeur. Les bénéfices générés par la société sont répartis entre tous les salariés au terme de chaque année.
+La richesse produite par notre travail revient à celles et ceux qui la produisent. Les salaires sont décidés collectivement et reposent sur une [grille publique](https://github.com/coopTilleuls/.github/blob/main/profile/titles/README.md). Chaque année, 84 % des bénéfices sont répartis à parts égales entre toutes les personnes salariées, au prorata du temps de travail, et le reste est mis en réserve pour la pérennité de la coopérative : aucun dividende n’est versé. Tous les détails sont sur la page [Revenus](https://github.com/coopTilleuls/.github/blob/main/profile/revenues/README.md).
 
 ## L’économie sociale et solidaire
 
-En tant que Scop, notre société est une structure de l’Économie Sociale et Solidaire. Nous sommes membres de l’Union Régionale des Scop du Nord – Pas-de-Calais – Picardie, et par ce biais de l’APES 59/62 (Acteurs Pour une Économie Solidaire) et du CRES 59/62. Nous sommes également adhérents de ANIS (Association Nord Internet Solidaire) et agréés « Entreprise Solidaire ».
-Nous nous efforçons de collaborer autant que faire se peut avec d’autres entreprises sociales et solidaires et aidons à développer les coopératives (Scop et Scic).
+En tant que Scop, nous faisons partie de l’économie sociale et solidaire. Nous sommes membres de l’Union régionale des Scop et Scic des Hauts-de-France et de l’APES Hauts-de-France, ainsi que, par l’intermédiaire de l’Union régionale, de la CRESS Hauts-de-France. Nous travaillons autant que possible avec d’autres structures de l’ESS et nous aidons au développement des coopératives (Scop et Scic).
 
 ## Le partage des connaissances
 
-Nous concevons la plupart de nos applications et sites internet sur la base de logiciels libres auxquels nous contribuons.
+Nos projets reposent en grande partie sur des logiciels libres, auxquels nous contribuons. Les personnes salariées peuvent contribuer au logiciel libre et préparer leurs conférences sur leur temps de travail. Nous partageons aussi ce que nous apprenons sur [notre blog](https://les-tilleuls.coop/blog), en conférence et à travers nos formations.
 
-## La lutte contre les exclusions et discriminations
+## La lutte contre les exclusions et les discriminations
 
-Au sein de notre société, le respect de l’autre, la tolérance et la diversité sont des valeurs centrales, promues et défendues par tous nos collaborateurs. Nous refusons de travailler sur des projets à caractère raciste, sexiste, homophobe ou qui peuvent entraver les libertés individuelles et collectives (fichage, surveillance…).
-Pour en savoir plus sur les SCOP, n’hésitez pas à consulter [cet article de notre blog](https://les-tilleuls.coop/fr/blog/qu-est-ce-qu-une-scop).
+Le respect de l’autre, la tolérance et la diversité sont des valeurs centrales de la coopérative. Nous refusons de travailler sur des projets à caractère raciste, sexiste, homophobe ou transphobe, ou qui portent atteinte aux libertés individuelles et collectives (fichage, surveillance, militaire…). Notre [code de conduite](https://github.com/coopTilleuls/.github/blob/main/profile/scop/code_of_conduct.md) précise ce que nous ne tolérons pas et vers qui se tourner.
 
-# Les-Tilleuls.coop sur le web
+Pour en savoir plus sur les Scop, lisez [cet article de notre blog](https://les-tilleuls.coop/fr/blog/qu-est-ce-qu-une-scop).
 
-Afin de rester au fait de nos dernières actualités, nous vous invitons à vous abonner aux comptes Twitter, Linkedin, Mastodon, Facebook, et Instagram de la coopérative. Vous pouvez également consulter notre blog.
-Si vous avez la moindre question au sujet de ces médias, nous vous invitons à contacter Cécile à cecile@les-tilleuls.coop.
+⬅️ [Retour à la coopérative](https://github.com/coopTilleuls/.github/blob/main/profile/scop/README.md)
