@@ -6,7 +6,7 @@
 
 # 👋 Bienvenue sur le GitHub de Les-Tilleuls.coop
 
-Les-Tilleuls.coop est une [Société coopérative et participative](https://www.les-scop.coop/) (Scop) du numérique, fondée en 2011 à Lille. Nous sommes 80, nous détenons intégralement notre entreprise et nous sommes certifié·es B Corp.
+Les-Tilleuls.coop est une [Société coopérative et participative](https://www.les-scop.coop/) (Scop) du numérique, fondée en 2011 à Lille. Nous sommes 80, nous détenons intégralement notre entreprise et nous sommes certifié·es [B Corp](https://www.bcorporation.net/en-us/find-a-b-corp/company/les-tilleuls-coop).
 
 Nous concevons, développons et hébergeons des API, des applications web et des infrastructures cloud, et nous formons les équipes à le faire. Une bonne partie de ce travail se fait en public : nous avons créé des logiciels libres utilisés par des milliers d’équipes dans le monde, et nous contribuons quotidiennement à PHP, Symfony, Caddy et Go.
 

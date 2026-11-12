@@ -11,10 +11,13 @@ Nous travaillons avec Google Workspace, qui facilite le travail collaboratif et 
 - **Meet** pour la visio ;
 - **Agenda**, qui recense les événements de la coopérative ;
 - **Drive** pour stocker et partager les documents de l’équipe (assemblées générales, ateliers internes, modèles de documents…) ;
-- **Docs, Sheets et Slides** pour les documents, les tableurs et les présentations ;
-- **Gemini**, l’assistant d’intelligence artificielle de Google.
+- **Docs, Sheets et Slides** pour les documents, les tableurs et les présentations.
 
 **La double authentification est obligatoire sur votre compte Google.**
+
+## Assistants IA
+
+Notre charte IA encadre l’usage de l’intelligence artificielle dans la coopérative. Quatre outils sont autorisés, uniquement dans leurs versions professionnelles : Claude, ChatGPT, Gemini et GitHub Copilot. Vous y accédez par SSO, après avoir reçu une invitation.
 
 ## GitHub
 

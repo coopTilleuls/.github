@@ -6,9 +6,9 @@
 
 # 👋 Welcome to Les-Tilleuls.coop on GitHub
 
-Les-Tilleuls.coop is a tech [worker cooperative](https://en.wikipedia.org/wiki/Worker_cooperative) founded in 2011 in Lille, France. We are 80 people, we own 99.9% of the company, and we are B Corp certified.
+Les-Tilleuls.coop is a tech [worker cooperative](https://en.wikipedia.org/wiki/Worker_cooperative) founded in 2011 in Lille, France. We are 80 people, we own 99.9% of the company, and we are [B Corp](https://www.bcorporation.net/en-us/find-a-b-corp/company/les-tilleuls-coop) certified.
 
-We design, build and host APIs, web applications and cloud infrastructures, and we train teams to do the same. Much of this work happens in the open: we created open source tools used by thousands of teams around the world, and we contribute to PHP, Symfony, Caddy and Go every day.
+We design, build and host APIs, web applications and cloud infrastructures, and we train teams to do the same. Much of this work happens in the open: we created free software used by thousands of teams around the world, and we contribute to PHP, Symfony, Caddy and Go every day.
 
 ## 🌱 Tilia, our AI branch
 
@@ -23,7 +23,7 @@ In September 2026, we launched [Tilia](https://tilia.coop) to help organizations
 
 Our principle: the AI agent assists you, you stay in control.
 
-## 🛠 Open source we created
+## 🛠 Free software we created
 
 | **Project** | **Description** |
 | :--- | :--- |

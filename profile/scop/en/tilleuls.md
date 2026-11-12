@@ -4,7 +4,7 @@
 
 ## Who we are
 
-Les-Tilleuls.coop was founded in December 2011 in Lille, France, by Kévin Dunglas, Joad Martin and François-Henri Vasseur. It is a worker cooperative (a *Scop* in French law): the company is owned by its employees, who are its members and make decisions about it together. We are now 80 people, and the cooperative is B Corp certified.
+Les-Tilleuls.coop was founded in December 2011 in Lille, France, by Kévin Dunglas, Joad Martin and François-Henri Vasseur. It is a worker cooperative (a *Scop* in French law): the company is owned by its employees, who are its members and make decisions about it together. We are now 80 people, and the cooperative is [B Corp](https://www.bcorporation.net/en-us/find-a-b-corp/company/les-tilleuls-coop) certified.
 
 What we do: design, build and maintain APIs, web applications and cloud infrastructures. We work across the whole life of a project, from audits and architecture consulting to development, hosting and on-call support.
 
@@ -27,9 +27,9 @@ Companies and organizations of all sizes trust us with their projects, for examp
 
 Read our case studies on [our customers page](https://les-tilleuls.coop/en/customers).
 
-## Open source at the heart of what we do
+## Free software at the heart of what we do
 
-We created and maintain several open source projects used around the world, including [API Platform](https://github.com/api-platform), [FrankenPHP](https://github.com/php/frankenphp), [Mercure](https://github.com/dunglas/mercure) and [Vulcain](https://github.com/dunglas/vulcain). Members of our team sit on the Symfony core team and the PHP security team, and the cooperative sponsors the PHP Foundation. We mainly contribute to the PHP, Go and JavaScript ecosystems.
+We created and maintain several free software projects used around the world, including [API Platform](https://github.com/api-platform), [FrankenPHP](https://github.com/php/frankenphp), [Mercure](https://github.com/dunglas/mercure) and [Vulcain](https://github.com/dunglas/vulcain). Members of our team sit on the Symfony core team and the PHP security team, and the cooperative sponsors the PHP Foundation. We mainly contribute to the PHP, Go and JavaScript ecosystems.
 
 # 🌱 Our social project
 
@@ -39,9 +39,9 @@ Being a worker cooperative means choosing to put people back at the heart of the
 
 The cooperative is governed democratically: each member has one vote, however many shares they hold. Every employee is expected to become a member within one year of joining. The company we work for is genuinely ours: everyone can lead projects, make their voice heard and take part in decisions. [See how our cooperative works](https://github.com/coopTilleuls/.github/blob/main/profile/scop/en/scop.md).
 
-## Fairness
+## Social equity
 
-Salaries are decided collectively and follow a [public salary scale](https://github.com/coopTilleuls/.github/blob/main/profile/titles/en/README.md). Each year, most of the profits are shared equally among all employees, in proportion to the time they worked. All the details are on the [Revenues](https://github.com/coopTilleuls/.github/blob/main/profile/revenues/en/README.md) page.
+The wealth our work creates goes to the people who create it. Salaries are decided collectively and follow a [public salary scale](https://github.com/coopTilleuls/.github/blob/main/profile/titles/en/README.md). Each year, 84% of the profits are shared equally among all employees, in proportion to the time they worked, and the rest goes into reserves to keep the cooperative sustainable: no dividends are paid out. All the details are on the [Revenues](https://github.com/coopTilleuls/.github/blob/main/profile/revenues/en/README.md) page.
 
 ## The social and solidarity economy
 
@@ -49,7 +49,7 @@ As a worker cooperative, we are part of the social and solidarity economy. We ar
 
 ## Knowledge sharing
 
-Most of our projects are built on open source software, which we contribute to. Employees can contribute to open source and prepare their conference talks during working hours. We also share what we learn on [our blog](https://les-tilleuls.coop/en/blog), at conferences and through our training courses.
+Most of our projects are built on free software, which we contribute to. Employees can contribute to free software and prepare their conference talks during working hours. We also share what we learn on [our blog](https://les-tilleuls.coop/en/blog), at conferences and through our training courses.
 
 ## Fighting exclusion and discrimination
 

@@ -11,10 +11,13 @@ We work with Google Workspace, which makes collaborative and remote work easier:
 - **Meet** for video calls;
 - **Calendar**, which lists the cooperative’s events;
 - **Drive** to store and share the team’s documents (general meetings, internal workshops, document templates…);
-- **Docs, Sheets and Slides** for documents, spreadsheets and presentations;
-- **Gemini**, Google’s AI assistant.
+- **Docs, Sheets and Slides** for documents, spreadsheets and presentations.
 
 **Two-factor authentication is mandatory on your Google account.**
+
+## AI assistants
+
+Our AI charter sets out how artificial intelligence is used in the cooperative. Four tools are allowed, only in their professional editions: Claude, ChatGPT, Gemini and GitHub Copilot. You sign in to them with SSO once you have received an invitation.
 
 ## GitHub
 

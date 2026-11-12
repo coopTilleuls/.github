@@ -34,7 +34,9 @@ Les salaires sont versés le 27 de chaque mois. Il est possible de demander une 
 
 ## Évoluer dans la grille
 
-À la date anniversaire de son contrat, chaque personne a un entretien individuel avec l’équipe RH et peut demander à changer de niveau. Si l’équipe RH est d’accord, la décision est partagée à toute l’équipe et devient effective si personne ne s’y oppose avant l’assemblée générale suivante. En cas d’opposition, ou si la personne et l’équipe RH ne trouvent pas d’accord, la demande est présentée et votée en assemblée générale. Un changement de niveau s’accompagne d’une hausse de salaire et d’une évolution des responsabilités.
+Chaque année, toutes les personnes salariées remplissent un questionnaire. Un entretien individuel avec l’équipe RH est possible à la demande de la personne, ou à l’initiative du comité de positionnement à la lecture des réponses.
+
+Pour changer de niveau, la personne présente une demande argumentée, avec des retours de collègues et, quand c’est possible, de clients, recueillis selon les critères du niveau visé. Les demandes sont étudiées par lots par le comité de positionnement. Il compte neuf membres : une personne pour le CSE, une pour l’équipe RH, une pour la cogérance, cinq membres élu·es, et une place attribuée pour chaque demande à une personne choisie par la personne demandeuse (ou, à défaut, par le comité). Les cinq membres sont élu·es parmi les volontaires ayant au moins un an d’ancienneté, pour un mandat révocable de trois ans, avec un objectif de parité. La personne peut faire appel de la décision en assemblée générale. Un changement de niveau s’accompagne d’une hausse de salaire et d’une évolution des responsabilités.
 
 ## Le bonus d’ancienneté
 

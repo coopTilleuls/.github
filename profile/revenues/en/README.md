@@ -34,7 +34,9 @@ Salaries are paid on the 27th of each month. A salary advance can be requested.
 
 ## Moving up the scale
 
-On the anniversary of their contract, each person has an individual review with the HR team and can ask to move to another level. If the HR team agrees, the decision is shared with the whole team and takes effect if nobody objects before the next general meeting. If someone objects, or if the person and the HR team cannot agree, the request is presented and voted on at a general meeting. Moving up a level brings a pay rise and new responsibilities.
+Every year, all employees fill in a questionnaire. An individual review with the HR team can take place at the person’s request, or at the initiative of the positioning committee after reading the answers.
+
+To move to another level, the person submits a request with supporting evidence, including feedback from colleagues and, where possible, from clients, gathered against the criteria of the level they are aiming for. Requests are reviewed in batches by the positioning committee. It has nine members: one for the works council, one for the HR team, one for the co-management, five elected members, and one seat filled for each request by someone the person chooses (or, failing that, by the committee). The five members are elected from among volunteers with at least one year at the cooperative, for a three-year term that can be revoked, with gender parity as a goal. The person can appeal the decision at a general meeting. Moving up a level brings a pay rise and new responsibilities.
 
 ## Seniority bonus
 
@@ -123,7 +125,7 @@ Profit-sharing can be released as soon as the accounts are approved, usually in 
 - a €1,000 budget and 2 days a year to attend conferences;
 - people selected as speakers do not use this budget and can prepare their talk during working hours;
 - an in-house support program for new speakers;
-- contributing to open source during working hours, once approved by the general meeting;
+- contributing to free software during working hours, once approved by the general meeting;
 - a yearly individual review.
 
 ## Environmental responsibility

@@ -4,7 +4,7 @@
 
 ## Qui sommes-nous ?
 
-Les-Tilleuls.coop a été fondée en décembre 2011 à Lille par Kévin Dunglas, Joad Martin et François-Henri Vasseur. C’est une Société coopérative et participative (Scop) : l’entreprise est détenue entièrement par ses salarié·es, qui en sont les associé·es et prennent ensemble les décisions qui la concernent. Nous sommes aujourd’hui 80 et la coopérative est certifiée B Corp.
+Les-Tilleuls.coop a été fondée en décembre 2011 à Lille par Kévin Dunglas, Joad Martin et François-Henri Vasseur. C’est une Société coopérative et participative (Scop) : l’entreprise est détenue entièrement par ses salarié·es, qui en sont les associé·es et prennent ensemble les décisions qui la concernent. Nous sommes aujourd’hui 80 et la coopérative est certifiée [B Corp](https://www.bcorporation.net/en-us/find-a-b-corp/company/les-tilleuls-coop).
 
 Notre métier : concevoir, développer et maintenir des API, des applications web et des infrastructures cloud. Nous intervenons sur toute la durée de vie d’un projet, de l’audit et du conseil en architecture jusqu’à l’hébergement et l’astreinte, en passant par le développement.
 
@@ -39,9 +39,9 @@ Nous avons créé et maintenons plusieurs logiciels libres utilisés dans le mon
 
 La gouvernance de la coopérative est démocratique : chaque associé·e dispose d’une voix, quel que soit le nombre de parts qu’il ou elle détient. Toutes les personnes salariées ont vocation à devenir associées au plus tard un an après leur arrivée. L’entreprise dans laquelle nous travaillons est réellement la nôtre : chacun·e peut porter des projets, faire entendre sa voix et participer aux décisions. [Voir comment fonctionne notre Scop](https://github.com/coopTilleuls/.github/blob/main/profile/scop/scop.md).
 
-## L’équité
+## L’équité sociale
 
-Les salaires sont décidés collectivement et reposent sur une [grille publique](https://github.com/coopTilleuls/.github/blob/main/profile/titles/README.md). Chaque année, la majeure partie des bénéfices est répartie à parts égales entre toutes les personnes salariées, au prorata du temps de travail. Tous les détails sont sur la page [Revenus](https://github.com/coopTilleuls/.github/blob/main/profile/revenues/README.md).
+La richesse produite par notre travail revient à celles et ceux qui la produisent. Les salaires sont décidés collectivement et reposent sur une [grille publique](https://github.com/coopTilleuls/.github/blob/main/profile/titles/README.md). Chaque année, 84 % des bénéfices sont répartis à parts égales entre toutes les personnes salariées, au prorata du temps de travail, et le reste est mis en réserve pour la pérennité de la coopérative : aucun dividende n’est versé. Tous les détails sont sur la page [Revenus](https://github.com/coopTilleuls/.github/blob/main/profile/revenues/README.md).
 
 ## L’économie sociale et solidaire
 
