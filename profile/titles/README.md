@@ -40,6 +40,13 @@ Des compétences sont attendues à tous les niveaux sur des compétences non tec
   - respecte les pratiques de base de l’équipe
 - Environ 2 ans ou moins d’expérience en tant que développeur professionnel ; ce statut est considéré comme transitoire.
 
+**Missions-types** (à titre informatif)
+Prendre en charge un ticket simple
+Corriger un bug
+Implémenter une fonctionnalité simple (ex : CRUD, validation)
+Ajouter des tests unitaires sur une partie guidée du code
+
+
 ## Développeur
 
 - Les travaux sont revus avec des changements occasionnels liés à l’implémentation ou la direction générale du code.
@@ -51,6 +58,14 @@ Des compétences sont attendues à tous les niveaux sur des compétences non tec
   - Ne bloque pas l’équipe
   - Commence à faire des revues de code
 - Environ 2 à 5 ans d’expérience en tant que développeur professionnel, équivalent au niveau scolaire de Master (Bac + 5).
+
+**Missions-types** (à titre informatif)
+Ajouter une fonctionnalité simple de manière autonome
+Implémenter une API REST avec validation et documentation
+Réaliser une intégration front-end à partir d’un design figma
+Refactoring léger de code existant
+Participation aux revues de code de l’équipe
+
 
 ## Développeur senior
 
@@ -65,6 +80,14 @@ Des compétences sont attendues à tous les niveaux sur des compétences non tec
   - alerte si un risque apparaît
   - gère sa charge et prévient en avance en cas de dérive
 - Environ 5 à 8 ans d’expérience en tant que développeur professionnel.
+
+**Missions-types** (à titre informatif)
+Concevoir et développer une fonctionnalité complexe de bout en bout (du ticket au déploiement)
+Mettre en place des tests automatisés robustes
+Identifier et résoudre un problème de performance
+Support aux autres développeurs sur les sujets techniques avancés
+Participer à l’estimation et au cadrage technique d’un sprint
+
 
 ## Lead développeur
 
@@ -85,6 +108,7 @@ Des compétences sont attendues à tous les niveaux sur des compétences non tec
   - sait vulgariser les choix techniques
 - Il a généralement au moins 8 à 12 ans d’expérience en tant que programmeur professionnel.
 
+
 ## Développeur expert
 
 - Donne des formations en toute autonomie.
@@ -94,6 +118,7 @@ Des compétences sont attendues à tous les niveaux sur des compétences non tec
 - Capable de diriger et d’animer des équipes pour des projets importants.
 - Capable d’exécuter des projets dans plusieurs domaines (par exemple, une application native qui nécessite un backend API).
 - Environ 12 à 15 ans d’expérience en tant que programmeur professionnel.
+
 
 ## Développeur principal
 
@@ -107,3 +132,11 @@ Des compétences sont attendues à tous les niveaux sur des compétences non tec
 - Porte la responsabilité de la cohérence technique et culturelle.
 - Peut assurer le pilotage technique global de grands comptes ou de projets complexes.
 - Généralement au moins 15 ans d’expérience en tant que programmeur professionnel.
+
+**Missions-types** (à titre informatif)
+Rôle de CTO externe
+Gouvernance d’architecture pour un grand compte
+Avant-vente stratégique sur des offres avancées
+Coaching de plusieurs experts / leads
+R&D structurante
+
