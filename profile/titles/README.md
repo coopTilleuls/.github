@@ -41,10 +41,10 @@ Des compétences sont attendues à tous les niveaux sur des compétences non tec
 - Environ 2 ans ou moins d’expérience en tant que développeur professionnel ; ce statut est considéré comme transitoire.
 
 **Missions-types** (à titre informatif)
-Prendre en charge un ticket simple
-Corriger un bug
-Implémenter une fonctionnalité simple (ex : CRUD, validation)
-Ajouter des tests unitaires sur une partie guidée du code
+- Prendre en charge un ticket simple
+- Corriger un bug
+- Implémenter une fonctionnalité simple (ex : CRUD, validation)
+- Ajouter des tests unitaires sur une partie guidée du code
 
 
 ## Développeur
@@ -60,11 +60,11 @@ Ajouter des tests unitaires sur une partie guidée du code
 - Environ 2 à 5 ans d’expérience en tant que développeur professionnel, équivalent au niveau scolaire de Master (Bac + 5).
 
 **Missions-types** (à titre informatif)
-Ajouter une fonctionnalité simple de manière autonome
-Implémenter une API REST avec validation et documentation
-Réaliser une intégration front-end à partir d’un design figma
-Refactoring léger de code existant
-Participation aux revues de code de l’équipe
+- Ajouter une fonctionnalité simple de manière autonome
+- Implémenter une API REST avec validation et documentation
+- Réaliser une intégration front-end à partir d’un design figma
+- Refactoring léger de code existant
+- Participation aux revues de code de l’équipe
 
 
 ## Développeur senior
@@ -82,11 +82,11 @@ Participation aux revues de code de l’équipe
 - Environ 5 à 8 ans d’expérience en tant que développeur professionnel.
 
 **Missions-types** (à titre informatif)
-Concevoir et développer une fonctionnalité complexe de bout en bout (du ticket au déploiement)
-Mettre en place des tests automatisés robustes
-Identifier et résoudre un problème de performance
-Support aux autres développeurs sur les sujets techniques avancés
-Participer à l’estimation et au cadrage technique d’un sprint
+- Concevoir et développer une fonctionnalité complexe de bout en bout (du ticket au déploiement)
+- Mettre en place des tests automatisés robustes
+- Identifier et résoudre un problème de performance
+- Support aux autres développeurs sur les sujets techniques avancés
+- Participer à l’estimation et au cadrage technique d’un sprint
 
 
 ## Lead développeur
@@ -134,9 +134,9 @@ Participer à l’estimation et au cadrage technique d’un sprint
 - Généralement au moins 15 ans d’expérience en tant que programmeur professionnel.
 
 **Missions-types** (à titre informatif)
-Rôle de CTO externe
-Gouvernance d’architecture pour un grand compte
-Avant-vente stratégique sur des offres avancées
-Coaching de plusieurs experts / leads
-R&D structurante
+- Rôle de CTO externe
+- Gouvernance d’architecture pour un grand compte
+- Avant-vente stratégique sur des offres avancées
+- Coaching de plusieurs experts / leads
+- R&D structurante
 
