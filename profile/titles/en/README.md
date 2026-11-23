@@ -37,6 +37,12 @@ These skills are expected at every level.
 - Builds reliable professional habits with support: flags difficulties early, gives regular progress updates (daily, chat, tickets) and follows the team’s basic practices.
 - Usually less than 2 years of experience as a professional developer. This level is considered transitional.
 
+**Typical assignments** (for information only)
+- Pick up a simple ticket
+- Fix a bug
+- Implement a simple feature (e.g. CRUD, validation)
+- Add unit tests on a guided part of the code
+
 ## Programmer
 
 - Work is reviewed, with occasional changes to the implementation or the overall direction of the code.
@@ -45,6 +51,13 @@ These skills are expected at every level.
 - Starts suggesting improvements to existing code.
 - Is reliable on simple tasks and communicates well within the team: can estimate simple tasks, does not block the team and starts taking part in code reviews.
 - Usually 2 to 5 years of experience as a professional developer, or a master’s degree.
+
+**Typical assignments** (for information only)
+- Add a simple feature independently
+- Implement a REST API with validation and documentation
+- Build a front-end integration from a Figma design
+- Light refactoring of existing code
+- Take part in the team’s code reviews
 
 ## Senior Programmer
 
@@ -55,6 +68,13 @@ These skills are expected at every level.
 - Can represent the cooperative in front of a customer’s technical stakeholders.
 - Is reliable on a whole functional scope and has a positive influence on the team: restates requirements, raises the alert as soon as a risk appears, manages their own workload and warns early if it slips.
 - Usually 5 to 8 years of experience as a professional developer.
+
+**Typical assignments** (for information only)
+- Design and build a complex feature end to end (from ticket to deployment)
+- Set up robust automated tests
+- Identify and solve a performance problem
+- Support other developers on advanced technical topics
+- Take part in estimating and technically scoping a sprint
 
 ## Lead Programmer
 
@@ -92,5 +112,12 @@ These skills are expected at every level.
 - Is accountable for technical and cultural consistency.
 - Can lead the technical side of key accounts or complex projects.
 - Usually at least 15 years of experience as a professional developer.
+
+**Typical assignments** (for information only)
+- External CTO role
+- Architecture governance for a key account
+- Strategic pre-sales on advanced offers
+- Coaching several experts / leads
+- Foundational R&D
 
 ⬅️ [Back to home](https://github.com/coopTilleuls/.github/blob/main/profile/README.md)

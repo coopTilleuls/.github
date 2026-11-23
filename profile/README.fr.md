@@ -53,6 +53,6 @@ Plus de documentation nous concernant :
 
 - 🌳 Les-Tilleuls.coop : [les-tilleuls.coop](https://les-tilleuls.coop) · [contact@les-tilleuls.coop](mailto:contact@les-tilleuls.coop)
 - 🌱 Tilia : [tilia.coop](https://tilia.coop/fr/) · [formulaire de contact](https://tilia.coop/contact/)
-- [Mastodon](https://mastodon.online/@cooptilleuls) · [Bluesky](https://bsky.app/profile/les-tilleuls.coop) · [LinkedIn](https://www.linkedin.com/company/les-tilleuls-coop/) · [X](https://x.com/coopTilleuls)
+- [Mastodon](https://mastodon.online/@cooptilleuls) · [Bluesky](https://bsky.app/profile/les-tilleuls.coop) · [LinkedIn](https://www.linkedin.com/company/les-tilleuls-coop/) · [YouTube](https://www.youtube.com/@coopTilleuls) · [X](https://x.com/coopTilleuls)
 
 💡 Inspiration Ce handbook s’inspire du travail de [Basecamp](https://github.com/basecamp/handbook), [24eme](https://github.com/24eme), [Loomio](https://www.loomio.coop/) et [GitLab](https://handbook.gitlab.com/).

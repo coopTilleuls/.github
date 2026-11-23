@@ -53,6 +53,6 @@ This repository is also our public handbook:
 
 - 🌳 Les-Tilleuls.coop: [les-tilleuls.coop](https://les-tilleuls.coop/en/homepage) · [contact@les-tilleuls.coop](mailto:contact@les-tilleuls.coop)
 - 🌱 Tilia: [tilia.coop](https://tilia.coop) · [contact form](https://tilia.coop/contact/)
-- [Mastodon](https://mastodon.online/@cooptilleuls) · [Bluesky](https://bsky.app/profile/les-tilleuls.coop) · [LinkedIn](https://www.linkedin.com/company/les-tilleuls-coop/) · [X](https://x.com/coopTilleuls)
+- [Mastodon](https://mastodon.online/@cooptilleuls) · [Bluesky](https://bsky.app/profile/les-tilleuls.coop) · [LinkedIn](https://www.linkedin.com/company/les-tilleuls-coop/) · [YouTube](https://www.youtube.com/@coopTilleuls) · [X](https://x.com/coopTilleuls)
 
 💡 Inspiration: this handbook draws on the work of [Basecamp](https://github.com/basecamp/handbook), [24eme](https://github.com/24eme), [Loomio](https://www.loomio.coop/) and [GitLab](https://handbook.gitlab.com/).
