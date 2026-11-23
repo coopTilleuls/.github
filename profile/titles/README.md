@@ -37,6 +37,12 @@ Ces compétences sont attendues à tous les échelons.
 - Construit, avec un accompagnement, un comportement professionnel fiable : prévient en cas de difficulté, donne régulièrement des nouvelles de son avancement (daily, messagerie, tickets) et respecte les pratiques de base de l’équipe.
 - En général moins de 2 ans d’expérience en tant que développeur·se professionnel·le. Cet échelon est considéré comme transitoire.
 
+**Missions-types** (à titre informatif)
+- Prendre en charge un ticket simple
+- Corriger un bug
+- Implémenter une fonctionnalité simple (ex : CRUD, validation)
+- Ajouter des tests unitaires sur une partie guidée du code
+
 ## Programmer
 
 - Le travail est relu, avec des changements occasionnels sur l’implémentation ou la direction générale du code.
@@ -45,6 +51,13 @@ Ces compétences sont attendues à tous les échelons.
 - Commence à proposer des améliorations du code existant.
 - Est fiable sur des tâches simples et communique correctement dans l’équipe : sait estimer des tâches simples, ne bloque pas l’équipe et commence à faire des revues de code.
 - En général 2 à 5 ans d’expérience en tant que développeur·se professionnel·le, ou un diplôme de niveau master (bac + 5).
+
+**Missions-types** (à titre informatif)
+- Ajouter une fonctionnalité simple de manière autonome
+- Implémenter une API REST avec validation et documentation
+- Réaliser une intégration front-end à partir d’un design figma
+- Refactoring léger de code existant
+- Participation aux revues de code de l’équipe
 
 ## Senior Programmer
 
@@ -55,6 +68,13 @@ Ces compétences sont attendues à tous les échelons.
 - Peut représenter la coopérative auprès des interlocuteurs techniques d’un client.
 - Est fiable sur un périmètre fonctionnel et joue un rôle positif dans l’équipe : reformule les besoins, alerte dès qu’un risque apparaît, gère sa charge et prévient en avance en cas de dérive.
 - En général 5 à 8 ans d’expérience en tant que développeur·se professionnel·le.
+
+**Missions-types** (à titre informatif)
+- Concevoir et développer une fonctionnalité complexe de bout en bout (du ticket au déploiement)
+- Mettre en place des tests automatisés robustes
+- Identifier et résoudre un problème de performance
+- Support aux autres développeurs sur les sujets techniques avancés
+- Participer à l’estimation et au cadrage technique d’un sprint
 
 ## Lead Programmer
 
@@ -92,5 +112,12 @@ Ces compétences sont attendues à tous les échelons.
 - Est garant·e de la cohérence technique et culturelle.
 - Peut assurer le pilotage technique de grands comptes ou de projets complexes.
 - En général au moins 15 ans d’expérience en tant que développeur·se professionnel·le.
+
+**Missions-types** (à titre informatif)
+- Rôle de CTO externe
+- Gouvernance d’architecture pour un grand compte
+- Avant-vente stratégique sur des offres avancées
+- Coaching de plusieurs experts / leads
+- R&D structurante
 
 ⬅️ [Retour à l’accueil](https://github.com/coopTilleuls/.github/blob/main/profile/README.fr.md)
