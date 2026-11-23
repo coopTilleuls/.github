@@ -1,13 +1,14 @@
-# Welcome to Les-Tilleuls.coop!
+**English** · [Français](https://github.com/coopTilleuls/.github/blob/main/profile/onboarding/README.md)
 
-![Welcome](../img/welcome.gif)
+# 🚞 Welcome to Les-Tilleuls.coop!
 
-You just have joined our tech and social project, we are delighted to welcome you aboard!
+![Welcome](https://raw.githubusercontent.com/coopTilleuls/.github/main/profile/onboarding/img/welcome.gif)
 
-This part describes what is going to happen on your first days at Les-Tilleuls.coop and all the first things you need to know.
+This section helps you through your first steps in the cooperative: what happens before and when you arrive, and the tools we use every day.
 
-Enjoy!
----
+- [👣 First steps](https://github.com/coopTilleuls/.github/blob/main/profile/onboarding/en/todo.md)
+- [🗂 Our tools](https://github.com/coopTilleuls/.github/blob/main/profile/onboarding/en/tools.md)
 
-- [👣️ First steps and apps settings](todo.md)
-- [💻️ Installation and configurations](installation.md)
+Welcome, and enjoy the read!
+
+⬅️ [Back to home](https://github.com/coopTilleuls/.github/blob/main/profile/README.md)
